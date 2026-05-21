@@ -1,0 +1,1038 @@
+state,maxpreps_city,maxpreps_slug,maxpreps_name,maxpreps_nickname,massey_name,conference,p_source,years_found,weight_sum,raw_p,prestige_final
+oh,west-chester,lakota-west-firebirds,Lakota West,Firebirds,,Division I,maxpreps,0,,0.6531,83
+oh,hilliard,hilliard-bradley-jaguars,Hilliard Bradley,Jaguars,,Division I,maxpreps,0,,0.5197,71
+oh,cincinnati,princeton-vikings,Princeton,Vikings,,Division I,maxpreps,0,,0.6182,80
+oh,newark,newark-wildcats,Newark,Wildcats,,Division I,maxpreps,0,,0.5358,73
+oh,lewis-center,olentangy-braves,Olentangy,Braves,,Division I,maxpreps,0,,0.5915,78
+oh,brunswick,brunswick-blue-devils,Brunswick,Blue Devils,,Division I,maxpreps,0,,0.5579,75
+oh,lakewood,st-edward-eagles,St. Edward,Eagles,,Division I,maxpreps,0,,0.6903,87
+oh,huber-heights,wayne-warriors,Wayne,Warriors,,Division I,maxpreps,0,,0.4827,68
+oh,canton,mckinley-bulldogs,McKinley,Bulldogs,,Division I,maxpreps,0,,0.4443,65
+oh,cincinnati,archbishop-moeller-fighting-crusaders,Archbishop Moeller,Fighting Crusaders,,Division I,maxpreps,0,,0.6426,82
+oh,dublin,dublin-coffman-rocks,Dublin Coffman,Rocks,,Division I,maxpreps,0,,0.4621,66
+oh,elyria,elyria-pioneers,Elyria,Pioneers,,Division I,maxpreps,0,,0.4502,65
+oh,centerville,centerville-elks,Centerville,Elks,,Division I,maxpreps,0,,0.6539,83
+oh,reynoldsburg,reynoldsburg-raiders,Reynoldsburg,Raiders,,Division I,maxpreps,0,,0.5204,72
+oh,cincinnati,st-xavier-bombers,St. Xavier,Bombers,,Division I,maxpreps,0,,0.5244,72
+oh,perrysburg,perrysburg-yellow-jackets,Perrysburg,Yellow Jackets,,Division I,maxpreps,0,,0.4643,67
+oh,cincinnati,oak-hills-highlanders,Oak Hills,Highlanders,,Division I,maxpreps,0,,0.6747,85
+oh,gahanna,lincoln-lions,Lincoln,Lions,,Division I,maxpreps,0,,0.4620,66
+oh,delaware,olentangy-berlin-bears,Olentangy Berlin,Bears,,Division I,maxpreps,0,,0.3818,59
+oh,columbus,upper-arlington-golden-bears,Upper Arlington,Golden Bears,,Division I,maxpreps,0,,0.5902,78
+oh,galloway,westland-cougars,Westland,Cougars,,Division I,maxpreps,0,,0.4631,66
+oh,cleveland,st-ignatius-wildcats,St. Ignatius,Wildcats,,Division I,maxpreps,0,,0.7730,94
+oh,pickerington,pickerington-central-tigers,Pickerington Central,Tigers,,Division I,maxpreps,0,,0.5691,76
+oh,cincinnati,walnut-hills-eagles,Walnut Hills,Eagles,,Division I,maxpreps,0,,0.4140,62
+oh,mason,mason-comets,Mason,Comets,,Division I,maxpreps,0,,0.4831,68
+oh,massillon,washington-tigers,Washington,Tigers,,Division II,maxpreps,0,,0.6185,80
+oh,westerville,westerville-north-warriors,Westerville North,Warriors,,Division II,maxpreps,0,,0.6360,82
+oh,broadview-heights,brecksville-broadview-heights-bees,Brecksville-Broadview Heights,Bees,,Division II,maxpreps,0,,0.5924,78
+oh,cincinnati,winton-woods-warriors,Winton Woods,Warriors,,Division II,maxpreps,0,,0.5764,77
+oh,lima,lima-senior-spartans,Lima Senior,Spartans,,Division II,maxpreps,0,,0.5787,77
+oh,north-royalton,north-royalton-bears,North Royalton,Bears,,Division II,maxpreps,0,,0.6976,87
+oh,pataskala,licking-heights-hornets,Licking Heights,Hornets,,Division II,maxpreps,0,,0.4271,63
+oh,toledo,st-johns-jesuit-titans,St. John's Jesuit,Titans,,Division II,maxpreps,0,,0.5735,76
+oh,avon,avon-eagles,Avon,Eagles,,Division II,maxpreps,0,,0.4667,67
+oh,medina,highland-hornets,Highland,Hornets,,Division II,maxpreps,0,,0.5209,72
+oh,youngstown,austintown-fitch-falcons,Austintown-Fitch,Falcons,,Division II,maxpreps,0,,0.3913,60
+oh,columbus,northland-vikings,Northland,Vikings,,Division II,maxpreps,0,,0.4569,66
+oh,hudson,hudson-explorers,Hudson,Explorers,,Division II,maxpreps,0,,0.4784,68
+oh,north-canton,hoover-vikings,Hoover,Vikings,,Division II,maxpreps,0,,0.4425,65
+oh,olmsted-falls,olmsted-falls-bulldogs,Olmsted Falls,Bulldogs,,Division II,maxpreps,0,,0.5289,72
+oh,euclid,euclid-panthers,Euclid,Panthers,,Division II,maxpreps,0,,0.5744,76
+oh,trenton,edgewood-cougars,Edgewood,Cougars,,Division II,maxpreps,0,,0.3775,59
+oh,new-albany,new-albany-eagles,New Albany,Eagles,,Division II,maxpreps,0,,0.4811,68
+oh,clayton,northmont-thunderbolts,Northmont,Thunderbolts,,Division II,maxpreps,0,,0.4109,62
+oh,painesville,riverside-beavers,Riverside,Beavers,,Division II,maxpreps,0,,0.4336,64
+oh,whitehouse,anthony-wayne-generals,Anthony Wayne,Generals,,Division II,maxpreps,0,,0.4211,63
+oh,lakewood,lakewood-rangers,Lakewood,Rangers,,Division II,maxpreps,0,,0.4153,62
+oh,sylvania,northview-wildcats,Northview,Wildcats,,Division II,maxpreps,0,,0.3365,55
+oh,mayfield,mayfield-kansas,Mayfield,Kansas,,Division II,maxpreps,0,,0.3374,55
+oh,sunbury,big-walnut-golden-eagles,Big Walnut,Golden Eagles,,Division II,maxpreps,0,,0.4476,65
+oh,steubenville,steubenville-big-red,Steubenville,Big Red,,Division III,maxpreps,0,,0.6236,81
+oh,hamilton,badin-rams,Badin,Rams,,Division III,maxpreps,0,,0.6696,85
+oh,alliance,alliance-aviators,Alliance,Aviators,,Division III,maxpreps,0,,0.4872,69
+oh,toledo,central-catholic-irish,Central Catholic,Irish,,Division III,maxpreps,0,,0.6527,83
+oh,trotwood,trotwood-madison-rams,Trotwood-Madison,Rams,,Division III,maxpreps,0,,0.5258,72
+oh,youngstown,chaney-cowboys,Chaney,Cowboys,,Division III,maxpreps,0,,0.5032,70
+oh,goshen,goshen-warriors,Goshen,Warriors,,Division III,maxpreps,0,,0.4549,66
+oh,chagrin-falls,kenston-bombers,Kenston,Bombers,,Division III,maxpreps,0,,0.4698,67
+oh,jackson,jackson-ironman-ironladies,Jackson,Ironman Ironladies,,Division III,maxpreps,0,,0.4084,62
+oh,columbus,centennial-stars,Centennial,Stars,,Division III,maxpreps,0,,0.4124,62
+oh,akron,garfield-community-learning-center-golden-rams,Garfield Community Learning Center,Golden Rams,,Division III,maxpreps,0,,0.5145,71
+oh,washington-court-house,miami-trace-panthers,Miami Trace,Panthers,,Division III,maxpreps,0,,0.6027,79
+oh,marietta,marietta-tigers,Marietta,Tigers,,Division III,maxpreps,0,,0.5427,74
+oh,cuyahoga-falls,cuyahoga-valley-christian-academy-royals,Cuyahoga Valley Christian Academy,Royals,,Division III,maxpreps,0,,0.4793,68
+oh,monroe,monroe-hornets,Monroe,Hornets,,Division III,maxpreps,0,,0.4603,66
+oh,columbus,south-bulldogs,South,Bulldogs,,Division III,maxpreps,0,,0.3138,53
+oh,columbus,bishop-hartley-hawks,Bishop Hartley,Hawks,,Division III,maxpreps,0,,0.5720,76
+oh,columbus,bishop-watterson-eagles,Bishop Watterson,Eagles,,Division III,maxpreps,0,,0.5684,76
+oh,tipp-city,tippecanoe-red-devils,Tippecanoe,Red Devils,,Division III,maxpreps,0,,0.3946,60
+oh,cincinnati,hughes-big-red,Hughes,Big Red,,Division III,maxpreps,0,,0.5144,71
+oh,gates-mills,hawken-hawks,Hawken,Hawks,,Division III,maxpreps,0,,0.6047,79
+oh,lima,shawnee-indians,Shawnee,Indians,,Division III,maxpreps,0,,0.4655,67
+oh,youngstown,ursuline-fighting-irish,Ursuline,Fighting Irish,,Division III,maxpreps,0,,0.5504,74
+oh,batavia,batavia-bulldogs,Batavia,Bulldogs,,Division III,maxpreps,0,,0.4005,61
+oh,cincinnati,la-salle-lancers,La Salle,Lancers,,Division III,maxpreps,0,,0.5150,71
+oh,cincinnati,wyoming-cowboys,Wyoming,Cowboys,,Division IV,maxpreps,0,,0.5321,73
+oh,zanesville,maysville-panthers,Maysville,Panthers,,Division IV,maxpreps,0,,0.5534,75
+oh,dayton,northridge-polar-bears,Northridge,Polar Bears,,Division IV,maxpreps,0,,0.5876,78
+oh,new-concord,john-glenn-muskies,John Glenn,Muskies,,Division IV,maxpreps,0,,0.5942,78
+oh,sandusky,perkins-pirates,Perkins,Pirates,,Division IV,maxpreps,0,,0.5363,73
+oh,circleville,circleville-tigers,Circleville,Tigers,,Division IV,maxpreps,0,,0.4907,69
+oh,norton,norton-panthers,Norton,Panthers,,Division IV,maxpreps,0,,0.3854,59
+oh,cambridge,cambridge-bobcats,Cambridge,Bobcats,,Division IV,maxpreps,0,,0.5243,72
+oh,canfield,canfield-cardinals,Canfield,Cardinals,,Division IV,maxpreps,0,,0.4871,69
+oh,urbana,urbana-hillclimbers,Urbana,Hillclimbers,,Division IV,maxpreps,0,,0.4791,68
+oh,chillicothe,unioto-shermans,Unioto,Shermans,,Division IV,maxpreps,0,,0.5398,73
+oh,dayton,dunbar-wolverines,Dunbar,Wolverines,,Division IV,maxpreps,0,,0.4743,67
+oh,plain-city,jonathan-alder-pioneers,Jonathan Alder,Pioneers,,Division IV,maxpreps,0,,0.5868,77
+oh,caledonia,river-valley-vikings,River Valley,Vikings,,Division IV,maxpreps,0,,0.3808,59
+oh,heath,heath-bulldogs,Heath,Bulldogs,,Division IV,maxpreps,0,,0.4304,64
+oh,johnstown,johnstown-monroe-johnnies,Johnstown-Monroe,Johnnies,,Division IV,maxpreps,0,,0.4359,64
+oh,millbury,lake-flyers,Lake,Flyers,,Division IV,maxpreps,0,,0.2868,51
+oh,sheffield,brookside-cardinals,Brookside,Cardinals,,Division IV,maxpreps,0,,0.3743,58
+oh,orrville,orrville-red-riders,Orrville,Red Riders,,Division IV,maxpreps,0,,0.3623,57
+oh,van-wert,van-wert-cougars,Van Wert,Cougars,,Division IV,maxpreps,0,,0.4565,66
+oh,dayton,archbishop-alter-knights,Archbishop Alter,Knights,,Division IV,maxpreps,0,,0.6288,81
+oh,cincinnati,taft-senators,Taft,Senators,,Division IV,maxpreps,0,,0.5213,72
+oh,lisbon,beaver-local-beavers,Beaver Local,Beavers,,Division IV,maxpreps,0,,0.3863,60
+oh,tontogany,otsego-knights,Otsego,Knights,,Division IV,maxpreps,0,,0.4137,62
+oh,cleveland,cleveland-central-catholic-ironmen,Cleveland Central Catholic,Ironmen,,Division IV,maxpreps,0,,0.4713,67
+oh,genoa,genoa-area-comets,Genoa Area,Comets,,Division V,maxpreps,0,,0.5364,73
+oh,williamsburg,williamsburg-wildcats,Williamsburg,Wildcats,,Division V,maxpreps,0,,0.4114,62
+oh,fredericktown,fredericktown-freddies,Fredericktown,Freddies,,Division V,maxpreps,0,,0.4037,61
+oh,cleveland-heights,lutheran-east-falcons,Lutheran East,Falcons,,Division V,maxpreps,0,,0.7825,95
+oh,waynesville,waynesville-spartans,Waynesville,Spartans,,Division V,maxpreps,0,,0.5069,70
+oh,ironton,ironton-fighting-tigers,Ironton,Fighting Tigers,,Division V,maxpreps,0,,0.4640,67
+oh,milford-center,fairbanks-panthers,Fairbanks,Panthers,,Division V,maxpreps,0,,0.4864,69
+oh,castalia,margaretta-polar-bears,Margaretta,Polar Bears,,Division V,maxpreps,0,,0.4362,64
+oh,sardinia,eastern-warriors,Eastern,Warriors,,Division V,maxpreps,0,,0.4608,66
+oh,cincinnati,north-college-hill-trojans,North College Hill,Trojans,,Division V,maxpreps,0,,0.3888,60
+oh,west-liberty,west-liberty-salem-tigers,West Liberty-Salem,Tigers,,Division V,maxpreps,0,,0.3547,57
+oh,chesapeake,chesapeake-panthers,Chesapeake,Panthers,,Division V,maxpreps,0,,0.5504,74
+oh,gahanna,columbus-academy-vikings,Columbus Academy,Vikings,,Division V,maxpreps,0,,0.5356,73
+oh,chagrin-falls,chagrin-falls-tigers,Chagrin Falls,Tigers,,Division V,maxpreps,0,,0.4275,63
+oh,columbus,africentric-early-college-nubians,Africentric Early College,Nubians,,Division V,maxpreps,0,,0.4928,69
+oh,camden,preble-shawnee-arrows,Preble Shawnee,Arrows,,Division V,maxpreps,0,,0.3110,53
+oh,paulding,paulding-panthers,Paulding,Panthers,,Division V,maxpreps,0,,0.4258,63
+oh,zanesville,west-muskingum-tornadoes,West Muskingum,Tornadoes,,Division V,maxpreps,0,,0.3837,59
+oh,ravenna,southeast-pirates,Southeast,Pirates,,Division V,maxpreps,0,,0.2344,46
+oh,wellston,wellston-golden-rockets,Wellston,Golden Rockets,,Division V,maxpreps,0,,0.3075,53
+oh,willard,willard-crimson-flashes,Willard,Crimson Flashes,,Division V,maxpreps,0,,0.3597,57
+oh,akron,manchester-panthers,Manchester,Panthers,,Division V,maxpreps,0,,0.3754,59
+oh,arcanum,arcanum-trojans,Arcanum,Trojans,,Division V,maxpreps,0,,0.3544,57
+oh,chillicothe,zane-trace-pioneers,Zane Trace,Pioneers,,Division V,maxpreps,0,,0.4445,65
+oh,la-grange,keystone-wildcats,Keystone,Wildcats,,Division V,maxpreps,0,,0.4118,62
+oh,new-madison,tri-village-patriots,Tri-Village,Patriots,,Division VI,maxpreps,0,,0.5785,77
+oh,maria-stein,marion-local-flyers,Marion Local,Flyers,,Division VI,maxpreps,0,,0.5827,77
+oh,springfield,emmanuel-christian-academy-lions,Emmanuel Christian Academy,Lions,,Division VI,maxpreps,0,,0.3180,53
+oh,berlin,hiland-hawks,Hiland,Hawks,,Division VI,maxpreps,0,,0.4281,63
+oh,north-robinson,colonel-crawford-eagles,Colonel Crawford,Eagles,,Division VI,maxpreps,0,,0.4618,66
+oh,kirtland,kirtland-hornets,Kirtland,Hornets,,Division VI,maxpreps,0,,0.4764,68
+oh,gibsonburg,gibsonburg-golden-bears,Gibsonburg,Golden Bears,,Division VI,maxpreps,0,,0.3507,56
+oh,van-buren,van-buren-black-knights,Van Buren,Black Knights,,Division VI,maxpreps,0,,0.4064,61
+oh,lore-city,buckeye-trail-warriors,Buckeye Trail,Warriors,,Division VI,maxpreps,0,,0.3895,60
+oh,peebles,peebles-indians,Peebles,Indians,,Division VI,maxpreps,0,,0.3670,58
+oh,toronto,toronto-red-knights,Toronto,Red Knights,,Division VI,maxpreps,0,,0.3642,58
+oh,orwell,grand-valley-mustangs,Grand Valley,Mustangs,,Division VI,maxpreps,0,,0.3278,54
+oh,van-wert,lincolnview-lancers,Lincolnview,Lancers,,Division VI,maxpreps,0,,0.4540,66
+oh,woodsfield,monroe-central-seminoles,Monroe Central,Seminoles,,Division VI,maxpreps,0,,0.5806,77
+oh,columbus,grandview-heights-bobcats,Grandview Heights,Bobcats,,Division VI,maxpreps,0,,0.2915,51
+oh,hamler,patrick-henry-patriots,Patrick Henry,Patriots,,Division VI,maxpreps,0,,0.4249,63
+oh,troy,troy-christian-eagles,Troy Christian,Eagles,,Division VI,maxpreps,0,,0.2897,51
+oh,smithville,smithville-smithies,Smithville,Smithies,,Division VI,maxpreps,0,,0.3703,58
+oh,columbus,tree-of-life-christian-trojans,Tree of Life Christian,Trojans,,Division VI,maxpreps,0,,0.2754,50
+oh,hartville,lake-center-christian-tiger,Lake Center Christian,Tiger,,Division VI,maxpreps,0,,0.3491,56
+oh,west-portsmouth,portsmouth-west-senators,Portsmouth West,Senators,,Division VI,maxpreps,0,,0.4458,65
+oh,attica,seneca-east-tigers,Seneca East,Tigers,,Division VI,maxpreps,0,,0.3046,52
+oh,st-henry,st-henry-redskins,St. Henry,Redskins,,Division VI,maxpreps,0,,0.4582,66
+oh,lucasville,valley-indians,Valley,Indians,,Division VI,maxpreps,0,,0.3849,59
+oh,columbus-grove,columbus-grove-bulldogs,Columbus Grove,Bulldogs,,Division VI,maxpreps,0,,0.4717,67
+oh,delphos,st-johns-bluejays,St. John's,Bluejays,,Division VII,maxpreps,0,,0.5547,75
+oh,plain-city,shekinah-christian-flames,Shekinah Christian,Flames,,Division VII,maxpreps,0,,0.3576,57
+oh,mcdonald,mcdonald-blue-devils,McDonald,Blue Devils,,Division VII,maxpreps,0,,0.2981,52
+oh,montpelier,montpelier-locomotives,Montpelier,Locomotives,,Division VII,maxpreps,0,,0.4258,63
+oh,racine,southern-tornadoes,Southern,Tornadoes,,Division VII,maxpreps,0,,0.3396,55
+oh,fairport-harbor,harding-skippers,Harding,Skippers,,Division VII,maxpreps,0,,0.3061,52
+oh,botkins,botkins-trojans,Botkins,Trojans,,Division VII,maxpreps,0,,0.4736,67
+oh,arlington,arlington-red-devils,Arlington,Red Devils,,Division VII,maxpreps,0,,0.5291,72
+oh,danville,danville-blue-devils,Danville,Blue Devils,,Division VII,maxpreps,0,,0.2818,50
+oh,cedarville,cedarville-indians,Cedarville,Indians,,Division VII,maxpreps,0,,0.3255,54
+oh,columbiana,heartland-christian-lions,Heartland Christian,Lions,,Division VII,maxpreps,0,,0.3597,57
+oh,sandusky,st-mary-central-catholic-panthers,St. Mary Central Catholic,Panthers,,Division VII,maxpreps,0,,0.2689,49
+oh,cincinnati,miami-valley-christian-academy-lions,Miami Valley Christian Academy,Lions,,Division VII,maxpreps,0,,0.4273,63
+oh,sidney,lehman-catholic-cavaliers,Lehman Catholic,Cavaliers,,Division VII,maxpreps,0,,0.4238,63
+oh,miller-city,miller-city-wildcats,Miller City,Wildcats,,Division VII,maxpreps,0,,0.4238,63
+oh,portsmouth,notre-dame-titans,Notre Dame,Titans,,Division VII,maxpreps,0,,0.3384,55
+oh,fayetteville,fayetteville-perry-rockets,Fayetteville-Perry,Rockets,,Division VII,maxpreps,0,,0.3452,56
+oh,monroeville,monroeville-eagles,Monroeville,Eagles,,Division VII,maxpreps,0,,0.3004,52
+oh,zanesville,bishop-rosecrans-bishops,Bishop Rosecrans,Bishops,,Division VII,maxpreps,0,,0.2707,49
+oh,leesburg,fairfield-lions,Fairfield,Lions,,Division VII,maxpreps,0,,0.3914,60
+oh,jeromesville,hillsdale-falcons,Hillsdale,Falcons,,Division VII,maxpreps,0,,0.4057,61
+oh,westerville,genoa-christian-academy-lions,Genoa Christian Academy,Lions,,Division VII,maxpreps,0,,0.2845,50
+oh,minster,minster-wildcats,Minster,Wildcats,,Division VII,maxpreps,0,,0.5024,70
+oh,tiffin,calvert-senecas,Calvert,Senecas,,Division VII,maxpreps,0,,0.3409,55
+oh,kidron,central-christian-comets,Central Christian,Comets,,Division VII,maxpreps,0,,0.2403,46
+oh,akron,garfield-community-learning-center-golden-rams,Garfield Community Learning Center,Golden Rams,,Akron City,maxpreps,0,,0.5145,71
+oh,akron,ellet-orangement,Ellet,Orangement,,Akron City,maxpreps,0,,0.3858,60
+oh,akron,buchtel-griffins,Buchtel,Griffins,,Akron City,maxpreps,0,,0.4254,63
+oh,akron,firestone-falcons,Firestone,Falcons,,Akron City,maxpreps,0,,0.1696,40
+oh,akron,east-dragons,East,Dragons,,Akron City,maxpreps,0,,0.1611,39
+oh,akron,north-vikings,North,Vikings,,Akron City,maxpreps,0,,0.1664,40
+oh,canfield,canfield-cardinals,Canfield,Cardinals,,All-American,maxpreps,0,,0.4871,69
+oh,youngstown,austintown-fitch-falcons,Austintown-Fitch,Falcons,,All-American,maxpreps,0,,0.3913,60
+oh,warren,howland-tigers,Howland,Tigers,,All-American,maxpreps,0,,0.3753,59
+oh,warren,harding-raiders,Harding,Raiders,,All-American,maxpreps,0,,0.4311,64
+oh,youngstown,boardman-spartans,Boardman,Spartans,,All-American,maxpreps,0,,0.3178,53
+oh,van-buren,van-buren-black-knights,Van Buren,Black Knights,,Blanchard Valley,maxpreps,0,,0.4064,61
+oh,arlington,arlington-red-devils,Arlington,Red Devils,,Blanchard Valley,maxpreps,0,,0.5291,72
+oh,findlay,liberty-benton-eagles,Liberty-Benton,Eagles,,Blanchard Valley,maxpreps,0,,0.3794,59
+oh,arcadia,arcadia-redskins,Arcadia,Redskins,,Blanchard Valley,maxpreps,0,,0.2343,46
+oh,ada,ada-bulldogs,Ada,Bulldogs,,Blanchard Valley,maxpreps,0,,0.3163,53
+oh,mt-blanchard,riverdale-falcons,Riverdale,Falcons,,Blanchard Valley,maxpreps,0,,0.2466,47
+oh,bloomdale,elmwood-royals,Elmwood,Royals,,Blanchard Valley,maxpreps,0,,0.1128,35
+oh,mccomb,mccomb-panthers,McComb,Panthers,,Blanchard Valley,maxpreps,0,,0.0559,30
+oh,leipsic,leipsic-vikings,Leipsic,Vikings,,Blanchard Valley,maxpreps,0,,0.3137,53
+oh,vanlue,vanlue-wildcats,Vanlue,Wildcats,,Blanchard Valley,od_fallback,0,,0.1264,36
+oh,lisbon,beaver-local-beavers,Beaver Local,Beavers,,Buckeye 8,maxpreps,0,,0.3863,60
+oh,st-clairsville,st-clairsville-red-devils,St. Clairsville,Red Devils,,Buckeye 8,maxpreps,0,,0.4554,66
+oh,martins-ferry,martins-ferry-purple-riders,Martins Ferry,Purple Riders,,Buckeye 8,maxpreps,0,,0.3959,60
+oh,east-liverpool,east-liverpool-potters,East Liverpool,Potters,,Buckeye 8,maxpreps,0,,0.3354,55
+oh,richmond,edison-wildcats,Edison,Wildcats,,Buckeye 8,maxpreps,0,,0.1213,36
+oh,belmont,union-local-jets,Union Local,Jets,,Buckeye 8,maxpreps,0,,0.3177,53
+oh,rayland,buckeye-local-panthers,Buckeye Local,Panthers,,Buckeye 8,od_fallback,0,,0.2150,44
+oh,wintersville,indian-creek-redskins,Indian Creek,Redskins,,Buckeye 8,maxpreps,0,,0.1594,39
+oh,cadiz,harrison-central-huskies,Harrison Central,Huskies,,Buckeye 8,maxpreps,0,,0.1645,40
+oh,bellaire,bellaire-big-reds,Bellaire,Big Reds,,Buckeye 8,maxpreps,0,,0.3052,52
+oh,montpelier,montpelier-locomotives,Montpelier,Locomotives,,Buckeye Border,maxpreps,0,,0.4258,63
+oh,pettisville,pettisville-blackbirds,Pettisville,Blackbirds,,Buckeye Border,maxpreps,0,,0.3744,58
+oh,edon,edon-bombers,Edon,Bombers,,Buckeye Border,maxpreps,0,,0.2853,51
+oh,stryker,stryker-panthers,Stryker,Panthers,,Buckeye Border,maxpreps,0,,0.2285,45
+oh,pioneer,north-central-eagles,North Central,Eagles,,Buckeye Border,maxpreps,0,,0.1679,40
+oh,holgate,holgate-tigers,Holgate,Tigers,,Buckeye Border,maxpreps,0,,0.1010,34
+oh,west-unity,hilltop-cadets,Hilltop,Cadets,,Buckeye Border,maxpreps,0,,0.0511,30
+oh,fayette,gorham-fayette-eagles,Gorham Fayette,Eagles,,Buckeye Border,od_fallback,0,,0.0970,34
+oh,gahanna,columbus-academy-vikings,Columbus Academy,Vikings,,Central Buckeye Conference,maxpreps,0,,0.5356,73
+oh,columbus,bishop-ready-silver-knights,Bishop Ready,Silver Knights,,Central Buckeye Conference,maxpreps,0,,0.5068,70
+oh,columbus,grandview-heights-bobcats,Grandview Heights,Bobcats,,Central Buckeye Conference,maxpreps,0,,0.2915,51
+oh,worthington,worthington-christian-warriors,Worthington Christian,Warriors,,Central Buckeye Conference,maxpreps,0,,0.1811,41
+oh,columbus,bexley-lions,Bexley,Lions,,Central Buckeye Conference,maxpreps,0,,0.2541,48
+oh,delaware,buckeye-valley-barons,Buckeye Valley,Barons,,Central Buckeye Conference,maxpreps,0,,0.2388,46
+oh,whitehall,whitehall-yearling-rams,Whitehall-Yearling,Rams,,Central Buckeye Conference,maxpreps,0,,0.1771,41
+oh,columbus,franklin-heights-falcons,Franklin Heights,Falcons,,Central Buckeye Conference,maxpreps,0,,0.3534,57
+oh,plain-city,jonathan-alder-pioneers,Jonathan Alder,Pioneers,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.5868,77
+oh,urbana,urbana-hillclimbers,Urbana,Hillclimbers,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.4791,68
+oh,bellefontaine,bellefontaine-chieftains,Bellefontaine,Chieftains,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.3046,52
+oh,springfield,kenton-ridge-cougars,Kenton Ridge,Cougars,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.3729,58
+oh,new-carlisle,tecumseh-arrows,Tecumseh,Arrows,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.3132,53
+oh,london,london-red-raiders,London,Red Raiders,,Central Buckeye Conference - Kenton Trail,maxpreps,0,,0.3384,55
+oh,lewistown,indian-lake-lakers,Indian Lake,Lakers,,Central Buckeye Conference - Mad River,maxpreps,0,,0.4040,61
+oh,springfield,shawnee-shawnee,Shawnee,Shawnee,,Central Buckeye Conference - Mad River,maxpreps,0,,0.2158,44
+oh,richwood,north-union-wildcats,North Union,Wildcats,,Central Buckeye Conference - Mad River,maxpreps,0,,0.2544,48
+oh,springfield,northwestern-warriors,Northwestern,Warriors,,Central Buckeye Conference - Mad River,maxpreps,0,,0.1712,40
+oh,bellefontaine,benjamin-logan-raiders,Benjamin Logan,Raiders,,Central Buckeye Conference - Mad River,maxpreps,0,,0.0521,30
+oh,st-paris,graham-local-falcons,Graham Local,Falcons,,Central Buckeye Conference - Mad River,maxpreps,0,,0.0493,29
+oh,columbus,bishop-hartley-hawks,Bishop Hartley,Hawks,,Central Catholic,maxpreps,0,,0.5720,76
+oh,columbus,bishop-watterson-eagles,Bishop Watterson,Eagles,,Central Catholic,maxpreps,0,,0.5684,76
+oh,columbus,st-francis-desales-stallions,St. Francis DeSales,Stallions,,Central Catholic,maxpreps,0,,0.4978,70
+oh,columbus,st-charles-cardinals,St. Charles,Cardinals,,Central Catholic,maxpreps,0,,0.3341,55
+oh,gates-mills,hawken-hawks,Hawken,Hawks,,Chagrin Valley - Chagrin,maxpreps,0,,0.6047,79
+oh,painesville,harvey-red-raiders,Harvey,Red Raiders,,Chagrin Valley - Chagrin,maxpreps,0,,0.2945,51
+oh,perry,perry-pirates,Perry,Pirates,,Chagrin Valley - Chagrin,maxpreps,0,,0.3065,52
+oh,chesterland,west-geauga-wolverines,West Geauga,Wolverines,,Chagrin Valley - Chagrin,maxpreps,0,,0.3411,56
+oh,pepper-pike,orange-lions,Orange,Lions,,Chagrin Valley - Chagrin,maxpreps,0,,0.2437,47
+oh,geneva,geneva-eagles,Geneva,Eagles,,Chagrin Valley - Lake,maxpreps,0,,0.2586,48
+oh,madison,madison-blue-streaks,Madison,Blue Streaks,,Chagrin Valley - Lake,maxpreps,0,,0.2151,44
+oh,ashtabula,lakeside-dragons,Lakeside,Dragons,,Chagrin Valley - Lake,maxpreps,0,,0.1288,37
+oh,ashtabula,edgewood-warriors,Edgewood,Warriors,,Chagrin Valley - Lake,maxpreps,0,,0.1306,37
+oh,jefferson,jefferson-area-falcons,Jefferson Area,Falcons,,Chagrin Valley - Lake,maxpreps,0,,0.2423,47
+oh,conneaut,conneaut-spartans,Conneaut,Spartans,,Chagrin Valley - Lake,maxpreps,0,,0.0000,25
+oh,fairview-park,fairview-warriors,Fairview,Warriors,,Chagrin Valley - Metro,maxpreps,0,,0.4576,66
+oh,cleveland,cuyahoga-heights-red-wolves,Cuyahoga Heights,Red Wolves,,Chagrin Valley - Metro,maxpreps,0,,0.2775,50
+oh,brooklyn,brooklyn-hurricanes,Brooklyn,Hurricanes,,Chagrin Valley - Metro,maxpreps,0,,0.2294,46
+oh,independence,independence-blue-devils,Independence,Blue Devils,,Chagrin Valley - Metro,maxpreps,0,,0.2397,46
+oh,garfield-heights,trinity-trojans,Trinity,Trojans,,Chagrin Valley - Metro,maxpreps,0,,0.2104,44
+oh,beachwood,beachwood-bison,Beachwood,Bison,,Chagrin Valley - Metro,maxpreps,0,,0.1013,34
+oh,chagrin-falls,chagrin-falls-tigers,Chagrin Falls,Tigers,,Chagrin Valley - Valley,maxpreps,0,,0.4275,63
+oh,kirtland,kirtland-hornets,Kirtland,Hornets,,Chagrin Valley - Valley,maxpreps,0,,0.4764,68
+oh,burton,berkshire-badgers,Berkshire,Badgers,,Chagrin Valley - Valley,maxpreps,0,,0.2194,45
+oh,mantua,crestwood-red-devils,Crestwood,Red Devils,,Chagrin Valley - Valley,maxpreps,0,,0.2740,50
+oh,rootstown,rootstown-rovers,Rootstown,Rovers,,Chagrin Valley - Valley,maxpreps,0,,0.0994,34
+oh,wickliffe,wickliffe-blue-devils,Wickliffe,Blue Devils,,Chagrin Valley - Valley,maxpreps,0,,0.2338,46
+oh,cincinnati,wyoming-cowboys,Wyoming,Cowboys,,Cincinnati Hills,maxpreps,0,,0.5321,73
+oh,cincinnati,indian-hill-braves,Indian Hill,Braves,,Cincinnati Hills,maxpreps,0,,0.4094,62
+oh,cincinnati,mariemont-warriors,Mariemont,Warriors,,Cincinnati Hills,maxpreps,0,,0.3353,55
+oh,cincinnati,deer-park-wildcats,Deer Park,Wildcats,,Cincinnati Hills,maxpreps,0,,0.3058,52
+oh,cleves,taylor-yellowjackets,Taylor,Yellowjackets,,Cincinnati Hills,maxpreps,0,,0.4037,61
+oh,cincinnati,madeira-mustangs,Madeira,Mustangs,,Cincinnati Hills,maxpreps,0,,0.3554,57
+oh,reading,reading-blue-devils,Reading,Blue Devils,,Cincinnati Hills,maxpreps,0,,0.1865,42
+oh,cincinnati,finneytown-wildcats,Finneytown,Wildcats,,Cincinnati Hills,maxpreps,0,,0.1802,41
+oh,cincinnati,oyler-madhatters,Oyler,Madhatters,,Cincinnati Metro,maxpreps,0,,0.3532,57
+oh,cincinnati,hughes-big-red,Hughes,Big Red,,Cincinnati Metro,maxpreps,0,,0.5144,71
+oh,cincinnati,shroder-paideia-academy-jaguars,Shroder Paideia Academy,Jaguars,,Cincinnati Metro,maxpreps,0,,0.2470,47
+oh,cincinnati,aiken-falcons,Aiken,Falcons,,Cincinnati Metro,maxpreps,0,,0.5037,70
+oh,cincinnati,taft-senators,Taft,Senators,,Cincinnati Metro,maxpreps,0,,0.5213,72
+oh,cincinnati,cincinnati-college-prep-academy-lions,Cincinnati College Prep Academy,Lions,,Cincinnati Metro,maxpreps,0,,0.3393,55
+oh,cincinnati,western-hills-mustangs,Western Hills,Mustangs,,Cincinnati Metro,maxpreps,0,,0.3145,53
+oh,cincinnati,gamble-montessori-gators,Gamble Montessori,Gators,,Cincinnati Metro,maxpreps,0,,0.2188,45
+oh,cincinnati,depaul-cristo-rey,DePaul Cristo Rey,Rey,,Cincinnati Metro,maxpreps,0,,0.0862,33
+oh,cincinnati,woodward-bulldogs,Woodward,Bulldogs,,Cincinnati Metro,maxpreps,0,,0.2766,50
+oh,cincinnati,spencer-center-wolfpack,Spencer Center,Wolfpack,,Cincinnati Metro,od_fallback,0,,0.3050,52
+oh,cincinnati,school-for-creative-performing-arts-raiders,School for Creative Performing Arts,Raiders,,Cincinnati Metro,od_fallback,0,,0.2638,49
+oh,cincinnati,withrow-tigers,Withrow,Tigers,,Cincinnati Metro,maxpreps,0,,0.2310,46
+oh,lakewood,lakewood-rangers,Lakewood,Rangers,,Cleveland West,maxpreps,0,,0.4153,62
+oh,westlake,westlake-demons,Westlake,Demons,,Cleveland West,maxpreps,0,,0.3618,57
+oh,medina,buckeye-bucks,Buckeye,Bucks,,Cleveland West,maxpreps,0,,0.3526,57
+oh,rocky-river,rocky-river-pirates,Rocky River,Pirates,,Cleveland West,maxpreps,0,,0.4062,61
+oh,parma,normandy-invaders,Normandy,Invaders,,Cleveland West,maxpreps,0,,0.2420,47
+oh,parma-heights,valley-forge-patriots,Valley Forge,Patriots,,Cleveland West,maxpreps,0,,0.2099,44
+oh,bay-village,bay-rockets,Bay,Rockets,,Cleveland West,maxpreps,0,,0.2469,47
+oh,north-olmsted,north-olmsted-eagles,North Olmsted,Eagles,,Cleveland West,maxpreps,0,,0.2185,45
+oh,columbus,centennial-stars,Centennial,Stars,,Columbus City - North,maxpreps,0,,0.4124,62
+oh,columbus,northland-vikings,Northland,Vikings,,Columbus City - North,maxpreps,0,,0.4569,66
+oh,columbus,east-tigers,East,Tigers,,Columbus City - North,maxpreps,0,,0.2224,45
+oh,columbus,linden-mckinley-panthers,Linden-McKinley,Panthers,,Columbus City - North,maxpreps,0,,0.2371,46
+oh,columbus,beechcroft-cougars,Beechcroft,Cougars,,Columbus City - North,maxpreps,0,,0.2390,46
+oh,columbus,mifflin-punchers,Mifflin,Punchers,,Columbus City - North,maxpreps,0,,0.1578,39
+oh,columbus,whetstone-braves,Whetstone,Braves,,Columbus City - North,maxpreps,0,,0.1149,35
+oh,columbus,columbus-international-lions,Columbus International,Lions,,Columbus City - North,od_fallback,0,,0.1062,34
+oh,columbus,africentric-early-college-nubians,Africentric Early College,Nubians,,Columbus City - South,maxpreps,0,,0.4928,69
+oh,columbus,walnut-ridge-scots,Walnut Ridge,Scots,,Columbus City - South,maxpreps,0,,0.3605,57
+oh,columbus,south-bulldogs,South,Bulldogs,,Columbus City - South,maxpreps,0,,0.3138,53
+oh,columbus,eastmoor-academy-warriors,Eastmoor Academy,Warriors,,Columbus City - South,maxpreps,0,,0.3070,52
+oh,columbus,west-cowboys,West,Cowboys,,Columbus City - South,maxpreps,0,,0.2513,47
+oh,columbus,independence-76ers,Independence,76Ers,,Columbus City - South,maxpreps,0,,0.1539,39
+oh,columbus,marion-franklin-red-devils,Marion-Franklin,Red Devils,,Columbus City - South,maxpreps,0,,0.0856,33
+oh,columbus,briggs-bruins,Briggs,Bruins,,Columbus City - South,maxpreps,0,,0.1688,40
+oh,dayton,dunbar-wolverines,Dunbar,Wolverines,,Dayton Public,maxpreps,0,,0.4743,67
+oh,dayton,belmont-bison,Belmont,Bison,,Dayton Public,maxpreps,0,,0.2709,49
+oh,dayton,stivers-school-for-the-arts-tigers,Stivers School for the Arts,Tigers,,Dayton Public,maxpreps,0,,0.2984,52
+oh,dayton,ponitz-career-tech-golden-panthers,Ponitz Career Tech,Golden Panthers,,Dayton Public,maxpreps,0,,0.1670,40
+oh,dayton,thurgood-marshall-cougars,Thurgood Marshall,Cougars,,Dayton Public,maxpreps,0,,0.2317,46
+oh,dayton,meadowdale-lions,Meadowdale,Lions,,Dayton Public,maxpreps,0,,0.2093,44
+oh,cambridge,cambridge-bobcats,Cambridge,Bobcats,,East Central Ohio,maxpreps,0,,0.5243,72
+oh,alliance,alliance-aviators,Alliance,Aviators,,Eastern Buckeye,maxpreps,0,,0.4872,69
+oh,beloit,west-branch-warriors,West Branch,Warriors,,Eastern Buckeye,maxpreps,0,,0.4331,64
+oh,carrollton,carrollton-warriors,Carrollton,Warriors,,Eastern Buckeye,maxpreps,0,,0.3775,59
+oh,minerva,minerva-lions,Minerva,Lions,,Eastern Buckeye,maxpreps,0,,0.3396,55
+oh,alliance,marlington-dukes,Marlington,Dukes,,Eastern Buckeye,maxpreps,0,,0.2776,50
+oh,salem,salem-quakers,Salem,Quakers,,Eastern Buckeye,maxpreps,0,,0.1763,41
+oh,cincinnati,winton-woods-warriors,Winton Woods,Warriors,,Eastern Cincinnati,maxpreps,0,,0.5764,77
+oh,cincinnati,walnut-hills-eagles,Walnut Hills,Eagles,,Eastern Cincinnati,maxpreps,0,,0.4140,62
+oh,milford,milford-eagles,Milford,Eagles,,Eastern Cincinnati,maxpreps,0,,0.4057,61
+oh,lebanon,lebanon-warriors,Lebanon,Warriors,,Eastern Cincinnati,maxpreps,0,,0.4546,66
+oh,loveland,loveland-tigers,Loveland,Tigers,,Eastern Cincinnati,maxpreps,0,,0.4818,68
+oh,cincinnati,anderson-raptors,Anderson,Raptors,,Eastern Cincinnati,maxpreps,0,,0.3681,58
+oh,cincinnati,turpin-spartans,Turpin,Spartans,,Eastern Cincinnati,maxpreps,0,,0.3364,55
+oh,cincinnati,west-clermont-wolves,West Clermont,Wolves,,Eastern Cincinnati,maxpreps,0,,0.2964,52
+oh,kings-mill,kings-knights,Kings,Knights,,Eastern Cincinnati,maxpreps,0,,0.3464,56
+oh,morrow,little-miami-panthers,Little Miami,Panthers,,Eastern Cincinnati,maxpreps,0,,0.2943,51
+oh,lisbon,david-anderson-blue-devils,David Anderson,Blue Devils,,Eastern Ohio,maxpreps,0,,0.1749,41
+oh,wellsville,wellsville-tigers,Wellsville,Tigers,,Eastern Ohio,maxpreps,0,,0.1732,40
+oh,columbiana,columbiana-clippers,Columbiana,Clippers,,Eastern Ohio,maxpreps,0,,0.2340,46
+oh,youngstown,valley-christian-eagles,Valley Christian,Eagles,,Eastern Ohio,maxpreps,0,,0.1879,42
+oh,hanoverton,united-golden-eagles,United,Golden Eagles,,Eastern Ohio,od_fallback,0,,0.2306,46
+oh,leetonia,leetonia-bears,Leetonia,Bears,,Eastern Ohio,od_fallback,0,,0.3006,52
+oh,east-palestine,east-palestine-bulldogs,East Palestine,Bulldogs,,Eastern Ohio,maxpreps,0,,0.1358,37
+oh,salineville,southern-indians,Southern,Indians,,Eastern Ohio,maxpreps,0,,0.3396,55
+oh,canton,mckinley-bulldogs,McKinley,Bulldogs,,Federal,maxpreps,0,,0.4443,65
+oh,north-canton,hoover-vikings,Hoover,Vikings,,Federal,maxpreps,0,,0.4425,65
+oh,massillon,jackson-polar-bears,Jackson,Polar Bears,,Federal,maxpreps,0,,0.4589,66
+oh,massillon,perry-panthers,Perry,Panthers,,Federal,maxpreps,0,,0.4098,62
+oh,canton,glenoak-golden-eagles,GlenOak,Golden Eagles,,Federal,maxpreps,0,,0.4007,61
+oh,uniontown,lake-blue-streaks,Lake,Blue Streaks,,Federal,maxpreps,0,,0.2602,48
+oh,uniontown,green-bulldogs,Green,Bulldogs,,Federal,maxpreps,0,,0.3498,56
+oh,monroeville,monroeville-eagles,Monroeville,Eagles,,Firelands,maxpreps,0,,0.3004,52
+oh,collins,western-reserve-roughriders,Western Reserve,Roughriders,,Firelands,maxpreps,0,,0.2121,44
+oh,ashland,crestview-cougars,Crestview,Cougars,,Firelands,maxpreps,0,,0.3116,53
+oh,plymouth,plymouth-big-red,Plymouth,Big Red,,Firelands,maxpreps,0,,0.1845,42
+oh,norwalk,st-paul-flyers,St. Paul,Flyers,,Firelands,maxpreps,0,,0.2859,51
+oh,new-london,new-london-wildcats,New London,Wildcats,,Firelands,maxpreps,0,,0.2139,44
+oh,greenwich,south-central-trojans,South Central,Trojans,,Firelands,maxpreps,0,,0.1481,38
+oh,ashland,mapleton-mounties,Mapleton,Mounties,,Firelands,maxpreps,0,,0.2211,45
+oh,put-in-bay,put-in-bay-panthers,Put-in-Bay,Panthers,,Freelance,maxpreps,0,,0.0724,31
+oh,akron,st-vincent-st-mary-fighting-irish,St. Vincent-St. Mary,Fighting Irish,,Freelance,maxpreps,0,,0.6601,84
+oh,lyndhurst,brush-arcs,Brush,Arcs,,Freelance,maxpreps,0,,0.3950,60
+oh,dayton,horizon-science-academy-hawks,Horizon Science Academy,Hawks,,Freelance,maxpreps,0,,0.2531,48
+oh,cleveland,cleveland-central-catholic-ironmen,Cleveland Central Catholic,Ironmen,,Freelance,maxpreps,0,,0.4713,67
+oh,akron,archbishop-hoban-knights,Archbishop Hoban,Knights,,Freelance,maxpreps,0,,0.5836,77
+oh,cleveland-heights,lutheran-east-falcons,Lutheran East,Falcons,,Freelance,maxpreps,0,,0.7825,95
+oh,massillon,washington-tigers,Washington,Tigers,,Freelance,maxpreps,0,,0.6185,80
+oh,hunting-valley,university-school-preppers,University School,Preppers,,Freelance,maxpreps,0,,0.4707,67
+oh,toledo,central-catholic-irish,Central Catholic,Irish,,Freelance,maxpreps,0,,0.6527,83
+oh,ironton,sugar-creek-christian-academy-eagles,Sugar Creek Christian Academy,Eagles,,Freelance,maxpreps,0,,0.1523,39
+oh,toledo,st-johns-jesuit-titans,St. John's Jesuit,Titans,,Freelance,maxpreps,0,,0.5735,76
+oh,richmond-heights,richmond-heights-spartans,Richmond Heights,Spartans,,Freelance,maxpreps,0,,0.6099,80
+oh,toledo,st-francis-de-sales-knights,St. Francis de Sales,Knights,,Freelance,maxpreps,0,,0.5093,71
+oh,geneva,spire-academy-spire,SPIRE Academy,Spire,,Freelance,maxpreps,0,,0.4098,62
+oh,louisville,louisville-leopards,Louisville,Leopards,,Freelance,maxpreps,0,,0.5014,70
+oh,dayton,jefferson-township-broncos,Jefferson Township,Broncos,,Freelance,od_fallback,0,,0.2115,44
+oh,willoughby,cornerstone-christian-patriots,Cornerstone Christian,Patriots,,Freelance,maxpreps,0,,0.2867,51
+oh,canton,canton-central-catholic-crusaders,Canton Central Catholic,Crusaders,,Freelance,maxpreps,0,,0.5496,74
+oh,gates-mills,gilmour-academy-lancers,Gilmour Academy,Lancers,,Freelance,maxpreps,0,,0.4679,67
+oh,toledo,horizon-science-academy,Horizon Science Academy,Academy,,Freelance,maxpreps,0,,0.1582,39
+oh,gallipolis,ohio-valley-christian,Ohio Valley Christian,Christian,,Freelance,maxpreps,0,,0.0435,29
+oh,rocky-river,lutheran-west-longhorns,Lutheran West,Longhorns,,Freelance,maxpreps,0,,0.5997,79
+oh,bellefontaine,calvary-christian-spartans,Calvary Christian,Spartans,,Freelance,maxpreps,0,,0.1793,41
+oh,youngstown,academy-for-urban-scholars-hawks,Academy for Urban Scholars,Hawks,,Freelance,od_fallback,0,,0.0000,25
+oh,washington-court-house,miami-trace-panthers,Miami Trace,Panthers,,Frontier,maxpreps,0,,0.6027,79
+oh,jackson,jackson-ironman-ironladies,Jackson,Ironman Ironladies,,Frontier,maxpreps,0,,0.4084,62
+oh,chillicothe,chillicothe-cavaliers,Chillicothe,Cavaliers,,Frontier,maxpreps,0,,0.4677,67
+oh,washington-court-house,washington-blue-lions,Washington,Blue Lions,,Frontier,maxpreps,0,,0.2871,51
+oh,hillsboro,hillsboro-indians,Hillsboro,Indians,,Frontier,maxpreps,0,,0.2746,50
+oh,greenfield,mcclain-tigers,McClain,Tigers,,Frontier,maxpreps,0,,0.2036,43
+oh,hamilton,badin-rams,Badin,Rams,,Greater Catholic  Co-Ed,maxpreps,0,,0.6696,85
+oh,dayton,archbishop-alter-knights,Archbishop Alter,Knights,,Greater Catholic  Co-Ed,maxpreps,0,,0.6288,81
+oh,dayton,chaminade-julienne-catholic-eagles,Chaminade Julienne Catholic,Eagles,,Greater Catholic  Co-Ed,maxpreps,0,,0.4928,69
+oh,cincinnati,archbishop-mcnicholas-rockets,Archbishop McNicholas,Rockets,,Greater Catholic  Co-Ed,maxpreps,0,,0.5014,70
+oh,franklin,bishop-fenwick-falcons,Bishop Fenwick,Falcons,,Greater Catholic  Co-Ed,maxpreps,0,,0.2652,49
+oh,dayton,carroll-patriots,Carroll,Patriots,,Greater Catholic  Co-Ed,maxpreps,0,,0.2258,45
+oh,cincinnati,archbishop-moeller-fighting-crusaders,Archbishop Moeller,Fighting Crusaders,,Greater Catholic - South,maxpreps,0,,0.6426,82
+oh,cincinnati,st-xavier-bombers,St. Xavier,Bombers,,Greater Catholic - South,maxpreps,0,,0.5244,72
+oh,cincinnati,la-salle-lancers,La Salle,Lancers,,Greater Catholic - South,maxpreps,0,,0.5150,71
+oh,cincinnati,elder-panthers,Elder,Panthers,,Greater Catholic - South,maxpreps,0,,0.4816,68
+oh,brunswick,brunswick-blue-devils,Brunswick,Blue Devils,,Greater Cleveland,maxpreps,0,,0.5579,75
+oh,euclid,euclid-panthers,Euclid,Panthers,,Greater Cleveland,maxpreps,0,,0.5744,76
+oh,medina,medina-bees,Medina,Bees,,Greater Cleveland,maxpreps,0,,0.3672,58
+oh,mentor,mentor-cardinals,Mentor,Cardinals,,Greater Cleveland,maxpreps,0,,0.4779,68
+oh,cleveland-heights,cleveland-heights-tigers,Cleveland Heights,Tigers,,Greater Cleveland,maxpreps,0,,0.4450,65
+oh,strongsville,strongsville-mustangs,Strongsville,Mustangs,,Greater Cleveland,maxpreps,0,,0.3582,57
+oh,shaker-heights,shaker-heights-raiders,Shaker Heights,Raiders,,Greater Cleveland,maxpreps,0,,0.3847,59
+oh,lorain,lorain-titans,Lorain,Titans,,Greater Cleveland,maxpreps,0,,0.2849,50
+oh,west-chester,lakota-west-firebirds,Lakota West,Firebirds,,Greater Miami,maxpreps,0,,0.6531,83
+oh,cincinnati,princeton-vikings,Princeton,Vikings,,Greater Miami,maxpreps,0,,0.6182,80
+oh,mason,mason-comets,Mason,Comets,,Greater Miami,maxpreps,0,,0.4831,68
+oh,cincinnati,oak-hills-highlanders,Oak Hills,Highlanders,,Greater Miami,maxpreps,0,,0.6747,85
+oh,liberty-township,lakota-east-thunderhawks,Lakota East,Thunderhawks,,Greater Miami,maxpreps,0,,0.5220,72
+oh,hamilton,hamilton-big-blue,Hamilton,Big Blue,,Greater Miami,maxpreps,0,,0.4339,64
+oh,fairfield,fairfield-indians,Fairfield,Indians,,Greater Miami,maxpreps,0,,0.6279,81
+oh,cincinnati,sycamore-aviators,Sycamore,Aviators,,Greater Miami,maxpreps,0,,0.4691,67
+oh,middletown,middletown-middies,Middletown,Middies,,Greater Miami,maxpreps,0,,0.3481,56
+oh,cincinnati,colerain-cardinals,Colerain,Cardinals,,Greater Miami,maxpreps,0,,0.2931,51
+oh,centerville,centerville-elks,Centerville,Elks,,Greater Western Ohio,maxpreps,0,,0.6539,83
+oh,huber-heights,wayne-warriors,Wayne,Warriors,,Greater Western Ohio,maxpreps,0,,0.4827,68
+oh,kettering,fairmont-firebirds,Fairmont,Firebirds,,Greater Western Ohio,maxpreps,0,,0.4015,61
+oh,clayton,northmont-thunderbolts,Northmont,Thunderbolts,,Greater Western Ohio,maxpreps,0,,0.4109,62
+oh,springboro,springboro-panthers,Springboro,Panthers,,Greater Western Ohio,maxpreps,0,,0.3788,59
+oh,springfield,springfield-wildcats,Springfield,Wildcats,,Greater Western Ohio,maxpreps,0,,0.3096,53
+oh,miamisburg,miamisburg-vikings,Miamisburg,Vikings,,Greater Western Ohio,maxpreps,0,,0.2654,49
+oh,beavercreek,beavercreek-beavers,Beavercreek,Beavers,,Greater Western Ohio,maxpreps,0,,0.3069,52
+oh,paulding,paulding-panthers,Paulding,Panthers,,Green Meadows,maxpreps,0,,0.4258,63
+oh,defiance,ayersville-pilots,Ayersville,Pilots,,Green Meadows,maxpreps,0,,0.2706,49
+oh,sherwood,fairview-apaches,Fairview,Apaches,,Green Meadows,maxpreps,0,,0.2708,49
+oh,haviland,wayne-trace-raiders,Wayne Trace,Raiders,,Green Meadows,maxpreps,0,,0.3372,55
+oh,defiance,tinora-rams,Tinora,Rams,,Green Meadows,maxpreps,0,,0.3170,53
+oh,edgerton,edgerton-bulldogs,Edgerton,Bulldogs,,Green Meadows,maxpreps,0,,0.2476,47
+oh,antwerp,antwerp-archers,Antwerp,Archers,,Green Meadows,maxpreps,0,,0.1213,36
+oh,hicksville,hicksville-aces,Hicksville,Aces,,Green Meadows,maxpreps,0,,0.1297,37
+oh,hartville,hartville-christian,Hartville Christian,Christian,,Heart Of Ohio Christian,maxpreps,0,,0.1041,34
+oh,marion,marion-hawks-hawks,Marion Hawks,Hawks,,Independent Christian - East,maxpreps,0,,0.3197,54
+oh,coshocton,coshocton-christian,Coshocton Christian,Christian,,Independent Christian - East,od_fallback,0,,0.3655,58
+oh,orrville,kingsway-christian-eagles,Kingsway Christian,Eagles,,Independent Christian - East,maxpreps,0,,0.2538,48
+oh,millersburg,gospel-haven-academy,Gospel Haven Academy,Academy,,Independent Christian - East,maxpreps,0,,0.3182,53
+oh,chatfield,senedot-stripes,Senedot Stripes,Stripes,,Independent Christian - East,maxpreps,0,,0.0850,33
+oh,coshocton,warsaw-warriors-warriors,Warsaw Warriors,Warriors,,Independent Christian - East,od_fallback,0,,0.1015,34
+oh,st-clairsville,east-richland-christian-lions,East Richland Christian,Lions,,Independent Christian - East,od_fallback,0,,0.0301,28
+oh,wilmot,faith-christian-academy,Faith Christian Academy,Academy,,Independent Christian - East,od_fallback,0,,0.0000,25
+oh,mount-gilead,gilead-christian-indians,Gilead Christian,Indians,,Independent Christian - East,maxpreps,0,,0.1862,42
+oh,harrod,ohio-eagles-eagles,Ohio Eagles,Eagles,,Independent Christian - West,od_fallback,0,,0.5441,74
+oh,bowling-green,bowling-green-christian-academy-lions,Bowling Green Christian Academy,Lions,,Independent Christian - West,maxpreps,0,,0.3125,53
+oh,defiance,northwest-ohio-christian-home-educators-cougars,Northwest Ohio Christian Home Educators,Cougars,,Independent Christian - West,maxpreps,0,,0.0956,34
+oh,clyde,harvest-temple-christian-academy,Harvest Temple Christian Academy,Academy,,Independent Christian - West,maxpreps,0,,0.1317,37
+oh,st-marys,grand-lake-christian-eagles,Grand Lake Christian,Eagles,,Independent Christian - West,od_fallback,0,,0.1484,38
+oh,arcanum,castine-christian,Castine Christian,Christian,,Independent Christian - West,od_fallback,0,,0.1314,37
+oh,berlin,hiland-hawks,Hiland,Hawks,,Inter-Valley,maxpreps,0,,0.4281,63
+oh,lore-city,buckeye-trail-warriors,Buckeye Trail,Warriors,,Inter-Valley,maxpreps,0,,0.3895,60
+oh,malvern,malvern-hornets,Malvern,Hornets,,Inter-Valley,maxpreps,0,,0.2966,52
+oh,gnadenhutten,indian-valley-braves,Indian Valley,Braves,,Inter-Valley,maxpreps,0,,0.4607,66
+oh,uhrichsville,claymont-mustangs,Claymont,Mustangs,,Inter-Valley,maxpreps,0,,0.2845,50
+oh,newcomerstown,newcomerstown-trojans,Newcomerstown,Trojans,,Inter-Valley,maxpreps,0,,0.1496,38
+oh,zoarville,tuscarawas-valley-trojans,Tuscarawas Valley,Trojans,,Inter-Valley,maxpreps,0,,0.2161,44
+oh,strasburg,strasburg-franklin-tigers,Strasburg-Franklin,Tigers,,Inter-Valley,maxpreps,0,,0.2274,45
+oh,bowerston,conotton-valley-rockets,Conotton Valley,Rockets,,Inter-Valley,maxpreps,0,,0.1396,37
+oh,west-lafayette,ridgewood-generals,Ridgewood,Generals,,Inter-Valley,maxpreps,0,,0.2704,49
+oh,sugarcreek,garaway-pirates,Garaway,Pirates,,Inter-Valley,maxpreps,0,,0.2764,50
+oh,east-canton,east-canton-hornets,East Canton,Hornets,,Inter-Valley,maxpreps,0,,0.2706,49
+oh,magnolia,sandy-valley-cardinals,Sandy Valley,Cardinals,,Inter-Valley,maxpreps,0,,0.1537,39
+oh,new-philadelphia,tuscarawas-central-catholic-saints,Tuscarawas Central Catholic,Saints,,Inter-Valley,od_fallback,0,,0.1621,40
+oh,fredericktown,fredericktown-freddies,Fredericktown,Freddies,,Knox Morrow,maxpreps,0,,0.4037,61
+oh,danville,danville-blue-devils,Danville,Blue Devils,,Knox Morrow,maxpreps,0,,0.2818,50
+oh,mt-gilead,mt-gilead-indians,Mt. Gilead,Indians,,Knox Morrow,maxpreps,0,,0.2071,44
+oh,galion,northmor-golden-knights,Northmor,Golden Knights,,Knox Morrow,maxpreps,0,,0.2204,45
+oh,centerburg,centerburg-trojans,Centerburg,Trojans,,Knox Morrow,maxpreps,0,,0.3088,53
+oh,cardington,cardington-lincoln-pirates,Cardington-Lincoln,Pirates,,Knox Morrow,maxpreps,0,,0.4125,62
+oh,howard,east-knox-bulldogs,East Knox,Bulldogs,,Knox Morrow,maxpreps,0,,0.1284,36
+oh,loudonville,loudonville-redbirds,Loudonville,Redbirds,,Knox Morrow,od_fallback,0,,0.0000,25
+oh,elyria,open-door-christian-patriots,Open Door Christian,Patriots,,Lake Effect,od_fallback,0,,0.2887,51
+oh,cleveland,st-martin-de-porres-lions,St. Martin de Porres,Lions,,Lake Effect,maxpreps,0,,0.2258,45
+oh,austinburg,grand-river-academy,Grand River Academy,Academy,,Lake Effect,maxpreps,0,,0.5124,71
+oh,elyria,first-baptist-christian-sabres,First Baptist Christian,Sabres,,Lake Effect,maxpreps,0,,0.1623,40
+oh,cleveland,horizon-science-academy-dragons,Horizon Science Academy,Dragons,,Lake Effect,maxpreps,0,,0.1574,39
+oh,mentor,mentor-christian,Mentor Christian,Christian,,Lake Effect,maxpreps,0,,0.1743,41
+oh,north-ridgeville,lake-ridge-academy-royals,Lake Ridge Academy,Royals,,Lake Effect,od_fallback,0,,0.2886,51
+oh,sagamore-hills,lawrence-upper-lions,Lawrence Upper,Lions,,Lake Effect,maxpreps,0,,0.2843,50
+oh,willoughby,andrews-osborne-academy-phoenix,Andrews Osborne Academy,Phoenix,,Lake Effect,maxpreps,0,,0.2945,51
+oh,medina,medina-christian-academy-knights,Medina Christian Academy,Knights,,Lake Effect,maxpreps,0,,0.2190,45
+oh,garfield-heights,garfield-heights-bulldogs,Garfield Heights,Bulldogs,,Lake Erie,maxpreps,0,,0.6793,86
+oh,bedford,bedford-bearcats,Bedford,Bearcats,,Lake Erie,maxpreps,0,,0.4971,69
+oh,maple-heights,maple-heights-mustangs,Maple Heights,Mustangs,,Lake Erie,maxpreps,0,,0.3863,60
+oh,east-cleveland,shaw-cardinals,Shaw,Cardinals,,Lake Erie,maxpreps,0,,0.2435,47
+oh,pataskala,licking-heights-hornets,Licking Heights,Hornets,,Licking County - Buckeye,maxpreps,0,,0.4271,63
+oh,granville,granville-blue-aces,Granville,Blue Aces,,Licking County - Buckeye,maxpreps,0,,0.4279,63
+oh,pataskala,watkins-memorial-warriors,Watkins Memorial,Warriors,,Licking County - Buckeye,maxpreps,0,,0.3361,55
+oh,mt-vernon,mt-vernon-yellowjackets,Mt. Vernon,Yellowjackets,,Licking County - Buckeye,maxpreps,0,,0.3281,54
+oh,zanesville,zanesville-blue-devils,Zanesville,Blue Devils,,Licking County - Buckeye,maxpreps,0,,0.3309,55
+oh,newark,licking-valley-panthers,Licking Valley,Panthers,,Licking County - Buckeye,maxpreps,0,,0.3376,55
+oh,johnstown,johnstown-monroe-johnnies,Johnstown-Monroe,Johnnies,,Licking County - Cardinal,maxpreps,0,,0.4359,64
+oh,heath,heath-bulldogs,Heath,Bulldogs,,Licking County - Cardinal,maxpreps,0,,0.4304,64
+oh,utica,utica-redskins,Utica,Redskins,,Licking County - Cardinal,maxpreps,0,,0.1956,42
+oh,newark,newark-catholic-green-wave,Newark Catholic,Green Wave,,Licking County - Cardinal,maxpreps,0,,0.2233,45
+oh,johnstown,northridge-vikings,Northridge,Vikings,,Licking County - Cardinal,maxpreps,0,,0.1690,40
+oh,hebron,lakewood-lancers,Lakewood,Lancers,,Licking County - Cardinal,maxpreps,0,,0.2856,51
+oh,la-grange,keystone-wildcats,Keystone,Wildcats,,Lorain County 8,maxpreps,0,,0.4118,62
+oh,sheffield,brookside-cardinals,Brookside,Cardinals,,Lorain County 8,maxpreps,0,,0.3743,58
+oh,oberlin,oberlin-phoenix,Oberlin,Phoenix,,Lorain County 8,maxpreps,0,,0.1915,42
+oh,sullivan,black-river-pirates,Black River,Pirates,,Lorain County 8,maxpreps,0,,0.2041,43
+oh,oberlin,firelands-falcons,Firelands,Falcons,,Lorain County 8,maxpreps,0,,0.1991,43
+oh,columbia-station,columbia-raiders,Columbia,Raiders,,Lorain County 8,maxpreps,0,,0.2042,43
+oh,wellington,wellington-dukes,Wellington,Dukes,,Lorain County 8,maxpreps,0,,0.0504,30
+oh,lorain,clearview-clippers,Clearview,Clippers,,Lorain County 8,maxpreps,0,,0.2255,45
+oh,brookfield,brookfield-warriors,Brookfield,Warriors,,Mahoning Valley - Grey,maxpreps,0,,0.2154,44
+oh,ravenna,southeast-pirates,Southeast,Pirates,,Mahoning Valley - Grey,maxpreps,0,,0.2344,46
+oh,leavittsburg,labrae-vikings,LaBrae,Vikings,,Mahoning Valley - Grey,maxpreps,0,,0.2872,51
+oh,newton-falls,newton-falls-tigers,Newton Falls,Tigers,,Mahoning Valley - Grey,maxpreps,0,,0.2576,48
+oh,garrettsville,garfield-g-men,Garfield,G Men,,Mahoning Valley - Grey,maxpreps,0,,0.3275,54
+oh,youngstown,liberty-leopards,Liberty,Leopards,,Mahoning Valley - Grey,od_fallback,0,,0.4409,64
+oh,columbiana,crestview-rebels,Crestview,Rebels,,Mahoning Valley - Grey,maxpreps,0,,0.3666,58
+oh,warren,champion-golden-flashes,Champion,Golden Flashes,,Mahoning Valley - Grey,od_fallback,0,,0.5091,71
+oh,mcdonald,mcdonald-blue-devils,McDonald,Blue Devils,,Mahoning Valley - Scarlet,maxpreps,0,,0.2981,52
+oh,berlin-center,western-reserve-blue-devils,Western Reserve,Blue Devils,,Mahoning Valley - Scarlet,maxpreps,0,,0.1991,43
+oh,mineral-ridge,mineral-ridge-rams,Mineral Ridge,Rams,,Mahoning Valley - Scarlet,maxpreps,0,,0.1558,39
+oh,new-middletown,springfield-tigers,Springfield,Tigers,,Mahoning Valley - Scarlet,maxpreps,0,,0.1169,35
+oh,campbell,memorial-red-devils,Memorial,Red Devils,,Mahoning Valley - Scarlet,maxpreps,0,,0.1775,41
+oh,lowellville,lowellville-rockets,Lowellville,Rockets,,Mahoning Valley - Scarlet,maxpreps,0,,0.0526,30
+oh,atwater,waterloo-vikings,Waterloo,Vikings,,Mahoning Valley - Scarlet,od_fallback,0,,0.3298,54
+oh,north-jackson,jackson-milton-bluejays,Jackson-Milton,Bluejays,,Mahoning Valley - Scarlet,maxpreps,0,,0.1497,38
+oh,sebring,mckinley-trojans,McKinley,Trojans,,Mahoning Valley - Scarlet,maxpreps,0,,0.4443,65
+oh,norton,norton-panthers,Norton,Panthers,,Metro,maxpreps,0,,0.3854,59
+oh,peninsula,woodridge-bulldogs,Woodridge,Bulldogs,,Metro,maxpreps,0,,0.4102,62
+oh,streetsboro,streetsboro-rockets,Streetsboro,Rockets,,Metro,maxpreps,0,,0.3962,60
+oh,ravenna,ravenna-ravens,Ravenna,Ravens,,Metro,maxpreps,0,,0.1944,42
+oh,lodi,cloverleaf-colts,Cloverleaf,Colts,,Metro,maxpreps,0,,0.2329,46
+oh,akron,coventry-comets,Coventry,Comets,,Metro,maxpreps,0,,0.2116,44
+oh,mogadore,field-falcons,Field,Falcons,,Metro,maxpreps,0,,0.1269,36
+oh,akron,springfield-spartans,Springfield,Spartans,,Metro,maxpreps,0,,0.3096,53
+oh,springfield,emmanuel-christian-academy-lions,Emmanuel Christian Academy,Lions,,Metro Buckeye,maxpreps,0,,0.3180,53
+oh,xenia,legacy-christian-academy-knights,Legacy Christian Academy,Knights,,Metro Buckeye,maxpreps,0,,0.1197,36
+oh,franklin,middletown-christian-eagles,Middletown Christian,Eagles,,Metro Buckeye,maxpreps,0,,0.1385,37
+oh,yellow-springs,yellow-springs-bulldogs,Yellow Springs,Bulldogs,,Metro Buckeye,od_fallback,0,,0.2111,44
+oh,dayton,miami-valley-rams,Miami Valley,Rams,,Metro Buckeye,od_fallback,0,,0.2011,43
+oh,cincinnati,north-college-hill-trojans,North College Hill,Trojans,,Miami Valley - Miami,maxpreps,0,,0.3888,60
+oh,cincinnati,miami-valley-christian-academy-lions,Miami Valley Christian Academy,Lions,,Miami Valley - Miami,maxpreps,0,,0.4273,63
+oh,cincinnati,seven-hills-stingers,Seven Hills,Stingers,,Miami Valley - Miami,maxpreps,0,,0.4085,62
+oh,cincinnati,cincinnati-hills-christian-academy-eagles,Cincinnati Hills Christian Academy,Eagles,,Miami Valley - Miami,maxpreps,0,,0.4898,69
+oh,cincinnati,summit-country-day-silver-knights,Summit Country Day,Silver Knights,,Miami Valley - Miami,maxpreps,0,,0.6179,80
+oh,cincinnati,clark-montessori-cougars,Clark Montessori,Cougars,,Miami Valley - Miami,maxpreps,0,,0.3529,57
+oh,norwood,norwood-indians,Norwood,Indians,,Miami Valley - Miami,maxpreps,0,,0.1275,36
+oh,lockland,lockland-panthers,Lockland,Panthers,,Miami Valley - Miami,od_fallback,0,,0.2753,50
+oh,cincinnati,roger-bacon-spartans,Roger Bacon,Spartans,,Miami Valley - Miami,maxpreps,0,,0.3131,53
+oh,cincinnati,cincinnati-country-day-nighthawks,Cincinnati Country Day,Nighthawks,,Miami Valley - Miami,maxpreps,0,,0.2368,46
+oh,st-bernard,st-bernard-elmwood-place-titans,St. Bernard-Elmwood Place,Titans,,Miami Valley - Miami,maxpreps,0,,0.1717,40
+oh,fairfield,cincinnati-christian-cougars,Cincinnati Christian,Cougars,,Miami Valley - Miami,maxpreps,0,,0.1019,34
+oh,cincinnati,purcell-marian-cavaliers,Purcell Marian,Cavaliers,,Miami Valley - Miami,maxpreps,0,,0.2378,46
+oh,hamilton,new-miami-vikings,New Miami,Vikings,,Miami Valley - Miami,od_fallback,0,,0.1785,41
+oh,tipp-city,tippecanoe-red-devils,Tippecanoe,Red Devils,,Miami Valley - Valley,maxpreps,0,,0.3946,60
+oh,vandalia,butler-aviators,Butler,Aviators,,Miami Valley - Valley,maxpreps,0,,0.3415,56
+oh,west-carrollton,west-carrollton-pirates,West Carrollton,Pirates,,Miami Valley - Valley,maxpreps,0,,0.3226,54
+oh,riverside,stebbins-indians,Stebbins,Indians,,Miami Valley - Valley,maxpreps,0,,0.2256,45
+oh,troy,troy-trojans,Troy,Trojans,,Miami Valley - Valley,maxpreps,0,,0.2466,47
+oh,xenia,xenia-buccaneers,Xenia,Buccaneers,,Miami Valley - Valley,maxpreps,0,,0.1824,41
+oh,piqua,piqua-indians,Piqua,Indians,,Miami Valley - Valley,maxpreps,0,,0.0686,31
+oh,sidney,sidney-yellowjackets,Sidney,Yellowjackets,,Miami Valley - Valley,maxpreps,0,,0.1878,42
+oh,fairborn,fairborn-skyhawks,Fairborn,Skyhawks,,Miami Valley - Valley,od_fallback,0,,0.1432,38
+oh,greenville,greenville-green-wave,Greenville,Green Wave,,Miami Valley - Valley,maxpreps,0,,0.0454,29
+oh,kidron,central-christian-comets,Central Christian,Comets,,Mid-Buckeye,maxpreps,0,,0.2403,46
+oh,mansfield,mansfield-christian-flames,Mansfield Christian,Flames,,Mid-Buckeye,maxpreps,0,,0.1553,39
+oh,crestline,crestline-bulldogs,Crestline,Bulldogs,,Mid-Buckeye,maxpreps,0,,0.0936,33
+oh,mansfield,st-peters-spartans,St. Peter's,Spartans,,Mid-Buckeye,od_fallback,0,,0.1706,40
+oh,lucas,lucas-cubs,Lucas,Cubs,,Mid-Buckeye,od_fallback,0,,0.1606,39
+oh,plain-city,shekinah-christian-flames,Shekinah Christian,Flames,,Mid-Ohio - Christian,maxpreps,0,,0.3576,57
+oh,westerville,genoa-christian-academy-lions,Genoa Christian Academy,Lions,,Mid-Ohio - Christian,maxpreps,0,,0.2845,50
+oh,columbus,tree-of-life-christian-trojans,Tree of Life Christian,Trojans,,Mid-Ohio - Christian,maxpreps,0,,0.2754,50
+oh,delaware,delaware-christian-eagles,Delaware Christian,Eagles,,Mid-Ohio - Christian,maxpreps,0,,0.1698,40
+oh,pataskala,liberty-christian-academy-eagles,Liberty Christian Academy,Eagles,,Mid-Ohio - Christian,od_fallback,0,,0.1956,42
+oh,granville,granville-christian-academy,Granville Christian Academy,Academy,,Mid-Ohio - Christian,od_fallback,0,,0.1472,38
+oh,westerville,northside-christian-lions,Northside Christian,Lions,,Mid-Ohio - Christian,maxpreps,0,,0.3998,61
+oh,groveport,madison-christian-eagles,Madison Christian,Eagles,,Mid-Ohio - Christian,od_fallback,0,,0.0505,30
+oh,caledonia,river-valley-vikings,River Valley,Vikings,,Mid-Ohio - Red,maxpreps,0,,0.3808,59
+oh,shelby,shelby-whippets,Shelby,Whippets,,Mid-Ohio - Red,maxpreps,0,,0.3701,58
+oh,ontario,ontario-warriors,Ontario,Warriors,,Mid-Ohio - Red,maxpreps,0,,0.3241,54
+oh,marion,marion-harding-presidents,Marion Harding,Presidents,,Mid-Ohio - Red,maxpreps,0,,0.4149,62
+oh,marion,pleasant-spartans,Pleasant,Spartans,,Mid-Ohio - Red,maxpreps,0,,0.2913,51
+oh,bellville,clear-fork-colts,Clear Fork,Colts,,Mid-Ohio - Red,maxpreps,0,,0.2137,44
+oh,galion,galion-tigers,Galion,Tigers,,Mid-Ohio - Red,maxpreps,0,,0.2085,44
+oh,marengo,highland-fighting-scots,Highland,Fighting Scots,,Mid-Ohio - Red,maxpreps,0,,0.1886,42
+oh,circleville,circleville-tigers,Circleville,Tigers,,Mid-State - Buckeye,maxpreps,0,,0.4907,69
+oh,lancaster,fairfield-union-falcons,Fairfield Union,Falcons,,Mid-State - Buckeye,maxpreps,0,,0.3503,56
+oh,circleville,logan-elm-braves,Logan Elm,Braves,,Mid-State - Buckeye,maxpreps,0,,0.2942,51
+oh,carroll,bloom-carroll-bulldogs,Bloom-Carroll,Bulldogs,,Mid-State - Buckeye,maxpreps,0,,0.3337,55
+oh,columbus,hamilton-township-rangers,Hamilton Township,Rangers,,Mid-State - Buckeye,maxpreps,0,,0.3928,60
+oh,baltimore,liberty-union-lions,Liberty Union,Lions,,Mid-State - Buckeye,maxpreps,0,,0.2119,44
+oh,amanda,amanda-clearcreek-aces,Amanda-Clearcreek,Aces,,Mid-State - Buckeye,maxpreps,0,,0.1456,38
+oh,zanesville,bishop-rosecrans-bishops,Bishop Rosecrans,Bishops,,Mid-State - Cardinal,maxpreps,0,,0.2707,49
+oh,millersport,millersport-lakers,Millersport,Lakers,,Mid-State - Cardinal,maxpreps,0,,0.1606,39
+oh,grove-city,grove-city-christian-eagles,Grove City Christian,Eagles,,Mid-State - Cardinal,maxpreps,0,,0.1554,39
+oh,lancaster,fairfield-christian-academy-knights,Fairfield Christian Academy,Knights,,Mid-State - Cardinal,maxpreps,0,,0.0618,31
+oh,sugar-grove,berne-union-rockets,Berne Union,Rockets,,Mid-State - Cardinal,od_fallback,0,,0.0615,31
+oh,lancaster,fisher-catholic-irish,Fisher Catholic,Irish,,Mid-State - Cardinal,maxpreps,0,,0.2921,51
+oh,corning,miller-falcons,Miller,Falcons,,Mid-State - Cardinal,od_fallback,0,,0.0000,25
+oh,columbus,wellington-school-jaguars,Wellington School,Jaguars,,Mid-State - Cardinal,maxpreps,0,,0.0504,30
+oh,delphos,st-johns-bluejays,St. John's,Bluejays,,Midwest,maxpreps,0,,0.5547,75
+oh,maria-stein,marion-local-flyers,Marion Local,Flyers,,Midwest,maxpreps,0,,0.5827,77
+oh,versailles,versailles-tigers,Versailles,Tigers,,Midwest,maxpreps,0,,0.4599,66
+oh,st-henry,st-henry-redskins,St. Henry,Redskins,,Midwest,maxpreps,0,,0.4582,66
+oh,new-bremen,new-bremen-cardinals,New Bremen,Cardinals,,Midwest,maxpreps,0,,0.4250,63
+oh,minster,minster-wildcats,Minster,Wildcats,,Midwest,maxpreps,0,,0.5024,70
+oh,fort-recovery,fort-recovery-indians,Fort Recovery,Indians,,Midwest,maxpreps,0,,0.3845,59
+oh,coldwater,coldwater-cavaliers,Coldwater,Cavaliers,,Midwest,maxpreps,0,,0.4431,65
+oh,rockford,parkway-panthers,Parkway,Panthers,,Midwest,maxpreps,0,,0.2843,50
+oh,new-knoxville,new-knoxville-rangers,New Knoxville,Rangers,,Midwest,maxpreps,0,,0.2357,46
+oh,zanesville,maysville-panthers,Maysville,Panthers,,Muskingum Valley,maxpreps,0,,0.5534,75
+oh,new-concord,john-glenn-muskies,John Glenn,Muskies,,Muskingum Valley,maxpreps,0,,0.5942,78
+oh,thornville,sheridan-generals,Sheridan,Generals,,Muskingum Valley,maxpreps,0,,0.3858,60
+oh,zanesville,west-muskingum-tornadoes,West Muskingum,Tornadoes,,Muskingum Valley,maxpreps,0,,0.3837,59
+oh,dresden,tri-valley-scotties,Tri-Valley,Scotties,,Muskingum Valley,maxpreps,0,,0.3411,56
+oh,duncan-falls,philo-electrics,Philo,Electrics,,Muskingum Valley,maxpreps,0,,0.2979,52
+oh,coshocton,coshocton-redskins,Coshocton,Redskins,,Muskingum Valley,maxpreps,0,,0.4131,62
+oh,byesville,meadowbrook-colts,Meadowbrook,Colts,,Muskingum Valley,maxpreps,0,,0.2251,45
+oh,warsaw,river-view-black-bears,River View,Black Bears,,Muskingum Valley,maxpreps,0,,0.2301,46
+oh,mcconnelsville,morgan-raiders,Morgan,Raiders,,Muskingum Valley,maxpreps,0,,0.1899,42
+oh,new-lexington,new-lexington-panthers,New Lexington,Panthers,,Muskingum Valley,maxpreps,0,,0.2695,49
+oh,crooksville,crooksville-ceramics,Crooksville,Ceramics,,Muskingum Valley,maxpreps,0,,0.2950,51
+oh,cuyahoga-falls,cuyahoga-valley-christian-academy-royals,Cuyahoga Valley Christian Academy,Royals,,North Coast,maxpreps,0,,0.4793,68
+oh,parma,padua-franciscan-bruins,Padua Franciscan,Bruins,,North Coast,maxpreps,0,,0.5174,71
+oh,chardon,notre-dame-cathedral-latin-lions,Notre Dame-Cathedral Latin,Lions,,North Coast,maxpreps,0,,0.4575,66
+oh,cleveland,benedictine-bengals,Benedictine,Bengals,,North Coast,maxpreps,0,,0.4143,62
+oh,elyria,elyria-catholic-panthers,Elyria Catholic,Panthers,,North Coast,maxpreps,0,,0.2933,51
+oh,parma-heights,holy-name-green-wave,Holy Name,Green Wave,,North Coast,maxpreps,0,,0.2602,48
+oh,mentor,lake-catholic-cougars,Lake Catholic,Cougars,,North Coast,maxpreps,0,,0.2544,48
+oh,poland,poland-seminary-bulldogs,Poland Seminary,Bulldogs,,Northeast 8,maxpreps,0,,0.3901,60
+oh,hubbard,hubbard-eagles,Hubbard,Eagles,,Northeast 8,maxpreps,0,,0.2218,45
+oh,canfield,south-range-raiders,South Range,Raiders,,Northeast 8,maxpreps,0,,0.3511,56
+oh,girard,girard-indians,Girard,Indians,,Northeast 8,maxpreps,0,,0.1942,42
+oh,cortland,lakeview-bulldogs,Lakeview,Bulldogs,,Northeast 8,maxpreps,0,,0.1793,41
+oh,niles,mckinley-red-dragons,McKinley,Red Dragons,,Northeast 8,maxpreps,0,,0.3303,55
+oh,struthers,struthers-wildcats,Struthers,Wildcats,,Northeast 8,od_fallback,0,,0.6922,87
+oh,fairport-harbor,harding-skippers,Harding,Skippers,,Northeastern,maxpreps,0,,0.3061,52
+oh,orwell,grand-valley-mustangs,Grand Valley,Mustangs,,Northeastern,maxpreps,0,,0.3278,54
+oh,cortland,maplewood-rockets,Maplewood,Rockets,,Northeastern,maxpreps,0,,0.0841,33
+oh,bristolville,bristol-panthers,Bristol,Panthers,,Northeastern,maxpreps,0,,0.1623,40
+oh,andover,pymatuning-valley-lakers,Pymatuning Valley,Lakers,,Northeastern,maxpreps,0,,0.1465,38
+oh,kinsman,badger-braves,Badger,Braves,,Northeastern,od_fallback,0,,0.1649,40
+oh,vienna,mathews-mustangs,Mathews,Mustangs,,Northeastern,maxpreps,0,,0.1566,39
+oh,ashtabula,st-john-heralds,St. John,Heralds,,Northeastern,maxpreps,0,,0.1933,42
+oh,middlefield,cardinal-huskies,Cardinal,Huskies,,Northeastern,od_fallback,0,,0.1284,36
+oh,southington,chalker-wildcats,Chalker,Wildcats,,Northeastern,od_fallback,0,,0.1162,35
+oh,warren,lordstown-red-devils,Lordstown,Red Devils,,Northeastern,od_fallback,0,,0.1041,34
+oh,windham,windham-bombers,Windham,Bombers,,Northeastern,maxpreps,0,,0.1411,38
+oh,north-bloomfield,bloomfield-cardinals,Bloomfield,Cardinals,,Northeastern,od_fallback,0,,0.0797,32
+oh,north-robinson,colonel-crawford-eagles,Colonel Crawford,Eagles,,Northern 10,maxpreps,0,,0.4618,66
+oh,carey,carey-blue-devils,Carey,Blue Devils,,Northern 10,maxpreps,0,,0.2194,45
+oh,attica,seneca-east-tigers,Seneca East,Tigers,,Northern 10,maxpreps,0,,0.3046,52
+oh,upper-sandusky,upper-sandusky-rams,Upper Sandusky,Rams,,Northern 10,maxpreps,0,,0.2382,46
+oh,sycamore,mohawk-warriors,Mohawk,Warriors,,Northern 10,maxpreps,0,,0.2599,48
+oh,bucyrus,wynford-royals,Wynford,Royals,,Northern 10,maxpreps,0,,0.0472,29
+oh,new-washington,buckeye-central-bucks,Buckeye Central,Bucks,,Northern 10,od_fallback,0,,0.0987,34
+oh,bucyrus,bucyrus-redmen,Bucyrus,Redmen,,Northern 10,od_fallback,0,,0.0588,30
+oh,genoa,genoa-area-comets,Genoa Area,Comets,,Northern Buckeye,maxpreps,0,,0.5364,73
+oh,millbury,lake-flyers,Lake,Flyers,,Northern Buckeye,maxpreps,0,,0.2868,51
+oh,pemberville,eastwood-eagles,Eastwood,Eagles,,Northern Buckeye,maxpreps,0,,0.2905,51
+oh,tontogany,otsego-knights,Otsego,Knights,,Northern Buckeye,maxpreps,0,,0.4137,62
+oh,maumee,maumee-panthers,Maumee,Panthers,,Northern Buckeye,maxpreps,0,,0.2227,45
+oh,oak-harbor,oak-harbor-rockets,Oak Harbor,Rockets,,Northern Buckeye,maxpreps,0,,0.1784,41
+oh,rossford,rossford-bulldogs,Rossford,Bulldogs,,Northern Buckeye,maxpreps,0,,0.1194,36
+oh,fostoria,fostoria-redmen,Fostoria,Redmen,,Northern Buckeye,maxpreps,0,,0.2890,51
+oh,perrysburg,perrysburg-yellow-jackets,Perrysburg,Yellow Jackets,,Northern Lakes,maxpreps,0,,0.4643,67
+oh,sylvania,southview-cougars,Southview,Cougars,,Northern Lakes,maxpreps,0,,0.3816,59
+oh,oregon,clay-eagles,Clay,Eagles,,Northern Lakes,maxpreps,0,,0.4534,66
+oh,whitehouse,anthony-wayne-generals,Anthony Wayne,Generals,,Northern Lakes,maxpreps,0,,0.4211,63
+oh,sylvania,northview-wildcats,Northview,Wildcats,,Northern Lakes,maxpreps,0,,0.3365,55
+oh,toledo,whitmer-panthers,Whitmer,Panthers,,Northern Lakes,maxpreps,0,,0.4448,65
+oh,holland,springfield-blue-devils,Springfield,Blue Devils,,Northern Lakes,maxpreps,0,,0.2277,45
+oh,bowling-green,bowling-green-bobcats,Bowling Green,Bobcats,,Northern Lakes,maxpreps,0,,0.2453,47
+oh,findlay,findlay-trojans,Findlay,Trojans,,Northern Lakes,maxpreps,0,,0.3045,52
+oh,fremont,ross-little-giants,Ross,Little Giants,,Northern Lakes,maxpreps,0,,0.2963,52
+oh,napoleon,napoleon-wildcats,Napoleon,Wildcats,,Northern Lakes,maxpreps,0,,0.2478,47
+oh,van-wert,lincolnview-lancers,Lincolnview,Lancers,,Northwest,maxpreps,0,,0.4540,66
+oh,columbus-grove,columbus-grove-bulldogs,Columbus Grove,Bulldogs,,Northwest,maxpreps,0,,0.4717,67
+oh,lima,lima-central-catholic-thunderbirds,Lima Central Catholic,Thunderbirds,,Northwest,maxpreps,0,,0.4861,68
+oh,spencerville,spencerville-bearcats,Spencerville,Bearcats,,Northwest,maxpreps,0,,0.4022,61
+oh,convoy,crestview-knights,Crestview,Knights,,Northwest,maxpreps,0,,0.5049,70
+oh,harrod,allen-east-mustangs,Allen East,Mustangs,,Northwest,maxpreps,0,,0.3520,56
+oh,delphos,jefferson-wildcats,Jefferson,Wildcats,,Northwest,maxpreps,0,,0.2364,46
+oh,bluffton,bluffton-pirates,Bluffton,Pirates,,Northwest,maxpreps,0,,0.4034,61
+oh,mcguffey,upper-scioto-valley-rams,Upper Scioto Valley,Rams,,Northwest Central,maxpreps,0,,0.2320,46
+oh,morral,ridgedale-rockets,Ridgedale,Rockets,,Northwest Central,maxpreps,0,,0.2154,44
+oh,lima,temple-christian-pioneers,Temple Christian,Pioneers,,Northwest Central,maxpreps,0,,0.1933,42
+oh,mount-victory,ridgemont-golden-gophers,Ridgemont,Golden Gophers,,Northwest Central,maxpreps,0,,0.2247,45
+oh,waynesfield,waynesfield-goshen-tigers,Waynesfield-Goshen,Tigers,,Northwest Central,maxpreps,0,,0.1153,35
+oh,dola,hardin-northern-polar-bears,Hardin Northern,Polar Bears,,Northwest Central,maxpreps,0,,0.2126,44
+oh,lima,perry-commodores,Perry,Commodores,,Northwest Central,maxpreps,0,,0.2824,50
+oh,rawson,cory-rawson-fighting-hornets,Cory-Rawson,Fighting Hornets,,Northwest Central,od_fallback,0,,0.1601,39
+oh,marion,elgin-comets,Elgin,Comets,,Northwest Central,od_fallback,0,,0.1501,38
+oh,north-baltimore,north-baltimore-tigers,North Baltimore,Tigers,,Northwest Central,od_fallback,0,,0.1401,38
+oh,hamler,patrick-henry-patriots,Patrick Henry,Patriots,,Northwest Ohio,maxpreps,0,,0.4249,63
+oh,liberty-center,liberty-center-tigers,Liberty Center,Tigers,,Northwest Ohio,maxpreps,0,,0.4098,62
+oh,archbold,archbold-blue-streaks,Archbold,Blue Streaks,,Northwest Ohio,maxpreps,0,,0.3610,57
+oh,wauseon,wauseon-indians,Wauseon,Indians,,Northwest Ohio,maxpreps,0,,0.2364,46
+oh,bryan,bryan-golden-bears,Bryan,Golden Bears,,Northwest Ohio,maxpreps,0,,0.2015,43
+oh,delta,delta-panthers,Delta,Panthers,,Northwest Ohio,maxpreps,0,,0.1923,42
+oh,metamora,evergreen-vikings,Evergreen,Vikings,,Northwest Ohio,maxpreps,0,,0.3390,55
+oh,swanton,swanton-bulldogs,Swanton,Bulldogs,,Northwest Ohio,maxpreps,0,,0.2168,44
+oh,newark,newark-wildcats,Newark,Wildcats,,Ohio Capital - Buckeye,maxpreps,0,,0.5358,73
+oh,reynoldsburg,reynoldsburg-raiders,Reynoldsburg,Raiders,,Ohio Capital - Buckeye,maxpreps,0,,0.5204,72
+oh,pickerington,pickerington-central-tigers,Pickerington Central,Tigers,,Ohio Capital - Buckeye,maxpreps,0,,0.5691,76
+oh,groveport,groveport-madison-cruisers,Groveport-Madison,Cruisers,,Ohio Capital - Buckeye,maxpreps,0,,0.5742,76
+oh,canal-winchester,canal-winchester-indians,Canal Winchester,Indians,,Ohio Capital - Buckeye,maxpreps,0,,0.3406,55
+oh,ashville,teays-valley-vikings,Teays Valley,Vikings,,Ohio Capital - Buckeye,maxpreps,0,,0.2982,52
+oh,lancaster,lancaster-golden-gales,Lancaster,Golden Gales,,Ohio Capital - Buckeye,maxpreps,0,,0.3866,60
+oh,logan,logan-chieftains,Logan,Chieftains,,Ohio Capital - Buckeye,maxpreps,0,,0.2866,51
+oh,westerville,westerville-north-warriors,Westerville North,Warriors,,Ohio Capital - Capital,maxpreps,0,,0.6360,82
+oh,galloway,westland-cougars,Westland,Cougars,,Ohio Capital - Capital,maxpreps,0,,0.4631,66
+oh,sunbury,big-walnut-golden-eagles,Big Walnut,Golden Eagles,,Ohio Capital - Capital,maxpreps,0,,0.4476,65
+oh,westerville,westerville-south-wildcats,Westerville South,Wildcats,,Ohio Capital - Capital,maxpreps,0,,0.3916,60
+oh,columbus,worthington-kilbourne-wolves,Worthington Kilbourne,Wolves,,Ohio Capital - Capital,maxpreps,0,,0.3552,57
+oh,dublin,dublin-scioto-irish,Dublin Scioto,Irish,,Ohio Capital - Capital,maxpreps,0,,0.3034,52
+oh,delaware,hayes-pacers,Hayes,Pacers,,Ohio Capital - Capital,maxpreps,0,,0.4399,64
+oh,lewis-center,olentangy-braves,Olentangy,Braves,,Ohio Capital - Cardinal,maxpreps,0,,0.5915,78
+oh,delaware,olentangy-berlin-bears,Olentangy Berlin,Bears,,Ohio Capital - Cardinal,maxpreps,0,,0.3818,59
+oh,dublin,dublin-jerome-celtics,Dublin Jerome,Celtics,,Ohio Capital - Cardinal,maxpreps,0,,0.3687,58
+oh,marysville,marysville-monarchs,Marysville,Monarchs,,Ohio Capital - Cardinal,maxpreps,0,,0.4015,61
+oh,worthington,thomas-worthington-cardinals,Thomas Worthington,Cardinals,,Ohio Capital - Cardinal,maxpreps,0,,0.3198,54
+oh,hilliard,hilliard-darby-panthers,Hilliard Darby,Panthers,,Ohio Capital - Cardinal,maxpreps,0,,0.3960,60
+oh,hilliard,hilliard-bradley-jaguars,Hilliard Bradley,Jaguars,,Ohio Capital - Central,maxpreps,0,,0.5197,71
+oh,lewis-center,olentangy-orange-pioneers,Olentangy Orange,Pioneers,,Ohio Capital - Central,maxpreps,0,,0.7053,88
+oh,dublin,dublin-coffman-rocks,Dublin Coffman,Rocks,,Ohio Capital - Central,maxpreps,0,,0.4621,66
+oh,columbus,upper-arlington-golden-bears,Upper Arlington,Golden Bears,,Ohio Capital - Central,maxpreps,0,,0.5902,78
+oh,powell,olentangy-liberty-patriots,Olentangy Liberty,Patriots,,Ohio Capital - Central,maxpreps,0,,0.4771,68
+oh,hilliard,hilliard-davidson-wildcats,Hilliard Davidson,Wildcats,,Ohio Capital - Central,maxpreps,0,,0.3425,56
+oh,gahanna,lincoln-lions,Lincoln,Lions,,Ohio Capital - Ohio,maxpreps,0,,0.4620,66
+oh,new-albany,new-albany-eagles,New Albany,Eagles,,Ohio Capital - Ohio,maxpreps,0,,0.4811,68
+oh,grove-city,grove-city-greyhounds,Grove City,Greyhounds,,Ohio Capital - Ohio,maxpreps,0,,0.3133,53
+oh,westerville,westerville-central-warhawks,Westerville Central,Warhawks,,Ohio Capital - Ohio,maxpreps,0,,0.3618,57
+oh,pickerington,pickerington-north-panthers,Pickerington North,Panthers,,Ohio Capital - Ohio,maxpreps,0,,0.3956,60
+oh,grove-city,central-crossing-comets,Central Crossing,Comets,,Ohio Capital - Ohio,maxpreps,0,,0.3277,54
+oh,new-philadelphia,new-philadelphia-quakers,New Philadelphia,Quakers,,Ohio Cardinal,maxpreps,0,,0.4364,64
+oh,mansfield,mansfield-senior-tygers,Mansfield Senior,Tygers,,Ohio Cardinal,maxpreps,0,,0.4685,67
+oh,ashland,ashland-arrows,Ashland,Arrows,,Ohio Cardinal,maxpreps,0,,0.4009,61
+oh,dover,dover-crimson-tornadoes,Dover,Crimson Tornadoes,,Ohio Cardinal,maxpreps,0,,0.3802,59
+oh,wooster,wooster-generals,Wooster,Generals,,Ohio Cardinal,maxpreps,0,,0.3453,56
+oh,lexington,lexington-minutemen,Lexington,Minutemen,,Ohio Cardinal,maxpreps,0,,0.3470,56
+oh,mansfield,madison-comprehensive-rams,Madison Comprehensive,Rams,,Ohio Cardinal,maxpreps,0,,0.2139,44
+oh,millersburg,west-holmes-knights,West Holmes,Knights,,Ohio Cardinal,maxpreps,0,,0.1347,37
+oh,pepper-pike,heritage-classical-academy-griffins,Heritage Classical Academy,Griffins,,Ohio Christian,maxpreps,0,,0.0430,29
+oh,brooklyn,heritage-christian-patriots,Heritage Christian,Patriots,,Ohio Christian,od_fallback,0,,0.1104,35
+oh,milford-center,fairbanks-panthers,Fairbanks,Panthers,,Ohio Heritage,maxpreps,0,,0.4864,69
+oh,cedarville,cedarville-indians,Cedarville,Indians,,Ohio Heritage,maxpreps,0,,0.3255,54
+oh,west-liberty,west-liberty-salem-tigers,West Liberty-Salem,Tigers,,Ohio Heritage,maxpreps,0,,0.3547,57
+oh,west-jefferson,west-jefferson-roughriders,West Jefferson,Roughriders,,Ohio Heritage,maxpreps,0,,0.1926,42
+oh,springfield,catholic-central-irish,Catholic Central,Irish,,Ohio Heritage,maxpreps,0,,0.1900,42
+oh,jamestown,greeneview-rams,Greeneview,Rams,,Ohio Heritage,maxpreps,0,,0.1752,41
+oh,springfield,greenon-knights,Greenon,Knights,,Ohio Heritage,maxpreps,0,,0.0748,32
+oh,mechanicsburg,mechanicsburg-indians,Mechanicsburg,Indians,,Ohio Heritage,maxpreps,0,,0.1503,38
+oh,springfield,northeastern-jets,Northeastern,Jets,,Ohio Heritage,maxpreps,0,,0.1134,35
+oh,south-charleston,southeastern-local-trojans,Southeastern Local,Trojans,,Ohio Heritage,maxpreps,0,,0.1171,35
+oh,london,madison-plains-golden-eages,Madison Plains,Golden Eages,,Ohio Heritage,od_fallback,0,,0.1796,41
+oh,north-lewisburg,triad-cardinals,Triad,Cardinals,,Ohio Heritage,od_fallback,0,,0.1696,40
+oh,ironton,ironton-fighting-tigers,Ironton,Fighting Tigers,,Ohio Valley,maxpreps,0,,0.4640,67
+oh,chesapeake,chesapeake-panthers,Chesapeake,Panthers,,Ohio Valley,maxpreps,0,,0.5504,74
+oh,portsmouth,portsmouth-trojans,Portsmouth,Trojans,,Ohio Valley,maxpreps,0,,0.3582,57
+oh,proctorville,fairland-dragons,Fairland,Dragons,,Ohio Valley,maxpreps,0,,0.4575,66
+oh,gallipolis,gallia-academy-blue-devils,Gallia Academy,Blue Devils,,Ohio Valley,maxpreps,0,,0.2507,47
+oh,south-point,south-point-pointers,South Point,Pointers,,Ohio Valley,maxpreps,0,,0.3239,54
+oh,ironton,rock-hill-redmen,Rock Hill,Redmen,,Ohio Valley,maxpreps,0,,0.2363,46
+oh,coal-grove,dawson-bryant-hornets,Dawson-Bryant,Hornets,,Ohio Valley,maxpreps,0,,0.2299,46
+oh,columbiana,heartland-christian-lions,Heartland Christian,Lions,,Ohio Valley A,maxpreps,0,,0.3597,57
+oh,wellsville,wellsville-tigers,Wellsville,Tigers,,Ohio Valley A,maxpreps,0,,0.1732,40
+oh,bowerston,conotton-valley-rockets,Conotton Valley,Rockets,,Ohio Valley A,maxpreps,0,,0.1396,37
+oh,new-matamoras,frontier-cougars,Frontier,Cougars,,Ohio Valley A,maxpreps,0,,0.2139,44
+oh,toronto,toronto-red-knights,Toronto,Red Knights,,Ohio Valley AA,maxpreps,0,,0.3642,58
+oh,lisbon,david-anderson-blue-devils,David Anderson,Blue Devils,,Ohio Valley AA,maxpreps,0,,0.1749,41
+oh,bridgeport,bridgeport-bulldogs,Bridgeport,Bulldogs,,Ohio Valley AA,maxpreps,0,,0.2036,43
+oh,caldwell,caldwell-redskins,Caldwell,Redskins,,Ohio Valley AA,maxpreps,0,,0.3785,59
+oh,hannibal,river-pilots,River,Pilots,,Ohio Valley AA,maxpreps,0,,0.1941,42
+oh,steubenville,catholic-central-crusaders,Catholic Central,Crusaders,,Ohio Valley AA,maxpreps,0,,0.2267,45
+oh,shadyside,shadyside-tigers,Shadyside,Tigers,,Ohio Valley AA,od_fallback,0,,0.0179,27
+oh,woodsfield,monroe-central-seminoles,Monroe Central,Seminoles,,Ohio Valley AAA,maxpreps,0,,0.5806,77
+oh,martins-ferry,martins-ferry-purple-riders,Martins Ferry,Purple Riders,,Ohio Valley AAA,maxpreps,0,,0.3959,60
+oh,columbiana,columbiana-clippers,Columbiana,Clippers,,Ohio Valley AAA,maxpreps,0,,0.2340,46
+oh,hanoverton,united-golden-eagles,United,Golden Eagles,,Ohio Valley AAA,od_fallback,0,,0.3146,53
+oh,barnesville,barnesville-shamrocks,Barnesville,Shamrocks,,Ohio Valley AAA,maxpreps,0,,0.1476,38
+oh,east-palestine,east-palestine-bulldogs,East Palestine,Bulldogs,,Ohio Valley AAA,maxpreps,0,,0.1358,37
+oh,sarahsville,shenandoah-zeps,Shenandoah,Zeps,,Ohio Valley AAA,maxpreps,0,,0.2656,49
+oh,bellaire,bellaire-big-reds,Bellaire,Big Reds,,Ohio Valley AAA,maxpreps,0,,0.3052,52
+oh,beverly,fort-frye-cadets,Fort Frye,Cadets,,Ohio Valley AAA,maxpreps,0,,0.2539,48
+oh,lisbon,beaver-local-beavers,Beaver Local,Beavers,,Ohio Valley AAAA,maxpreps,0,,0.3863,60
+oh,cambridge,cambridge-bobcats,Cambridge,Bobcats,,Ohio Valley AAAA,maxpreps,0,,0.5243,72
+oh,st-clairsville,st-clairsville-red-devils,St. Clairsville,Red Devils,,Ohio Valley AAAA,maxpreps,0,,0.4554,66
+oh,east-liverpool,east-liverpool-potters,East Liverpool,Potters,,Ohio Valley AAAA,maxpreps,0,,0.3354,55
+oh,richmond,edison-wildcats,Edison,Wildcats,,Ohio Valley AAAA,maxpreps,0,,0.1213,36
+oh,belmont,union-local-jets,Union Local,Jets,,Ohio Valley AAAA,maxpreps,0,,0.3177,53
+oh,rayland,buckeye-local-panthers,Buckeye Local,Panthers,,Ohio Valley AAAA,od_fallback,0,,0.2150,44
+oh,wintersville,indian-creek-redskins,Indian Creek,Redskins,,Ohio Valley AAAA,maxpreps,0,,0.1594,39
+oh,cadiz,harrison-central-huskies,Harrison Central,Huskies,,Ohio Valley AAAA,maxpreps,0,,0.1645,40
+oh,steubenville,steubenville-big-red,Steubenville,Big Red,,Ohio Valley AAAAA,maxpreps,0,,0.6236,81
+oh,centerville,spring-valley-academy-stallions,Spring Valley Academy,Stallions,,Ohio Valley Christian,maxpreps,0,,0.2546,48
+oh,springboro,chess-christian-royals,CHESS Christian,Royals,,Ohio Valley Christian,maxpreps,0,,0.3007,52
+oh,dayton,temple-christian-tigers,Temple Christian,Tigers,,Ohio Valley Christian,maxpreps,0,,0.3096,53
+oh,germantown,germantown-christian-cardinals,Germantown Christian,Cardinals,,Ohio Valley Christian,maxpreps,0,,0.0545,30
+oh,cincinnati,mars-hill-academy,Mars Hill Academy,Academy,,Ohio Valley Christian,od_fallback,0,,0.2118,44
+oh,norwood,immaculate-conception-academy,Immaculate Conception Academy,Academy,,Ohio Valley Christian,maxpreps,0,,0.1861,42
+oh,dayton,dominion-academy-sabers,Dominion Academy,Sabers,,Ohio Valley Christian,od_fallback,0,,0.3449,56
+oh,dayton,east-dayton-christian,East Dayton Christian,Christian,,Ohio Valley Christian,od_fallback,0,,0.4115,62
+oh,sidney,christian-academy-eagles,Christian Academy,Eagles,,Ohio Valley Christian,maxpreps,0,,0.4898,69
+oh,mason,royalmont-academy-classical-prep-cristeros,Royalmont Academy Classical Prep,Cristeros,,Ohio Valley Christian,od_fallback,0,,0.4680,67
+oh,hartville,lake-center-christian-tiger,Lake Center Christian,Tiger,,Portage Trail,maxpreps,0,,0.3491,56
+oh,louisville,aquinas-knights,Aquinas,Knights,,Portage Trail,maxpreps,0,,0.1888,42
+oh,warren,john-f-kennedy-catholic-eagles,John F. Kennedy Catholic,Eagles,,Portage Trail,maxpreps,0,,0.2254,45
+oh,mogadore,mogadore-wildcats,Mogadore,Wildcats,,Portage Trail,maxpreps,0,,0.2072,44
+oh,akron,manchester-panthers,Manchester,Panthers,,Principals,maxpreps,0,,0.3754,59
+oh,orrville,orrville-red-riders,Orrville,Red Riders,,Principals,maxpreps,0,,0.3623,57
+oh,wooster,triway-titans,Triway,Titans,,Principals,maxpreps,0,,0.3508,56
+oh,canal-fulton,northwest-indians,Northwest,Indians,,Principals,maxpreps,0,,0.4348,64
+oh,canton,canton-south-wildcats,Canton South,Wildcats,,Principals,maxpreps,0,,0.2407,47
+oh,massillon,tuslaw-mustangs,Tuslaw,Mustangs,,Principals,maxpreps,0,,0.1757,41
+oh,navarre,fairless-falcons,Fairless,Falcons,,Principals,od_fallback,0,,0.1819,41
+oh,kalida,kalida-wildcats,Kalida,Wildcats,,Putnam County,maxpreps,0,,0.4292,63
+oh,miller-city,miller-city-wildcats,Miller City,Wildcats,,Putnam County,maxpreps,0,,0.4238,63
+oh,columbus-grove,columbus-grove-bulldogs,Columbus Grove,Bulldogs,,Putnam County,maxpreps,0,,0.4717,67
+oh,ottoville,ottoville-big-green,Ottoville,Big Green,,Putnam County,maxpreps,0,,0.2869,51
+oh,fort-jennings,fort-jennings-musketeers,Fort Jennings,Musketeers,,Putnam County,maxpreps,0,,0.3405,55
+oh,continental,continental-pirates,Continental,Pirates,,Putnam County,od_fallback,0,,0.2496,47
+oh,pandora,pandora-gilboa-rockets,Pandora-Gilboa,Rockets,,Putnam County,maxpreps,0,,0.1946,42
+oh,castalia,margaretta-polar-bears,Margaretta,Polar Bears,,Sandusky Bay - Bay,maxpreps,0,,0.4362,64
+oh,willard,willard-crimson-flashes,Willard,Crimson Flashes,,Sandusky Bay - Bay,maxpreps,0,,0.3597,57
+oh,port-clinton,port-clinton-redskins,Port Clinton,Redskins,,Sandusky Bay - Bay,maxpreps,0,,0.2852,51
+oh,huron,huron-tigers,Huron,Tigers,,Sandusky Bay - Bay,maxpreps,0,,0.2729,49
+oh,vermilion,vermilion-sailors,Vermilion,Sailors,,Sandusky Bay - Bay,maxpreps,0,,0.1835,41
+oh,milan,edison-chargers,Edison,Chargers,,Sandusky Bay - Bay,maxpreps,0,,0.2075,44
+oh,sandusky,perkins-pirates,Perkins,Pirates,,Sandusky Bay - Lake,maxpreps,0,,0.5363,73
+oh,sandusky,sandusky-streaky-bear,Sandusky,Streaky Bear,,Sandusky Bay - Lake,maxpreps,0,,0.4670,67
+oh,bellevue,bellevue-redmen,Bellevue,Redmen,,Sandusky Bay - Lake,maxpreps,0,,0.4064,61
+oh,tiffin,columbian-tornadoes,Columbian,Tornadoes,,Sandusky Bay - Lake,maxpreps,0,,0.2681,49
+oh,clyde,clyde-fliers,Clyde,Fliers,,Sandusky Bay - Lake,maxpreps,0,,0.3183,53
+oh,norwalk,norwalk-truckers,Norwalk,Truckers,,Sandusky Bay - Lake,maxpreps,0,,0.3058,52
+oh,gibsonburg,gibsonburg-golden-bears,Gibsonburg,Golden Bears,,Sandusky Bay - River,maxpreps,0,,0.3507,56
+oh,sandusky,st-mary-central-catholic-panthers,St. Mary Central Catholic,Panthers,,Sandusky Bay - River,maxpreps,0,,0.2689,49
+oh,old-fort,old-fort-stockaders,Old Fort,Stockaders,,Sandusky Bay - River,maxpreps,0,,0.3827,59
+oh,tiffin,calvert-senecas,Calvert,Senecas,,Sandusky Bay - River,maxpreps,0,,0.3409,55
+oh,kansas,lakota-raiders,Lakota,Raiders,,Sandusky Bay - River,maxpreps,0,,0.2184,45
+oh,bascom,hopewell-loudon-chieftains,Hopewell-Loudon,Chieftains,,Sandusky Bay - River,maxpreps,0,,0.2202,45
+oh,elmore,woodmore-wildcats,Woodmore,Wildcats,,Sandusky Bay - River,maxpreps,0,,0.1230,36
+oh,new-riegel,new-riegel-blue-jackets,New Riegel,Blue Jackets,,Sandusky Bay - River,maxpreps,0,,0.1762,41
+oh,northwood,northwood-rangers,Northwood,Rangers,,Sandusky Bay - River,od_fallback,0,,0.0834,32
+oh,lakeside,danbury-lakers,Danbury,Lakers,,Sandusky Bay - River,od_fallback,0,,0.0318,28
+oh,fremont,st-joseph-central-catholic-crimson-streaks,St. Joseph Central Catholic,Crimson Streaks,,Sandusky Bay - River,od_fallback,0,,0.0000,25
+oh,chillicothe,unioto-shermans,Unioto,Shermans,,Scioto Valley,maxpreps,0,,0.5398,73
+oh,chillicothe,zane-trace-pioneers,Zane Trace,Pioneers,,Scioto Valley,maxpreps,0,,0.4445,65
+oh,frankfort,adena-warriors,Adena,Warriors,,Scioto Valley,maxpreps,0,,0.2163,44
+oh,chillicothe,huntington-huntsmen,Huntington,Huntsmen,,Scioto Valley,maxpreps,0,,0.2435,47
+oh,chillicothe,southeastern-panthers,Southeastern,Panthers,,Scioto Valley,maxpreps,0,,0.2208,45
+oh,piketon,piketon-redstreaks,Piketon,Redstreaks,,Scioto Valley,maxpreps,0,,0.1896,42
+oh,williamsport,westfall-mustangs,Westfall,Mustangs,,Scioto Valley,maxpreps,0,,0.1961,43
+oh,bainbridge,paint-valley-bearcats,Paint Valley,Bearcats,,Scioto Valley,maxpreps,0,,0.2318,46
+oh,cleveland,rhodes-rams,Rhodes,Rams,,Senate,maxpreps,0,,0.3057,52
+oh,cleveland,glenville-tarblooders,Glenville,Tarblooders,,Senate,maxpreps,0,,0.4902,69
+oh,cleveland,garrett-morgan-falcons,Garrett Morgan,Falcons,,Senate,maxpreps,0,,0.3285,54
+oh,cleveland,john-hay-hornets,John Hay,Hornets,,Senate,maxpreps,0,,0.2522,48
+oh,cleveland,john-adams-rebels,John Adams,Rebels,,Senate,maxpreps,0,,0.1816,41
+oh,cleveland,east-tech-scarabs,East Tech,Scarabs,,Senate,maxpreps,0,,0.1827,41
+oh,cleveland,john-marshall-lawyers,John Marshall,Lawyers,,Senate,maxpreps,0,,0.1806,41
+oh,cleveland,john-f-kennedy-fighting-eagles,John F. Kennedy,Fighting Eagles,,Senate,maxpreps,0,,0.2007,43
+oh,cleveland,max-s-hayes-lakers,Max S. Hayes,Lakers,,Senate,od_fallback,0,,0.1727,40
+oh,cleveland,collinwood-railroaders,Collinwood,Railroaders,,Senate,maxpreps,0,,0.0964,34
+oh,cleveland,bard-early-college-raptors,Bard Early College,Raptors,,Senate,od_fallback,0,,0.1034,34
+oh,cleveland,lincoln-west-wolverines,Lincoln West,Wolverines,,Senate,od_fallback,0,,0.0687,31
+oh,botkins,botkins-trojans,Botkins,Trojans,,Shelby County,maxpreps,0,,0.4736,67
+oh,jackson-center,jackson-center-tigers,Jackson Center,Tigers,,Shelby County,maxpreps,0,,0.3982,61
+oh,anna,anna-rockets,Anna,Rockets,,Shelby County,maxpreps,0,,0.4131,62
+oh,russia,russia-raiders,Russia,Raiders,,Shelby County,maxpreps,0,,0.4338,64
+oh,fort-loramie,fort-loramie-redskins,Fort Loramie,Redskins,,Shelby County,maxpreps,0,,0.3409,55
+oh,sidney,fairlawn-jets,Fairlawn,Jets,,Shelby County,maxpreps,0,,0.2167,44
+oh,houston,houston-wildcats,Houston,Wildcats,,Shelby County,maxpreps,0,,0.2456,47
+oh,goshen,goshen-warriors,Goshen,Warriors,,Southern Buckeye - American,maxpreps,0,,0.4549,66
+oh,batavia,batavia-bulldogs,Batavia,Bulldogs,,Southern Buckeye - American,maxpreps,0,,0.4005,61
+oh,wilmington,wilmington-hurricane,Wilmington,Hurricane,,Southern Buckeye - American,maxpreps,0,,0.2614,48
+oh,mt-orab,western-brown-broncos,Western Brown,Broncos,,Southern Buckeye - American,maxpreps,0,,0.1566,39
+oh,clarksville,clinton-massie-falcons,Clinton-Massie,Falcons,,Southern Buckeye - American,maxpreps,0,,0.1281,36
+oh,new-richmond,new-richmond-lions,New Richmond,Lions,,Southern Buckeye - American,maxpreps,0,,0.2363,46
+oh,williamsburg,williamsburg-wildcats,Williamsburg,Wildcats,,Southern Buckeye - National,maxpreps,0,,0.4114,62
+oh,sabina,east-clinton-astros,East Clinton,Astros,,Southern Buckeye - National,maxpreps,0,,0.2563,48
+oh,batavia,clermont-northeastern-rockets,Clermont Northeastern,Rockets,,Southern Buckeye - National,maxpreps,0,,0.2097,44
+oh,georgetown,georgetown-g-men,Georgetown,G Men,,Southern Buckeye - National,maxpreps,0,,0.1351,37
+oh,bethel,bethel-tate-tigers,Bethel-Tate,Tigers,,Southern Buckeye - National,maxpreps,0,,0.1926,42
+oh,felicity,felicity-franklin-cardinals,Felicity-Franklin,Cardinals,,Southern Buckeye - National,maxpreps,0,,0.1374,37
+oh,blanchester,blanchester-wildcats,Blanchester,Wildcats,,Southern Buckeye - National,od_fallback,0,,0.1481,38
+oh,sardinia,eastern-warriors,Eastern,Warriors,,Southern Hills,maxpreps,0,,0.4608,66
+oh,fayetteville,fayetteville-perry-rockets,Fayetteville-Perry,Rockets,,Southern Hills,maxpreps,0,,0.3452,56
+oh,leesburg,fairfield-lions,Fairfield,Lions,,Southern Hills,maxpreps,0,,0.3914,60
+oh,peebles,peebles-indians,Peebles,Indians,,Southern Hills,maxpreps,0,,0.3670,58
+oh,seaman,north-adams-green-devils,North Adams,Green Devils,,Southern Hills,maxpreps,0,,0.3717,58
+oh,lynchburg,lynchburg-clay-mustangs,Lynchburg-Clay,Mustangs,,Southern Hills,maxpreps,0,,0.2067,43
+oh,mowrystown,whiteoak-wildcats,Whiteoak,Wildcats,,Southern Hills,maxpreps,0,,0.1676,40
+oh,manchester,manchester-greyhounds,Manchester,Greyhounds,,Southern Hills,maxpreps,0,,0.2169,44
+oh,west-union,west-union-dragons,West Union,Dragons,,Southern Hills,maxpreps,0,,0.1507,38
+oh,ripley,ripley-union-lewis-huntington-blue-jays,Ripley-Union-Lewis-Huntington,Blue Jays,,Southern Hills,od_fallback,0,,0.2179,44
+oh,mason,liberty-bible-academy-patriots,Liberty Bible Academy,Patriots,,Southern Ohio Christian,maxpreps,0,,0.1836,41
+oh,chillicothe,ross-county-christian-academy-eagles,Ross County Christian Academy,Eagles,,Southern Ohio Christian,maxpreps,0,,0.2144,44
+oh,washington-court-house,fayette-christian,Fayette Christian,Christian,,Southern Ohio Christian,od_fallback,0,,0.2285,45
+oh,west-union,adams-county-christian-eagles,Adams County Christian,Eagles,,Southern Ohio Christian,maxpreps,0,,0.0714,31
+oh,hillsboro,hillsboro-christian-academy-crusaders,Hillsboro Christian Academy,Crusaders,,Southern Ohio Christian,od_fallback,0,,0.0925,33
+oh,wilmington,wilmington-christian-academy-blazers,Wilmington Christian Academy,Blazers,,Southern Ohio Christian,od_fallback,0,,0.0245,27
+oh,portsmouth,notre-dame-titans,Notre Dame,Titans,,Southern Ohio I,maxpreps,0,,0.3384,55
+oh,franklin-furnace,green-bobcats,Green,Bobcats,,Southern Ohio I,maxpreps,0,,0.1576,39
+oh,ironton,st-joseph-central-flyers,St. Joseph Central,Flyers,,Southern Ohio I,maxpreps,0,,0.1357,37
+oh,portsmouth,clay-panthers,Clay,Panthers,,Southern Ohio I,maxpreps,0,,0.4534,66
+oh,new-boston,glenwood-tigers,Glenwood,Tigers,,Southern Ohio I,od_fallback,0,,0.5207,72
+oh,sciotoville,east-tartans,East,Tartans,,Southern Ohio I,maxpreps,0,,0.2559,48
+oh,beaver,eastern-eagles,Eastern,Eagles,,Southern Ohio II,maxpreps,0,,0.4201,63
+oh,mcdermott,northwest-mohawks,Northwest,Mohawks,,Southern Ohio II,maxpreps,0,,0.2623,48
+oh,willow-wood,symmes-valley-vikings,Symmes Valley,Vikings,,Southern Ohio II,maxpreps,0,,0.2761,50
+oh,latham,western-indians,Western,Indians,,Southern Ohio II,maxpreps,0,,0.2454,47
+oh,oak-hill,oak-hill-oaks,Oak Hill,Oaks,,Southern Ohio II,maxpreps,0,,0.1882,42
+oh,crown-city,south-gallia-rebels,South Gallia,Rebels,,Southern Ohio II,maxpreps,0,,0.1033,34
+oh,wheelersburg,wheelersburg-pirates,Wheelersburg,Pirates,,Southern Ohio III,maxpreps,0,,0.4800,68
+oh,west-portsmouth,portsmouth-west-senators,Portsmouth West,Senators,,Southern Ohio III,maxpreps,0,,0.4458,65
+oh,lucasville,valley-indians,Valley,Indians,,Southern Ohio III,maxpreps,0,,0.3849,59
+oh,waverly,waverly-tigers,Waverly,Tigers,,Southern Ohio III,maxpreps,0,,0.3612,57
+oh,south-webster,south-webster-jeeps,South Webster,Jeeps,,Southern Ohio III,maxpreps,0,,0.3754,59
+oh,minford,minford-falcons,Minford,Falcons,,Southern Ohio III,maxpreps,0,,0.4111,62
+oh,cincinnati,northwest-knights,Northwest,Knights,,Southwest Ohio,maxpreps,0,,0.4396,64
+oh,cincinnati,mt-healthy-fighting-owls,Mt. Healthy,Fighting Owls,,Southwest Ohio,maxpreps,0,,0.2473,47
+oh,harrison,harrison-wildcats,Harrison,Wildcats,,Southwest Ohio,maxpreps,0,,0.2715,49
+oh,olmsted-falls,olmsted-falls-bulldogs,Olmsted Falls,Bulldogs,,Southwestern,maxpreps,0,,0.5289,72
+oh,berea,berea-midpark-titans,Berea-Midpark,Titans,,Southwestern,maxpreps,0,,0.4336,64
+oh,elyria,elyria-pioneers,Elyria,Pioneers,,Southwestern,maxpreps,0,,0.4502,65
+oh,avon,avon-eagles,Avon,Eagles,,Southwestern,maxpreps,0,,0.4667,67
+oh,amherst,steele-comets,Steele,Comets,,Southwestern,maxpreps,0,,0.3988,61
+oh,north-ridgeville,north-ridgeville-rangers,North Ridgeville,Rangers,,Southwestern,maxpreps,0,,0.4011,61
+oh,avon-lake,avon-lake-shoremen,Avon Lake,Shoremen,,Southwestern,maxpreps,0,,0.3277,54
+oh,grafton,midview-middies,Midview,Middies,,Southwestern,maxpreps,0,,0.1746,41
+oh,waynesville,waynesville-spartans,Waynesville,Spartans,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.5069,70
+oh,dayton,oakwood-lumberjacks-and-jills,Oakwood,Lumberjacks And Jills,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.4110,62
+oh,germantown,valley-view-spartans,Valley View,Spartans,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.4014,61
+oh,brookville,brookville-blue-devils,Brookville,Blue Devils,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.3524,57
+oh,miamisburg,dayton-christian-warriors,Dayton Christian,Warriors,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.3463,56
+oh,carlisle,carlisle-indians,Carlisle,Indians,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.3046,52
+oh,eaton,eaton-eagles,Eaton,Eagles,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.1064,35
+oh,middletown,madison-mohawks,Madison,Mohawks,,Southwestern Buckeye - Buckeye,maxpreps,0,,0.0983,34
+oh,monroe,monroe-hornets,Monroe,Hornets,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.4603,66
+oh,trenton,edgewood-cougars,Edgewood,Cougars,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.3775,59
+oh,bellbrook,bellbrook-golden-eagles,Bellbrook,Golden Eagles,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.4512,65
+oh,hamilton,ross-rams,Ross,Rams,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.3571,57
+oh,franklin,franklin-wildcats,Franklin,Wildcats,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.2823,50
+oh,oxford,talawanda-brave,Talawanda,Brave,,Southwestern Buckeye - Southwestern,maxpreps,0,,0.1201,36
+oh,youngstown,ursuline-fighting-irish,Ursuline,Fighting Irish,,Steel Valley,maxpreps,0,,0.5504,74
+oh,youngstown,chaney-cowboys,Chaney,Cowboys,,Steel Valley,maxpreps,0,,0.5032,70
+oh,youngstown,east,East,East,,Steel Valley,maxpreps,0,,0.2559,48
+oh,youngstown,cardinal-mooney-cardinals,Cardinal Mooney,Cardinals,,Steel Valley,maxpreps,0,,0.2615,48
+oh,medina,highland-hornets,Highland,Hornets,,Suburban - American,maxpreps,0,,0.5209,72
+oh,tallmadge,tallmadge-blue-devils,Tallmadge,Blue Devils,,Suburban - American,maxpreps,0,,0.4246,63
+oh,copley,copley-indians,Copley,Indians,,Suburban - American,maxpreps,0,,0.3809,59
+oh,aurora,aurora-greenmen,Aurora,Greenmen,,Suburban - American,maxpreps,0,,0.2817,50
+oh,richfield,revere-minutemen,Revere,Minutemen,,Suburban - American,maxpreps,0,,0.2940,51
+oh,cuyahoga-falls,cuyahoga-falls-black-tigers,Cuyahoga Falls,Black Tigers,,Suburban - American,maxpreps,0,,0.3065,52
+oh,barberton,barberton-magics,Barberton,Magics,,Suburban - American,maxpreps,0,,0.2506,47
+oh,kent,roosevelt-rough-riders,Roosevelt,Rough Riders,,Suburban - American,maxpreps,0,,0.2791,50
+oh,broadview-heights,brecksville-broadview-heights-bees,Brecksville-Broadview Heights,Bees,,Suburban - National,maxpreps,0,,0.5924,78
+oh,north-royalton,north-royalton-bears,North Royalton,Bears,,Suburban - National,maxpreps,0,,0.6976,87
+oh,stow,stow-munroe-falls-bulldogs,Stow-Munroe Falls,Bulldogs,,Suburban - National,maxpreps,0,,0.3944,60
+oh,hudson,hudson-explorers,Hudson,Explorers,,Suburban - National,maxpreps,0,,0.4784,68
+oh,solon,solon-comets,Solon,Comets,,Suburban - National,maxpreps,0,,0.4694,67
+oh,macedonia,nordonia-knights,Nordonia,Knights,,Suburban - National,maxpreps,0,,0.5281,72
+oh,wadsworth,wadsworth-grizzlies,Wadsworth,Grizzlies,,Suburban - National,maxpreps,0,,0.3062,52
+oh,twinsburg,twinsburg-tigers,Twinsburg,Tigers,,Suburban - National,maxpreps,0,,0.3624,57
+oh,dayton,northridge-polar-bears,Northridge,Polar Bears,,Three Rivers,maxpreps,0,,0.5876,78
+oh,troy,troy-christian-eagles,Troy Christian,Eagles,,Three Rivers,maxpreps,0,,0.2897,51
+oh,sidney,lehman-catholic-cavaliers,Lehman Catholic,Cavaliers,,Three Rivers,maxpreps,0,,0.4238,63
+oh,casstown,miami-east-vikings,Miami East,Vikings,,Three Rivers,maxpreps,0,,0.2565,48
+oh,tipp-city,bethel-bees,Bethel,Bees,,Three Rivers,maxpreps,0,,0.2439,47
+oh,west-milton,milton-union-bulldogs,Milton-Union,Bulldogs,,Three Rivers,maxpreps,0,,0.1622,40
+oh,covington,covington-buccaneers,Covington,Buccaneers,,Three Rivers,maxpreps,0,,0.1414,38
+oh,de-graff,riverside-pirates,Riverside,Pirates,,Three Rivers,maxpreps,0,,0.1811,41
+oh,toledo,maumee-valley-country-day-hawks,Maumee Valley Country Day,Hawks,,Toledo Area,maxpreps,0,,0.4440,65
+oh,oregon,cardinal-stritch-cardinals,Cardinal Stritch,Cardinals,,Toledo Area,maxpreps,0,,0.2300,46
+oh,toledo,ottawa-hills-green-bears,Ottawa Hills,Green Bears,,Toledo Area,maxpreps,0,,0.2988,52
+oh,toledo,toledo-christian-eagles,Toledo Christian,Eagles,,Toledo Area,maxpreps,0,,0.2194,45
+oh,toledo,emmanuel-christian-warriors,Emmanuel Christian,Warriors,,Toledo Area,maxpreps,0,,0.2997,52
+oh,lima,lima-senior-spartans,Lima Senior,Spartans,,Toledo City,maxpreps,0,,0.5787,77
+oh,toledo,rogers-rams,Rogers,Rams,,Toledo City,maxpreps,0,,0.4311,64
+oh,toledo,start-spartans,Start,Spartans,,Toledo City,maxpreps,0,,0.3998,61
+oh,toledo,woodward-polar-bears,Woodward,Polar Bears,,Toledo City,maxpreps,0,,0.1972,43
+oh,toledo,bowsher-blueracers,Bowsher,Blueracers,,Toledo City,maxpreps,0,,0.2120,44
+oh,toledo,scott-bulldogs,Scott,Bulldogs,,Toledo City,maxpreps,0,,0.2117,44
+oh,toledo,waite-indians,Waite,Indians,,Toledo City,od_fallback,0,,0.2098,44
+oh,pomeroy,meigs-marauders,Meigs,Marauders,,Tri-Valley I,maxpreps,0,,0.4011,61
+oh,wellston,wellston-golden-rockets,Wellston,Golden Rockets,,Tri-Valley I,maxpreps,0,,0.3075,53
+oh,nelsonville,nelsonville-york-buckeyes,Nelsonville-York,Buckeyes,,Tri-Valley I,maxpreps,0,,0.2114,44
+oh,mcarthur,vinton-county-vikings,Vinton County,Vikings,,Tri-Valley I,maxpreps,0,,0.1872,42
+oh,bidwell,river-valley-raiders,River Valley,Raiders,,Tri-Valley I,maxpreps,0,,0.2354,46
+oh,the-plains,athens-bulldogs,Athens,Bulldogs,,Tri-Valley I,maxpreps,0,,0.1765,41
+oh,albany,alexander-spartans,Alexander,Spartans,,Tri-Valley I,maxpreps,0,,0.1717,40
+oh,racine,southern-tornadoes,Southern,Tornadoes,,Tri-Valley II,maxpreps,0,,0.3396,55
+oh,waterford,waterford-wildcats,Waterford,Wildcats,,Tri-Valley II,maxpreps,0,,0.1870,42
+oh,belpre,belpre-golden-eagles,Belpre,Golden Eagles,,Tri-Valley II,maxpreps,0,,0.2089,44
+oh,reedsville,eastern-eagles,Eastern,Eagles,,Tri-Valley II,maxpreps,0,,0.4201,63
+oh,glouster,trimble-tomcats,Trimble,Tomcats,,Tri-Valley II,od_fallback,0,,0.3698,58
+oh,stewart,federal-hocking-lancers,Federal Hocking,Lancers,,Tri-Valley II,od_fallback,0,,0.3598,57
+oh,marietta,marietta-tigers,Marietta,Tigers,,Twin State,maxpreps,0,,0.5427,74
+oh,vincent,warren-warriors,Warren,Warriors,,Twin State,maxpreps,0,,0.3921,60
+oh,beverly,fort-frye-cadets,Fort Frye,Cadets,,Twin State,maxpreps,0,,0.2539,48
+oh,new-albany,cornerstone-academy-wolves,Cornerstone Academy,Wolves,,United,maxpreps,0,,0.3657,58
+oh,columbus,kipp-columbus-jaguars,KIPP Columbus,Jaguars,,United,maxpreps,0,,0.2782,50
+oh,westerville,oakstone-academy,Oakstone Academy,Academy,,United,maxpreps,0,,0.2734,49
+oh,columbus,horizon-science-academy-hawks,Horizon Science Academy,Hawks,,United,maxpreps,0,,0.2531,48
+oh,columbus,columbus-torah-academy-lions,Columbus Torah Academy,Lions,,United,maxpreps,0,,0.0803,32
+oh,zanesville,foxfire-phoenix,Foxfire,Phoenix,,United,od_fallback,0,,0.0000,25
+oh,perrysville,mohican-young-star-academy-gladiators,Mohican Young Star Academy,Gladiators,,United,od_fallback,0,,0.0000,25
+oh,columbus,patriot-prep-academy-eagles,Patriot Prep Academy,Eagles,,United,maxpreps,0,,0.4801,68
+oh,columbus,ohio-school-for-the-deaf-spartans,Ohio School for the Deaf,Spartans,,United,od_fallback,0,,0.0000,25
+oh,new-albany,marburn-academy-panthers,Marburn Academy,Panthers,,United,od_fallback,0,,0.0000,25
+oh,columbus,cristo-rey-cougar,Cristo Rey,Cougar,,United,od_fallback,0,,0.0000,25
+oh,smithville,smithville-smithies,Smithville,Smithies,,Wayne County,maxpreps,0,,0.3703,58
+oh,creston,norwayne-bobcats,Norwayne,Bobcats,,Wayne County,maxpreps,0,,0.3979,61
+oh,jeromesville,hillsdale-falcons,Hillsdale,Falcons,,Wayne County,maxpreps,0,,0.4057,61
+oh,doylestown,chippewa-chipps,Chippewa,Chipps,,Wayne County,maxpreps,0,,0.2398,46
+oh,apple-creek,waynedale-bears,Waynedale,Bears,,Wayne County,maxpreps,0,,0.2294,46
+oh,dalton,dalton-bulldogs,Dalton,Bulldogs,,Wayne County,maxpreps,0,,0.2210,45
+oh,west-salem,northwestern-huskies,Northwestern,Huskies,,Wayne County,maxpreps,0,,0.1759,41
+oh,rittman,rittman-indians,Rittman,Indians,,Wayne County,od_fallback,0,,0.1103,35
+oh,lima,shawnee-indians,Shawnee,Indians,,Western Buckeye,maxpreps,0,,0.4655,67
+oh,van-wert,van-wert-cougars,Van Wert,Cougars,,Western Buckeye,maxpreps,0,,0.4565,66
+oh,lima,bath-wildcats,Bath,Wildcats,,Western Buckeye,maxpreps,0,,0.4638,66
+oh,wapakoneta,wapakoneta-redskins,Wapakoneta,Redskins,,Western Buckeye,maxpreps,0,,0.4269,63
+oh,ottawa,ottawa-glandorf-titans,Ottawa-Glandorf,Titans,,Western Buckeye,maxpreps,0,,0.4358,64
+oh,defiance,defiance-bulldogs,Defiance,Bulldogs,,Western Buckeye,maxpreps,0,,0.4680,67
+oh,celina,celina-bulldogs,Celina,Bulldogs,,Western Buckeye,maxpreps,0,,0.2713,49
+oh,st-marys,memorial-roughriders,Memorial,Roughriders,,Western Buckeye,maxpreps,0,,0.1718,40
+oh,elida,elida-bulldogs,Elida,Bulldogs,,Western Buckeye,maxpreps,0,,0.3558,57
+oh,kenton,kenton-wildcats,Kenton,Wildcats,,Western Buckeye,maxpreps,0,,0.0479,29
+oh,new-madison,tri-village-patriots,Tri-Village,Patriots,,Western Ohio,maxpreps,0,,0.5785,77
+oh,camden,preble-shawnee-arrows,Preble Shawnee,Arrows,,Western Ohio,maxpreps,0,,0.3110,53
+oh,arcanum,arcanum-trojans,Arcanum,Trojans,,Western Ohio,maxpreps,0,,0.3544,57
+oh,pitsburg,franklin-monroe-jets,Franklin Monroe,Jets,,Western Ohio,maxpreps,0,,0.3421,56
+oh,union-city,mississinawa-valley-blackhawks,Mississinawa Valley,Blackhawks,,Western Ohio,maxpreps,0,,0.2479,47
+oh,pleasant-hill,newton-local-indians,Newton Local,Indians,,Western Ohio,maxpreps,0,,0.2381,46
+oh,new-paris,national-trail-blazers,National Trail,Blazers,,Western Ohio,maxpreps,0,,0.1636,40
+oh,west-alexandria,twin-valley-south-panthers,Twin Valley South,Panthers,,Western Ohio,maxpreps,0,,0.1974,43
+oh,new-lebanon,dixie-greyhounds,Dixie,Greyhounds,,Western Ohio,maxpreps,0,,0.1820,41
+oh,ansonia,ansonia-tigers,Ansonia,Tigers,,Western Ohio,maxpreps,0,,0.0616,31
+oh,bradford,bradford-railroaders,Bradford,Railroaders,,Western Ohio,maxpreps,0,,0.1342,37
+oh,lewisburg,tri-county-north-panthers,Tri-County North,Panthers,,Western Ohio,od_fallback,0,,0.1628,40
+oh,chagrin-falls,kenston-bombers,Kenston,Bombers,,Western Reserve,maxpreps,0,,0.4698,67
+oh,painesville,riverside-beavers,Riverside,Beavers,,Western Reserve,maxpreps,0,,0.4336,64
+oh,mayfield,mayfield-kansas,Mayfield,Kansas,,Western Reserve,maxpreps,0,,0.3374,55
+oh,chardon,chardon-hilltoppers,Chardon,Hilltoppers,,Western Reserve,maxpreps,0,,0.2845,50
+oh,willoughby,south-rebels,South,Rebels,,Western Reserve,maxpreps,0,,0.1650,40
+oh,eastlake,north-rangers,North,Rangers,,Western Reserve,maxpreps,0,,0.1664,40

@@ -1,0 +1,2315 @@
+{
+  "meta": {
+    "name": "Maine HS Basketball",
+    "version": 1,
+    "author": "Campus Hoops Scraper",
+    "description": "Boys basketball \u2014 Maine. Scraped from MaxPreps.com (25-26). Ratings: MaxPreps ranking score normalized 50\u201399. Prestige: 10-season weighted average normalized 25\u201395. Unranked teams (below games threshold) inferred from conference standing."
+  },
+  "conferences": [
+    {
+      "id": "a-north",
+      "name": "A North",
+      "abbreviation": "1A",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "a-south",
+      "name": "A South",
+      "abbreviation": "1A",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "b-north",
+      "name": "B North",
+      "abbreviation": "BN",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 30,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "b-south",
+      "name": "B South",
+      "abbreviation": "BS",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "c-north",
+      "name": "C North",
+      "abbreviation": "CN",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "c-south",
+      "name": "C South",
+      "abbreviation": "CS",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "d-north",
+      "name": "D North",
+      "abbreviation": "DN",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 30,
+      "prestigeCeiling": 85,
+      "logoUrl": null
+    },
+    {
+      "id": "d-south",
+      "name": "D South",
+      "abbreviation": "DS",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 25,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    },
+    {
+      "id": "s-north",
+      "name": "S North",
+      "abbreviation": "SN",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 70,
+      "logoUrl": null
+    },
+    {
+      "id": "s-south",
+      "name": "S South",
+      "abbreviation": "SS",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 80,
+      "logoUrl": null
+    }
+  ],
+  "teams": [
+    {
+      "id": "bangor-rams",
+      "name": "Bangor",
+      "mascot": "Rams",
+      "abbreviation": "BANG",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 66,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/e/7/6e79a122-04cb-43d5-90bd-ceb79855c8a2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "brewer-witches",
+      "name": "Brewer",
+      "mascot": "Witches",
+      "abbreviation": "BREW",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 72,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/8/e/28eb1d40-242c-41c0-b9b7-9191957a1d0d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "brunswick-dragons",
+      "name": "Brunswick",
+      "mascot": "Dragons",
+      "abbreviation": "BRUN",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 67,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/2/d/52d8de4f-1d26-45f5-9420-7a209e380cc8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "camden-hills-windjammers",
+      "name": "Camden Hills",
+      "mascot": "Windjammers",
+      "abbreviation": "CH",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 85,
+      "defenseRating": 85,
+      "prestige": 73,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/1/8/a18742c9-1750-49d9-97a6-fc90bd97c5d1.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "edward-little-red-eddies",
+      "name": "Edward Little",
+      "mascot": "Red Eddies",
+      "abbreviation": "EL",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 81,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/4/1/7412ec14-7e42-4d8e-bf41-0a0a11191c34.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "hampden-broncos",
+      "name": "Hampden",
+      "mascot": "Broncos",
+      "abbreviation": "HAMP",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 74,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/8/5/98593e91-c610-4473-bc3c-ef7dafc2ddec.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lewiston-blue-devils",
+      "name": "Lewiston",
+      "mascot": "Blue Devils",
+      "abbreviation": "LEWI",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 74,
+      "defenseRating": 74,
+      "prestige": 68,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/e/d/2edaa708-2b1d-4730-9ba4-93f1523c244d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "messalonskee-eagles",
+      "name": "Messalonskee",
+      "mascot": "Eagles",
+      "abbreviation": "MESS",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 66,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/e/b/3eb73789-fb82-4d50-aaa6-9d7af512ba2c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mt-ararat-eagles",
+      "name": "Mt. Ararat",
+      "mascot": "Eagles",
+      "abbreviation": "ARAR",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 52,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/3/9/f39667b7-0743-461f-b535-711f1bbd4a7f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mt-blue-cougars",
+      "name": "Mt. Blue",
+      "mascot": "Cougars",
+      "abbreviation": "BLUE",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 67,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/7/9/579eef28-32b4-4362-a90e-bcb212c67151.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "oxford-hills-vikings",
+      "name": "Oxford Hills",
+      "mascot": "Vikings",
+      "abbreviation": "OH",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 70,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/5/8/f589552d-dfb6-46c5-a5cc-87833de0e9b1.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "skowhegan-river-hawks",
+      "name": "Skowhegan",
+      "mascot": "River Hawks",
+      "abbreviation": "SKOW",
+      "conferenceId": "a-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 62,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/9/0/990cdb28-b93d-485d-bca8-e144e87c8180.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "biddeford-tigers",
+      "name": "Biddeford",
+      "mascot": "Tigers",
+      "abbreviation": "BIDD",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 60,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/3/9/4393c696-7d37-4e33-8798-da9ea7ff8bb7.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "bonny-eagle-scots",
+      "name": "Bonny Eagle",
+      "mascot": "Scots",
+      "abbreviation": "BE",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 80,
+      "defenseRating": 80,
+      "prestige": 72,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/7/e/97e92b97-0252-4ed9-b954-188f0b63bbc0.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "cheverus-stags",
+      "name": "Cheverus",
+      "mascot": "Stags",
+      "abbreviation": "CHEV",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 80,
+      "defenseRating": 80,
+      "prestige": 80,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/8/3/28307016-549d-423e-8a7b-9850583b30ab.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "deering-rams",
+      "name": "Deering",
+      "mascot": "Rams",
+      "abbreviation": "DEER",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 68,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/c/4/dc4b4fd4-9588-4115-97ef-8f4dcb183559.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "falmouth-navigators",
+      "name": "Falmouth",
+      "mascot": "Navigators",
+      "abbreviation": "FALM",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 84,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/c/7/5c71fd30-a992-4c2d-a8e7-a9b2fc6da876.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "gorham-rams",
+      "name": "Gorham",
+      "mascot": "Rams",
+      "abbreviation": "GORH",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 73,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/8/2/182aa2b0-070f-4fbc-929b-fbaa199fe463.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "kennebunk-rams",
+      "name": "Kennebunk",
+      "mascot": "Rams",
+      "abbreviation": "KENN",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 77,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/a/6/6a63e9c8-73ea-4937-85db-bebef89816e0.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "massabesic-mustangs",
+      "name": "Massabesic",
+      "mascot": "Mustangs",
+      "abbreviation": "MASS",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 48,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/5/f/95fe1bc3-b8d2-4934-abd5-06d73a28e54e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "noble-knights",
+      "name": "Noble",
+      "mascot": "Knights",
+      "abbreviation": "NOBL",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 67,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/d/6/4d6b5571-b190-40b0-8fd1-97720a5e29dc.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "portland-bulldogs",
+      "name": "Portland",
+      "mascot": "Bulldogs",
+      "abbreviation": "PORT",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 90,
+      "defenseRating": 90,
+      "prestige": 87,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/4/a/c4a59037-1773-43b8-b1bc-a030d314b710.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sanford-spartans",
+      "name": "Sanford",
+      "mascot": "Spartans",
+      "abbreviation": "SANF",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 87,
+      "defenseRating": 87,
+      "prestige": 71,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/7/f/d7fa1045-42f6-4113-a76b-0e27aba4403d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "scarborough-red-storm",
+      "name": "Scarborough",
+      "mascot": "Red Storm",
+      "abbreviation": "SCAR",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 76,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/4/e/94ee5bc2-3947-4ddb-997b-92c11158850e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "south-portland-red-riots",
+      "name": "South Portland",
+      "mascot": "Red Riots",
+      "abbreviation": "SP",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 87,
+      "defenseRating": 87,
+      "prestige": 90,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/2/4/124c0936-021e-4df9-ad6d-b0aef320918a.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "thornton-academy-trojans",
+      "name": "Thornton Academy",
+      "mascot": "Trojans",
+      "abbreviation": "TA",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 83,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/5/1/751cad5f-cf89-4609-9bca-fe7b53ecb86e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "westbrook-blue-blazes",
+      "name": "Westbrook",
+      "mascot": "Blue Blazes",
+      "abbreviation": "WEST",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 81,
+      "defenseRating": 81,
+      "prestige": 68,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/f/d/ffde92cb-7b64-4926-baf3-81451fdd1ac3.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "windham-eagles",
+      "name": "Windham",
+      "mascot": "Eagles",
+      "abbreviation": "WIND",
+      "conferenceId": "a-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 85,
+      "defenseRating": 85,
+      "prestige": 86,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/b/f/7bf4de21-4ff8-453d-8978-af752abde892.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "belfast-lions",
+      "name": "Belfast",
+      "mascot": "Lions",
+      "abbreviation": "BELF",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 58,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/2/c/c2c070ce-eb12-4efe-a38e-503926801fe9.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "cony-rams",
+      "name": "Cony",
+      "mascot": "Rams",
+      "abbreviation": "CONY",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 88,
+      "defenseRating": 88,
+      "prestige": 76,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/7/3/b730da76-3207-4b1c-aeaa-c39ddecd1849.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "ellsworth-eagles",
+      "name": "Ellsworth",
+      "mascot": "Eagles",
+      "abbreviation": "ELLS",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 93,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/a/d/5ad2279d-b74d-4ce0-8312-342289aef0b4.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "erskine-academy-eagles",
+      "name": "Erskine Academy",
+      "mascot": "Eagles",
+      "abbreviation": "EA",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 60,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/2/7/e2748fb0-c4c9-4dea-ad37-4f55eb9192ce.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "gardiner-tigers",
+      "name": "Gardiner",
+      "mascot": "Tigers",
+      "abbreviation": "GARD",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 92,
+      "defenseRating": 92,
+      "prestige": 68,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/3/8/638f10e7-dc06-4dd8-9468-614ed9ac69cd.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "hermon-hawks",
+      "name": "Hermon",
+      "mascot": "Hawks",
+      "abbreviation": "HERM",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 88,
+      "defenseRating": 88,
+      "prestige": 83,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/c/5/9c5cbc31-c451-4611-b20e-1d0755172837.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "john-bapst-memorial-crusaders",
+      "name": "John Bapst Memorial",
+      "mascot": "Crusaders",
+      "abbreviation": "JBM",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 62,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/b/9/cb957c0f-1f2f-429d-8fe1-5052ba6f001e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lawrence-bulldogs",
+      "name": "Lawrence",
+      "mascot": "Bulldogs",
+      "abbreviation": "LAWR",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 58,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/8/5/485a4032-e9a1-4690-929c-832d8d24dad2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mount-desert-island-trojans",
+      "name": "Mount Desert Island",
+      "mascot": "Trojans",
+      "abbreviation": "MDI",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 81,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/6/1/e61f8531-2164-410d-b70a-c239f287308b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "nokomis-warriors",
+      "name": "Nokomis",
+      "mascot": "Warriors",
+      "abbreviation": "NOKO",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 62,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/2/5/625293a8-5fba-4110-8d72-dd2f70f9dabb.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "old-town-indians",
+      "name": "Old Town",
+      "mascot": "Indians",
+      "abbreviation": "OT",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 75,
+      "primaryColor": "#00341E",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/1/2/a12561eb-6262-4717-99fd-c614fbe75f71.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "presque-isle-wildcats",
+      "name": "Presque Isle",
+      "mascot": "Wildcats",
+      "abbreviation": "PI",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 76,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/7/4/47448704-6f01-40ff-a03b-6f0e37fe896c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "waterville-panthers",
+      "name": "Waterville",
+      "mascot": "Panthers",
+      "abbreviation": "WATE",
+      "conferenceId": "b-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 45,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/e/d/5ed8a6cd-d905-4b21-bedb-7b6ca56e31f2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "cape-elizabeth-capers",
+      "name": "Cape Elizabeth",
+      "mascot": "Capers",
+      "abbreviation": "CE",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 62,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/e/a/4ea1ef0e-4721-4281-9baf-36d7147aee4e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "freeport-falcons",
+      "name": "Freeport",
+      "mascot": "Falcons",
+      "abbreviation": "FREE",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 60,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/7/f/47f87f26-4757-4957-a505-47ac5ec7af25.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "fryeburg-raiders",
+      "name": "Fryeburg",
+      "mascot": "Raiders",
+      "abbreviation": "FRYE",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 62,
+      "defenseRating": 62,
+      "prestige": 56,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/0/9/d09536db-d0b2-4790-adf2-49d8b6dc4e6f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "gray-new-gloucester-patriots",
+      "name": "Gray-New Gloucester",
+      "mascot": "Patriots",
+      "abbreviation": "GLOU",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 69,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/0/1/3011083c-edb0-40f2-8a78-efe2827a4f19.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "greely-rangers",
+      "name": "Greely",
+      "mascot": "Rangers",
+      "abbreviation": "GREE",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 66,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/2/d/62de86f3-01a0-4a5e-833c-660ccaee8b00.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lake-region-lakers",
+      "name": "Lake Region",
+      "mascot": "Lakers",
+      "abbreviation": "LR",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 78,
+      "defenseRating": 78,
+      "prestige": 65,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/0/c/00c787b7-a6f9-4057-97d4-b6c2726f7f3c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "leavitt-hornets",
+      "name": "Leavitt",
+      "mascot": "Hornets",
+      "abbreviation": "LEAV",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 66,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/2/6/02604632-410c-4f74-895f-08f3573272cb.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lincoln-academy-eagles",
+      "name": "Lincoln Academy",
+      "mascot": "Eagles",
+      "abbreviation": "LA",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 64,
+      "primaryColor": "#222222",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/4/d/94d9c9f9-a17f-4345-973b-b5d766f2b99c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "marshwood-hawks",
+      "name": "Marshwood",
+      "mascot": "Hawks",
+      "abbreviation": "MARS",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 62,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/2/3/623d79ad-0b9d-4af8-a311-bd844ef2ddb1.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "medomak-valley-panthers",
+      "name": "Medomak Valley",
+      "mascot": "Panthers",
+      "abbreviation": "MV",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 86,
+      "defenseRating": 86,
+      "prestige": 87,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/2/9/42945fad-1b36-4fbf-99fa-527cc92cdb65.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "morse-shipbuilders",
+      "name": "Morse",
+      "mascot": "Shipbuilders",
+      "abbreviation": "MORS",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 53,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/8/2/382e8095-7f0b-480f-860e-bfc79e016754.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "oceanside-mariners",
+      "name": "Oceanside",
+      "mascot": "Mariners",
+      "abbreviation": "OCEA",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 76,
+      "defenseRating": 76,
+      "prestige": 76,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#046DFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/7/6/a763af43-849e-4eeb-9abb-9f9af596ef78.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "poland-knights",
+      "name": "Poland",
+      "mascot": "Knights",
+      "abbreviation": "POLA",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 78,
+      "defenseRating": 78,
+      "prestige": 58,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/0/e/60e29dfb-d4ff-469d-84c0-954c1bd04d4d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "yarmouth-clippers",
+      "name": "Yarmouth",
+      "mascot": "Clippers",
+      "abbreviation": "YARM",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 77,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/a/5/da59a026-71f8-4f94-b4e5-6266baa9c608.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "york-wildcats",
+      "name": "York",
+      "mascot": "Wildcats",
+      "abbreviation": "YORK",
+      "conferenceId": "b-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 85,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/5/e/55e8f0dc-60cc-4f5c-a5cf-4c248eb6017d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "bucksport-golden-bucks",
+      "name": "Bucksport",
+      "mascot": "Golden Bucks",
+      "abbreviation": "BUCK",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 55,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/7/3/57389253-3355-492f-916b-1279d06b0de2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "calais-blue-devils",
+      "name": "Calais",
+      "mascot": "Blue Devils",
+      "abbreviation": "CALA",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 63,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/7/d/77d41a35-2185-4c2e-916c-5b16ce8e4ba5.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "caribou-vikings",
+      "name": "Caribou",
+      "mascot": "Vikings",
+      "abbreviation": "CARI",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 86,
+      "defenseRating": 86,
+      "prestige": 95,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/e/9/9e99b53d-a855-4fdb-a13b-eca055605207.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "central-red-devils",
+      "name": "Central",
+      "mascot": "Red Devils",
+      "abbreviation": "CENT",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 48,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/d/2/6d2afa82-d315-44f3-b1e6-e2b37c8f7ab8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "dexter-tigers",
+      "name": "Dexter",
+      "mascot": "Tigers",
+      "abbreviation": "DEXT",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 64,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/d/5/2d5bb52b-a7b4-4eb9-887f-3c7a853eb754.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "fort-kent-warriors",
+      "name": "Fort Kent",
+      "mascot": "Warriors",
+      "abbreviation": "FK",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 88,
+      "defenseRating": 88,
+      "prestige": 80,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/5/a/15a2987c-396d-4e5c-a261-3c69fe5de58c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "foxcroft-academy-ponies",
+      "name": "Foxcroft Academy",
+      "mascot": "Ponies",
+      "abbreviation": "FA",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 73,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/f/5/6f510a2a-cd67-4fd1-b678-6104a0be2fec.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "george-stevens-academy-eagles",
+      "name": "George Stevens Academy",
+      "mascot": "Eagles",
+      "abbreviation": "GSA",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 60,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/2/c/92cdbe32-2953-4d9c-b8ac-7cb47a3bf8c8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "houlton-shiretowners",
+      "name": "Houlton",
+      "mascot": "Shiretowners",
+      "abbreviation": "HOUL",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 64,
+      "primaryColor": "#222222",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/2/9/a298a645-c5ae-4e71-a0f8-75a340143670.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "maine-central-institute-huskies",
+      "name": "Maine Central Institute",
+      "mascot": "Huskies",
+      "abbreviation": "MCI",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 56,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/c/b/6cbd19b7-2621-4521-8d94-0d742e135808.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mattanawcook-lynx",
+      "name": "Mattanawcook",
+      "mascot": "Lynx",
+      "abbreviation": "MATT",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 67,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/3/c/c3ccd070-29bd-4076-9607-de9b70b6e840.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "orono-riots",
+      "name": "Orono",
+      "mascot": "Riots",
+      "abbreviation": "ORON",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 85,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/f/5/9f594726-6d60-4d82-83c7-18d3243d0398.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sumner-tigers",
+      "name": "Sumner",
+      "mascot": "Tigers",
+      "abbreviation": "SUMN",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 50,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/d/3/8d319ea5-1d1b-4c61-bb64-a04a89b72191.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "washington-academy-raiders",
+      "name": "Washington Academy",
+      "mascot": "Raiders",
+      "abbreviation": "WA",
+      "conferenceId": "c-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 76,
+      "defenseRating": 76,
+      "prestige": 69,
+      "primaryColor": "#222222",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/4/f/74f9fdfc-6e7e-4c8b-9aaf-695a1faf86af.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "dirigo-cougars",
+      "name": "Dirigo",
+      "mascot": "Cougars",
+      "abbreviation": "DIRI",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 69,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#1580A5",
+      "logoUrl": null
+    },
+    {
+      "id": "hall-dale-bulldogs",
+      "name": "Hall-Dale",
+      "mascot": "Bulldogs",
+      "abbreviation": "HALL",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 72,
+      "primaryColor": "#222222",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/5/6/456c54df-fecd-4419-9d40-bba26f846585.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lisbon-greyhounds",
+      "name": "Lisbon",
+      "mascot": "Greyhounds",
+      "abbreviation": "LISB",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 56,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/5/e/d5e32b22-eb56-4ce7-be78-2efeb0106d8c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "maranacook-black-bears",
+      "name": "Maranacook",
+      "mascot": "Black Bears",
+      "abbreviation": "MARA",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 77,
+      "primaryColor": "#222222",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/8/8/4887d577-a6f2-46f9-9539-d97738b1f394.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mount-view-mustangs",
+      "name": "Mount View",
+      "mascot": "Mustangs",
+      "abbreviation": "MV",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 76,
+      "defenseRating": 76,
+      "prestige": 69,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/a/6/2a63d1aa-3bc6-454e-bd97-0f5adbedd463.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mountain-valley-falcons",
+      "name": "Mountain Valley",
+      "mascot": "Falcons",
+      "abbreviation": "MV",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 55,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#737272",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/0/9/a09d5946-66bf-4f07-b7d8-a6bf5360c59d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "oak-hill-raiders",
+      "name": "Oak Hill",
+      "mascot": "Raiders",
+      "abbreviation": "OH",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 74,
+      "defenseRating": 74,
+      "prestige": 55,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/a/2/9a2e6965-ebd1-4848-872c-70059b55dda2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sacopee-valley-hawks",
+      "name": "Sacopee Valley",
+      "mascot": "Hawks",
+      "abbreviation": "SV",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 47,
+      "primaryColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/b/3/8b3dadf2-7e51-4ca0-ac2b-8ff332a8eae5.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "spruce-mountain-phoenix",
+      "name": "Spruce Mountain",
+      "mascot": "Phoenix",
+      "abbreviation": "SM",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 86,
+      "defenseRating": 86,
+      "prestige": 82,
+      "primaryColor": "#222222",
+      "secondaryColor": "#00341E",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/7/5/975929e2-a872-4886-aa3e-7540b7dec845.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "traip-the-rangers",
+      "name": "Traip",
+      "mascot": "The Rangers",
+      "abbreviation": "TRAI",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 51,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/6/9/569ff004-671a-4ec3-934d-10d2087c9260.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "waynflete-flyers",
+      "name": "Waynflete",
+      "mascot": "Flyers",
+      "abbreviation": "WAYN",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 60,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/3/1/2312a902-4373-4f7c-b817-e8194c78e5c9.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "wells-warriors",
+      "name": "Wells",
+      "mascot": "Warriors",
+      "abbreviation": "WELL",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 59,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/7/7/c7716150-8c58-4a5f-874e-1d3678be8b1d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "winslow-black-raiders",
+      "name": "Winslow",
+      "mascot": "Black Raiders",
+      "abbreviation": "WINS",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 70,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/2/2/922c8f4e-b512-4ffd-91fb-ee04ad80befa.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "winthrop-ramblers",
+      "name": "Winthrop",
+      "mascot": "Ramblers",
+      "abbreviation": "WINT",
+      "conferenceId": "c-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 65,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/d/b/6dbc58fd-d1da-4088-bb69-b68ed39af9fd.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "bangor-christian-patriots",
+      "name": "Bangor Christian",
+      "mascot": "Patriots",
+      "abbreviation": "BC",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 78,
+      "defenseRating": 78,
+      "prestige": 65,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/9/7/a973792d-9c44-4a45-899d-cd22f2573ed3.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "central-aroostook-panthers",
+      "name": "Central Aroostook",
+      "mascot": "Panthers",
+      "abbreviation": "CA",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 60,
+      "primaryColor": "#E62117",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/d/2/8d24329b-0875-4589-9843-1d99d7d98996.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "fort-fairfield-tigers",
+      "name": "Fort Fairfield",
+      "mascot": "Tigers",
+      "abbreviation": "FF",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 78,
+      "defenseRating": 78,
+      "prestige": 68,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/8/5/285fe098-ef48-4656-b77b-d242fe803f18.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "hodgdon-hawks",
+      "name": "Hodgdon",
+      "mascot": "Hawks",
+      "abbreviation": "HODG",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 62,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/2/6/4260336b-cd10-45a8-b413-035876186025.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lee-academy-pandas",
+      "name": "Lee Academy",
+      "mascot": "Pandas",
+      "abbreviation": "LA",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 55,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/c/9/9c9fb7ad-10de-4f9d-ba29-b9d3115dc808.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "machias-bulldogs",
+      "name": "Machias",
+      "mascot": "Bulldogs",
+      "abbreviation": "MACH",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 75,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/f/3/bf3876de-2cb5-4d36-803d-ff916b9dfdfd.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "madawaska-owls",
+      "name": "Madawaska",
+      "mascot": "Owls",
+      "abbreviation": "MADA",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 81,
+      "defenseRating": 81,
+      "prestige": 66,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/2/6/e26882eb-d730-4857-a312-9bbe5b9ff100.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "narraguagus-knights",
+      "name": "Narraguagus",
+      "mascot": "Knights",
+      "abbreviation": "NARR",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 48,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/6/2/1622e1da-11fc-4ec7-aba7-fd1086c3697e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "penobscot-valley-howlers",
+      "name": "Penobscot Valley",
+      "mascot": "Howlers",
+      "abbreviation": "PV",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 58,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/4/6/f464b69b-a2d1-4400-af35-98d6936ab9d1.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "penquis-valley-patriots",
+      "name": "Penquis Valley",
+      "mascot": "Patriots",
+      "abbreviation": "PV",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 61,
+      "defenseRating": 61,
+      "prestige": 42,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/c/4/bc4752bc-64dd-478d-8398-6728f35cec72.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "piscataquis-pirates",
+      "name": "Piscataquis",
+      "mascot": "Pirates",
+      "abbreviation": "PISC",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 49,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/7/1/7710ebec-7e90-44cc-a1a2-c3ee69418b46.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "schenck-wolverines",
+      "name": "Schenck",
+      "mascot": "Wolverines",
+      "abbreviation": "SCHE",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 68,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/9/a/a9a9d4ae-8ae5-4c7f-a506-60fc8144b3f9.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "southern-aroostook-warriors",
+      "name": "Southern Aroostook",
+      "mascot": "Warriors",
+      "abbreviation": "SA",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 62,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/0/3/b0362a6e-93a6-4b38-8890-1b79a0f6b918.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "stearns-minutemen",
+      "name": "Stearns",
+      "mascot": "Minutemen",
+      "abbreviation": "STEA",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 51,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/0/5/c05e5ec6-c63f-4349-89ad-961338d8f70f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "woodland-dragons",
+      "name": "Woodland",
+      "mascot": "Dragons",
+      "abbreviation": "WOOD",
+      "conferenceId": "d-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 57,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/c/2/6c21a7c9-225d-45c5-b514-80e4242e2837.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "boothbay-seahawks",
+      "name": "Boothbay",
+      "mascot": "Seahawks",
+      "abbreviation": "BOOT",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 57,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/7/b/e7b12244-b379-4eb2-9ed6-bb4ae6bf0868.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "buckfield-bucks",
+      "name": "Buckfield",
+      "mascot": "Bucks",
+      "abbreviation": "BUCK",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 42,
+      "primaryColor": "#52000E",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/3/f/63fbbf24-0117-4e9a-96fc-b6295e25a78f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "carrabec-cobras",
+      "name": "Carrabec",
+      "mascot": "Cobras",
+      "abbreviation": "CARR",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 56,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/c/d/3cd39901-285f-4b3b-8a25-92c63a940704.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "madison-bulldogs",
+      "name": "Madison",
+      "mascot": "Bulldogs",
+      "abbreviation": "MADI",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 80,
+      "defenseRating": 80,
+      "prestige": 68,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/e/f/3ef88d4c-af58-47f2-b431-418c221d6af6.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "monmouth-academy-mustangs",
+      "name": "Monmouth Academy",
+      "mascot": "Mustangs",
+      "abbreviation": "MA",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 87,
+      "defenseRating": 87,
+      "prestige": 81,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/2/7/327eb250-a1b4-41b8-bee0-7e6def1d965b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mount-abram-roadrunners",
+      "name": "Mount Abram",
+      "mascot": "Roadrunners",
+      "abbreviation": "MA",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 82,
+      "defenseRating": 82,
+      "prestige": 81,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/c/2/ec2fda1c-81d2-46fb-bfd1-99088835e477.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "north-yarmouth-academy-panthers",
+      "name": "North Yarmouth Academy",
+      "mascot": "Panthers",
+      "abbreviation": "NYA",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 45,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/0/1/601e81cd-a032-41c9-84ed-1aadfca17dbf.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "old-orchard-beach-seagulls",
+      "name": "Old Orchard Beach",
+      "mascot": "Seagulls",
+      "abbreviation": "OOB",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 52,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/1/7/e17c41e2-4fbf-4756-aae3-4ae49405dd31.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "richmond-bobcats",
+      "name": "Richmond",
+      "mascot": "Bobcats",
+      "abbreviation": "RICH",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 62,
+      "defenseRating": 62,
+      "prestige": 50,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": null
+    },
+    {
+      "id": "searsport-vikings",
+      "name": "Searsport",
+      "mascot": "Vikings",
+      "abbreviation": "SEAR",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 61,
+      "defenseRating": 61,
+      "prestige": 37,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/4/9/4492500d-ce69-4d0c-829c-bf9b777a8bd4.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "telstar-rebels",
+      "name": "Telstar",
+      "mascot": "Rebels",
+      "abbreviation": "TELS",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 47,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/d/0/bd047b1a-0036-4213-a270-0a61c0db3b66.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "wiscasset-wolverines",
+      "name": "Wiscasset",
+      "mascot": "Wolverines",
+      "abbreviation": "WISC",
+      "conferenceId": "d-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 42,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/7/f/17f2539b-ffbc-45db-9111-9ca5ac8d7b93.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "ashland-hornets",
+      "name": "Ashland",
+      "mascot": "Hornets",
+      "abbreviation": "ASHL",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 55,
+      "defenseRating": 55,
+      "prestige": 29,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/1/1/111b6fc1-63f1-41db-98c4-08d969a14b3b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "deer-isle-stonington-mariners",
+      "name": "Deer Isle-Stonington",
+      "mascot": "Mariners",
+      "abbreviation": "DEER",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 57,
+      "defenseRating": 57,
+      "prestige": 30,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/c/a/1cabf59f-d2f4-4bb1-b290-15704055eb17.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "east-grand-vikings",
+      "name": "East Grand",
+      "mascot": "Vikings",
+      "abbreviation": "EG",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 58,
+      "defenseRating": 58,
+      "prestige": 26,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/b/a/8ba43e07-b0a2-4057-88d0-98e19a30948a.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "easton-bears",
+      "name": "Easton",
+      "mascot": "Bears",
+      "abbreviation": "EAST",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 71,
+      "defenseRating": 71,
+      "prestige": 58,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/f/3/df3f4848-20f3-4fd7-92f6-f877537ce559.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "jonesport-beals-royals",
+      "name": "Jonesport-Beals",
+      "mascot": "Royals",
+      "abbreviation": "JONE",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 59,
+      "primaryColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/8/e/d8ecefeb-dad4-42cb-b188-6df06e367eab.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "katahdin-cougars",
+      "name": "Katahdin",
+      "mascot": "Cougars",
+      "abbreviation": "KATA",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 57,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/5/9/459dac8e-a1bf-41de-828e-1fc144aaee84.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "shead-tigers",
+      "name": "Shead",
+      "mascot": "Tigers",
+      "abbreviation": "SHEA",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 41,
+      "primaryColor": "#CC4E10",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/7/a/c7acd69b-64eb-44d9-90ad-462ebcfb49d3.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "van-buren-crusaders",
+      "name": "Van Buren",
+      "mascot": "Crusaders",
+      "abbreviation": "VB",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 61,
+      "defenseRating": 61,
+      "prestige": 36,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/c/8/ec8330eb-3125-4d97-85cc-88b667a7f854.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "washburn-beavers",
+      "name": "Washburn",
+      "mascot": "Beavers",
+      "abbreviation": "WASH",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 39,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/0/4/404b1b08-b385-4008-89d1-f08fffa677d2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "wisdom-pioneers",
+      "name": "Wisdom",
+      "mascot": "Pioneers",
+      "abbreviation": "WISD",
+      "conferenceId": "s-north",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 62,
+      "defenseRating": 62,
+      "prestige": 42,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/8/6/88680d85-bf93-40ce-93bd-d76ac71b57c3.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "forest-hills-tigers",
+      "name": "Forest Hills",
+      "mascot": "Tigers",
+      "abbreviation": "FH",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 57,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/9/c/99cd220d-faf3-4d64-b0e2-c8f6d191283d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "greenville-lakers",
+      "name": "Greenville",
+      "mascot": "Lakers",
+      "abbreviation": "GREE",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 56,
+      "defenseRating": 56,
+      "prestige": 35,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/2/5/32550fc4-1fd9-4edf-82a3-c8b89b9a2fd5.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "islesboro-central-eagles",
+      "name": "Islesboro Central",
+      "mascot": "Eagles",
+      "abbreviation": "IC",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 36,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/6/e/d6ef72fd-1bf1-4351-9251-33dd6ec23f73.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pine-tree-academy-breakers",
+      "name": "Pine Tree Academy",
+      "mascot": "Breakers",
+      "abbreviation": "PTA",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 40,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/0/2/f0221672-b5e8-42c6-ad7b-6f4b8687f8e5.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "rangeley-lakes-lakers",
+      "name": "Rangeley Lakes",
+      "mascot": "Lakers",
+      "abbreviation": "RL",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 57,
+      "defenseRating": 57,
+      "prestige": 29,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/2/8/b281cdc4-3e05-43c5-8dd0-d01c87cc5cc5.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "temple-academy-bereans",
+      "name": "Temple Academy",
+      "mascot": "Bereans",
+      "abbreviation": "TA",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 57,
+      "defenseRating": 57,
+      "prestige": 32,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/3/e/33e4f06e-6a2a-4282-af44-3e20aec2a659.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "valley-cavaliers",
+      "name": "Valley",
+      "mascot": "Cavaliers",
+      "abbreviation": "VALL",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 85,
+      "defenseRating": 85,
+      "prestige": 71,
+      "primaryColor": "#454444",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/4/a/54a95d43-7e6f-4391-9634-abc2cb2f1050.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "vinalhaven-vikings",
+      "name": "Vinalhaven",
+      "mascot": "Vikings",
+      "abbreviation": "VINA",
+      "conferenceId": "s-south",
+      "state": "ME",
+      "pipelineStates": [
+        "ME"
+      ],
+      "offenseRating": 59,
+      "defenseRating": 59,
+      "prestige": 25,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/4/d/a4d1f78d-d2c4-43e4-b5a8-b14d309f90a5.gif?width=200&height=200&auto=webp"
+    }
+  ]
+}

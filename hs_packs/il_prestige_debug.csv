@@ -1,0 +1,755 @@
+state,maxpreps_city,maxpreps_slug,maxpreps_name,maxpreps_nickname,massey_name,conference,p_source,years_found,weight_sum,raw_p,prestige_final
+il,mahomet,mahomet-seymour-bulldogs,Mahomet-Seymour,Bulldogs,,Apollo,maxpreps,0,,0.4918,65
+il,taylorville,taylorville-tornadoes,Taylorville,Tornadoes,,Apollo,maxpreps,0,,0.3388,53
+il,mattoon,mattoon-greenwave,Mattoon,Greenwave,,Apollo,maxpreps,0,,0.4424,61
+il,mt-zion,mt-zion-braves,Mt. Zion,Braves,,Apollo,maxpreps,0,,0.5627,71
+il,effingham,effingham-hearts,Effingham,Hearts,,Apollo,maxpreps,0,,0.3470,54
+il,charleston,charleston-trojans,Charleston,Trojans,,Apollo,maxpreps,0,,0.3727,56
+il,byron,byron-tigers,Byron,Tigers,,Big Northern,maxpreps,0,,0.5756,72
+il,winnebago,winnebago-indians,Winnebago,Indians,,Big Northern,maxpreps,0,,0.3986,58
+il,oregon,oregon-hawks,Oregon,Hawks,,Big Northern,maxpreps,0,,0.4342,61
+il,rockford,lutheran-crusaders,Lutheran,Crusaders,,Big Northern,maxpreps,0,,0.4767,64
+il,dixon,dixon-dukes-and-duchesses,Dixon,Dukes And Duchesses,,Big Northern,maxpreps,0,,0.4227,60
+il,poplar-grove,north-boone-vikings,North Boone,Vikings,,Big Northern,maxpreps,0,,0.2628,47
+il,rock-falls,rock-falls-rockets,Rock Falls,Rockets,,Big Northern,maxpreps,0,,0.4023,58
+il,genoa,genoa-kingston-mascot,Genoa-Kingston,Mascot,,Big Northern,maxpreps,0,,0.3018,50
+il,rockford,rockford-christian-royal-lions,Rockford Christian,Royal Lions,,Big Northern,maxpreps,0,,0.4212,60
+il,stillman-valley,stillman-valley-cardinals,Stillman Valley,Cardinals,,Big Northern,maxpreps,0,,0.3009,50
+il,peoria,peoria-lions,Peoria,Lions,,Big Twelve,maxpreps,0,,0.6306,77
+il,normal,normal-community-ironmen,Normal Community,Ironmen,,Big Twelve,maxpreps,0,,0.6903,82
+il,peoria,manual-rams,Manual,Rams,,Big Twelve,maxpreps,0,,0.6377,77
+il,peoria,richwoods-knights,Richwoods,Knights,,Big Twelve,maxpreps,0,,0.7159,84
+il,champaign,centennial-chargers,Centennial,Chargers,,Big Twelve,maxpreps,0,,0.4840,65
+il,champaign,champaign-central-maroons,Champaign Central,Maroons,,Big Twelve,maxpreps,0,,0.4859,65
+il,urbana,urbana-tigers,Urbana,Tigers,,Big Twelve,maxpreps,0,,0.3810,56
+il,bloomington,bloomington-purple-raiders,Bloomington,Purple Raiders,,Big Twelve,maxpreps,0,,0.3514,54
+il,danville,danville-vikings,Danville,Vikings,,Big Twelve,maxpreps,0,,0.4379,61
+il,normal,normal-west-wildcats,Normal West,Wildcats,,Big Twelve,maxpreps,0,,0.4028,58
+il,peoria,peoria-notre-dame-irish,Peoria Notre Dame,Irish,,Big Twelve,maxpreps,0,,0.5141,67
+il,fairfield,fairfield-mules,Fairfield,Mules,,Black Diamond - East,maxpreps,0,,0.3915,57
+il,albion,edwards-county-lions,Edwards County,Lions,,Black Diamond - East,maxpreps,0,,0.3962,58
+il,flora,flora-wolves,Flora,Wolves,,Black Diamond - East,maxpreps,0,,0.3473,54
+il,mcleansboro,hamilton-county-foxes,Hamilton County,Foxes,,Black Diamond - East,maxpreps,0,,0.3887,57
+il,eldorado,eldorado-eagles,Eldorado,Eagles,,Black Diamond - East,maxpreps,0,,0.3660,55
+il,carmi,carmi-white-county-bulldogs,Carmi-White County,Bulldogs,,Black Diamond - East,maxpreps,0,,0.4705,64
+il,goreville,goreville-blackcats,Goreville,Blackcats,,Black Diamond - West,maxpreps,0,,0.5744,72
+il,vienna,vienna-eagles,Vienna,Eagles,,Black Diamond - West,maxpreps,0,,0.4667,63
+il,campbell-hill,trico-pioneers,Trico,Pioneers,,Black Diamond - West,maxpreps,0,,0.3147,51
+il,christopher,christopher-bearcats,Christopher,Bearcats,,Black Diamond - West,maxpreps,0,,0.3566,54
+il,johnston-city,johnston-city-indians,Johnston City,Indians,,Black Diamond - West,maxpreps,0,,0.2565,46
+il,sesser,sesser-valier-red-devils,Sesser-Valier,Red Devils,,Black Diamond - West,maxpreps,0,,0.2496,46
+il,zeigler,zeigler-royalton-tornadoes,Zeigler-Royalton,Tornadoes,,Black Diamond - West,maxpreps,0,,0.2234,43
+il,sparta,sparta-bulldogs,Sparta,Bulldogs,,Cahokia - Illinois,maxpreps,0,,0.5166,67
+il,trenton,wesclin-warriors,Wesclin,Warriors,,Cahokia - Illinois,maxpreps,0,,0.5689,72
+il,carlyle,carlyle-indians-lady-indians,Carlyle,Indians Lady Indians,,Cahokia - Illinois,maxpreps,0,,0.4556,62
+il,okawville,okawville-rockets,Okawville,Rockets,,Cahokia - Illinois,maxpreps,0,,0.3983,58
+il,red-bud,red-bud-musketeers,Red Bud,Musketeers,,Cahokia - Illinois,maxpreps,0,,0.3972,58
+il,chester,chester-yellowjackets,Chester,Yellowjackets,,Cahokia - Illinois,maxpreps,0,,0.3643,55
+il,new-athens,new-athens-yellow-jackets,New Athens,Yellow Jackets,,Cahokia - Kaskaskia,maxpreps,0,,0.3733,56
+il,steeleville,steeleville-warriors,Steeleville,Warriors,,Cahokia - Kaskaskia,maxpreps,0,,0.3759,56
+il,marissa,marissa-coulterville-meteors,Marissa/Coulterville,Meteors,,Cahokia - Kaskaskia,maxpreps,0,,0.2662,47
+il,dupo,dupo-tigers,Dupo,Tigers,,Cahokia - Kaskaskia,maxpreps,0,,0.3349,53
+il,valmeyer,valmeyer-pirates,Valmeyer,Pirates,,Cahokia - Kaskaskia,maxpreps,0,,0.3220,51
+il,lebanon,lebanon-greyhounds,Lebanon,Greyhounds,,Cahokia - Kaskaskia,od_fallback,0,,0.0000,25
+il,columbia,columbia-eagles,Columbia,Eagles,,Cahokia - Mississippi,maxpreps,0,,0.5809,73
+il,roxana,roxana-shells,Roxana,Shells,,Cahokia - Mississippi,maxpreps,0,,0.4664,63
+il,breese,breese-central-cougars,Breese Central,Cougars,,Cahokia - Mississippi,maxpreps,0,,0.6676,80
+il,freeburg,freeburg-midgets,Freeburg,Midgets,,Cahokia - Mississippi,maxpreps,0,,0.3803,56
+il,salem,salem-wildcats,Salem,Wildcats,,Cahokia - Mississippi,maxpreps,0,,0.3320,52
+il,wood-river,east-alton-wood-river-oilers,East Alton-Wood River,Oilers,,Cahokia - Mississippi,maxpreps,0,,0.2356,44
+il,warrensburg,warrensburg-latham-cardinals,Warrensburg-Latham,Cardinals,,Central Illinois,maxpreps,0,,0.4977,66
+il,clinton,clinton-maroons,Clinton,Maroons,,Central Illinois,maxpreps,0,,0.5224,68
+il,tuscola,tuscola-warriors,Tuscola,Warriors,,Central Illinois,maxpreps,0,,0.5137,67
+il,shelbyville,shelbyville-rams,Shelbyville,Rams,,Central Illinois,maxpreps,0,,0.4033,58
+il,macon,meridian-hawks,Meridian,Hawks,,Central Illinois,maxpreps,0,,0.3004,50
+il,moweaqua,central-a-and-m-raiders,Central A & M,Raiders,,Central Illinois,maxpreps,0,,0.2391,45
+il,decatur,macarthur-generals,MacArthur,Generals,,Central State Eight,maxpreps,0,,0.7072,83
+il,normal,normal-university-pioneers,Normal University,Pioneers,,Central State Eight,maxpreps,0,,0.5764,72
+il,lincoln,lincoln-railsplitters,Lincoln,Railsplitters,,Central State Eight,maxpreps,0,,0.6273,77
+il,springfield,springfield-springfield,Springfield,Springfield,,Central State Eight,maxpreps,0,,0.4965,66
+il,springfield,lanphier-lions,Lanphier,Lions,,Central State Eight,maxpreps,0,,0.5930,74
+il,rochester,rochester-rockets,Rochester,Rockets,,Central State Eight,maxpreps,0,,0.5821,73
+il,springfield,sacred-heart-griffin-cyclones,Sacred Heart-Griffin,Cyclones,,Central State Eight,maxpreps,0,,0.6040,75
+il,jacksonville,jacksonville-crimsons,Jacksonville,Crimsons,,Central State Eight,maxpreps,0,,0.5165,67
+il,chatham,glenwood-titans,Glenwood,Titans,,Central State Eight,maxpreps,0,,0.5017,66
+il,decatur,decatur-eisenhower-panthers,Decatur Eisenhower,Panthers,,Central State Eight,maxpreps,0,,0.4319,60
+il,springfield,springfield-southeast-spartans,Springfield Southeast,Spartans,,Central State Eight,maxpreps,0,,0.4246,60
+il,skokie,niles-north-vikings,Niles North,Vikings,,Central Suburban - North,maxpreps,0,,0.5886,73
+il,vernon-hills,vernon-hills-cougars,Vernon Hills,Cougars,,Central Suburban - North,maxpreps,0,,0.4532,62
+il,park-ridge,maine-east-blue-demons,Maine East,Blue Demons,,Central Suburban - North,maxpreps,0,,0.4407,61
+il,des-plaines,maine-west-warriors,Maine West,Warriors,,Central Suburban - North,maxpreps,0,,0.3263,52
+il,skokie,niles-west-wolves,Niles West,Wolves,,Central Suburban - North,maxpreps,0,,0.4120,59
+il,highland-park,highland-park-giants,Highland Park,Giants,,Central Suburban - North,maxpreps,0,,0.3922,57
+il,evanston,evanston-wildkits,Evanston,Wildkits,,Central Suburban - South,maxpreps,0,,0.7639,88
+il,winnetka,new-trier-trevians,New Trier,Trevians,,Central Suburban - South,maxpreps,0,,0.7026,83
+il,northbrook,glenbrook-north-spartans,Glenbrook North,Spartans,,Central Suburban - South,maxpreps,0,,0.6499,78
+il,deerfield,deerfield-warriors,Deerfield,Warriors,,Central Suburban - South,maxpreps,0,,0.5701,72
+il,glenview,glenbrook-south-titans,Glenbrook South,Titans,,Central Suburban - South,maxpreps,0,,0.6598,79
+il,park-ridge,maine-south-hawks,Maine South,Hawks,,Central Suburban - South,maxpreps,0,,0.4433,61
+il,chicago,depaul-college-prep-rams,DePaul College Prep,Rams,,Chicago Catholic - Blue,maxpreps,0,,0.8225,93
+il,wilmette,loyola-academy-ramblers,Loyola Academy,Ramblers,,Chicago Catholic - Blue,maxpreps,0,,0.6549,79
+il,chicago,saint-ignatius-college-prep-wolfpack,Saint Ignatius College Prep,Wolfpack,,Chicago Catholic - Blue,maxpreps,0,,0.6758,81
+il,chicago,chicago-mt-carmel-caravan,Chicago Mt. Carmel,Caravan,,Chicago Catholic - Blue,maxpreps,0,,0.7113,83
+il,chicago,de-la-salle-meteors,De La Salle,Meteors,,Chicago Catholic - Blue,maxpreps,0,,0.5829,73
+il,chicago,brother-rice-crusaders,Brother Rice,Crusaders,,Chicago Catholic - Blue,maxpreps,0,,0.7131,84
+il,burbank,st-laurence-vikings,St. Laurence,Vikings,,Chicago Catholic - Blue,maxpreps,0,,0.6639,80
+il,wheaton,st-francis-spartans,St. Francis,Spartans,,Chicago Catholic - Blue,maxpreps,0,,0.5208,68
+il,oak-park,fenwick-friars,Fenwick,Friars,,Chicago Catholic - Blue,maxpreps,0,,0.5201,68
+il,chicago,leo-lions,Leo,Lions,,Chicago Catholic - White,maxpreps,0,,0.5113,67
+il,aurora,marmion-cadets,Marmion,Cadets,,Chicago Catholic - White,maxpreps,0,,0.4861,65
+il,chicago,st-francis-de-sales-pioneers,St. Francis de Sales,Pioneers,,Chicago Catholic - White,maxpreps,0,,0.4386,61
+il,new-lenox,providence-catholic-celtics,Providence Catholic,Celtics,,Chicago Catholic - White,maxpreps,0,,0.4295,60
+il,chicago,st-rita-mustangs,St. Rita,Mustangs,,Chicago Catholic - White,maxpreps,0,,0.4154,59
+il,elmhurst,ic-catholic-prep-knights,IC Catholic Prep,Knights,,Chicago Catholic - White,maxpreps,0,,0.4868,65
+il,lombard,montini-catholic-broncos,Montini Catholic,Broncos,,Chicago Catholic - White,maxpreps,0,,0.3903,57
+il,chicago,providence-st-mel-knights,Providence-St. Mel,Knights,,Chicago Catholic - White,maxpreps,0,,0.2938,49
+il,aurora,aurora-central-catholic-chargers,Aurora Central Catholic,Chargers,,Chicago Catholic - White,maxpreps,0,,0.2624,47
+il,chicago,ida-crown-jewish-academy-aces,Ida Crown Jewish Academy,Aces,,Chicago Prep,maxpreps,0,,0.4115,59
+il,chicago,ellison-lions,Ellison,Lions,,Chicago Prep,maxpreps,0,,0.2870,49
+il,chicago,holy-trinity-tigers,Holy Trinity,Tigers,,Chicago Prep,maxpreps,0,,0.2779,48
+il,melrose-park,walther-christian-broncos,Walther Christian Academy,Broncos,,Chicago Prep,maxpreps,0,,0.2883,49
+il,chicago,northtown-pumas,Northtown,Pumas,,Chicago Prep,maxpreps,0,,0.2327,44
+il,deerfield,rochelle-zell-jewish-tigers,Rochelle Zell Jewish,Tigers,,Chicago Prep,maxpreps,0,,0.3753,56
+il,chicago,cristo-rey-jesuit-cristeros,Cristo Rey Jesuit,Cristeros,,Chicago Prep,od_fallback,0,,0.3218,51
+il,westmont,westmont-sentinels,Westmont,Sentinels,,Chicago Prep,maxpreps,0,,0.2819,48
+il,chicago,goode-stem-academy-knights,Goode STEM Academy,Knights,,Chicago Public - Blue Central,maxpreps,0,,0.2459,45
+il,chicago,back-of-the-yards-college-prep-bobcats,Back of the Yards College Prep,Bobcats,,Chicago Public - Blue Central,maxpreps,0,,0.1883,40
+il,chicago,solorio-warriors,Solorio,Warriors,,Chicago Public - Blue Central,maxpreps,0,,0.5710,72
+il,chicago,victoria-soto-wolves,Victoria Soto,Wolves,,Chicago Public - Blue Central,od_fallback,0,,0.3574,54
+il,chicago,tilden-blue-devils,Tilden,Blue Devils,,Chicago Public - Blue Central,od_fallback,0,,0.3574,54
+il,chicago,horizon-science-academy-southwest-huskies,Horizon Science Academy-Southwest,Huskies,,Chicago Public - Blue Central,maxpreps,0,,0.4256,60
+il,chicago,acero-garcia-patriots,ACERO Garcia,Patriots,,Chicago Public - Blue Central,od_fallback,0,,0.3574,54
+il,chicago,instituto-health-sciences-phoenix,Instituto Health Sciences,Phoenix,,Chicago Public - Blue Central,od_fallback,0,,0.3574,54
+il,chicago,roosevelt-rough-riders,Roosevelt,Rough Riders,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,disney-ii-titans,Disney II,Titans,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,chicago-mathematics-and-science-titans,Chicago Mathematics & Science,Titans,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,foreman-hornets,Foreman,Hornets,,Chicago Public - Blue North,maxpreps,0,,0.1840,40
+il,chicago,intrinsic-charter-mustangs,Intrinsic Charter,Mustangs,,Chicago Public - Blue North,maxpreps,0,,0.1673,39
+il,chicago,chicago-academy-cougars,Chicago Academy,Cougars,,Chicago Public - Blue North,maxpreps,0,,0.2565,46
+il,chicago,marine-leadership-academy-bulldogs,Marine Leadership Academy,Bulldogs,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,rickover-naval-seadragons,Rickover Naval,Seadragons,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,aspira-business-and-finance-white-tigers,Aspira Business and Finance,White Tigers,,Chicago Public - Blue North,od_fallback,0,,0.8500,95
+il,chicago,epic-academy-legends,EPIC Academy,Legends,,Chicago Public - Blue South,maxpreps,0,,0.2502,46
+il,chicago,dusable-panthers,DuSable,Panthers,,Chicago Public - Blue South,maxpreps,0,,0.2553,46
+il,chicago,chicago-vocational-cavaliers,Chicago Vocational,Cavaliers,,Chicago Public - Blue South,maxpreps,0,,0.1896,41
+il,chicago,excel-academy-of-englewood-bulls,Excel Academy of Englewood,Bulls,,Chicago Public - Blue South,od_fallback,0,,0.2299,44
+il,chicago,air-force-academy-falcons,Air Force Academy,Falcons,,Chicago Public - Blue South,od_fallback,0,,0.1942,41
+il,chicago,hirsch-huskies,Hirsch,Huskies,,Chicago Public - Blue South,od_fallback,0,,0.1584,38
+il,chicago,art-in-motion-phoenix,Art in Motion,Phoenix,,Chicago Public - Blue South,od_fallback,0,,0.1227,35
+il,chicago,chicago-collegiate-lions,Chicago Collegiate,Lions,,Chicago Public - Blue South,od_fallback,0,,0.0869,32
+il,chicago,austin-college-and-career-academy-tigers,Austin College and Career Academy,Tigers,,Chicago Public - Blue West,maxpreps,0,,0.2455,45
+il,chicago,kelvyn-park-panthers,Kelvyn Park,Panthers,,Chicago Public - Blue West,maxpreps,0,,0.2408,45
+il,chicago,legal-prep,Legal Prep,Prep,,Chicago Public - Blue West,maxpreps,0,,0.2144,43
+il,chicago,juarez-eagles,Juarez,Eagles,,Chicago Public - Blue West,maxpreps,0,,0.3098,50
+il,chicago,douglass-tigers,Douglass,Tigers,,Chicago Public - Blue West,od_fallback,0,,0.3193,51
+il,chicago,chicago-tech,Chicago Tech,Tech,,Chicago Public - Blue West,maxpreps,0,,0.1929,41
+il,chicago,phoenix-military-firebirds,Phoenix Military,Firebirds,,Chicago Public - Blue West,maxpreps,0,,0.2817,48
+il,chicago,spry-community-links-spry,Spry Community Links,Spry,,Chicago Public - Blue West,od_fallback,0,,0.3192,51
+il,chicago,hyde-park-thunderbirds,Hyde Park,Thunderbirds,,Chicago Public - Red Central,maxpreps,0,,0.6634,79
+il,chicago,kenwood-broncos,Kenwood,Broncos,,Chicago Public - Red Central,maxpreps,0,,0.7359,85
+il,chicago,phillips-wildcats,Phillips,Wildcats,,Chicago Public - Red Central,maxpreps,0,,0.5366,69
+il,chicago,king-jaguars,King,Jaguars,,Chicago Public - Red Central,maxpreps,0,,0.4404,61
+il,chicago,dyett-eagles,Dyett,Eagles,,Chicago Public - Red Central,maxpreps,0,,0.4559,62
+il,chicago,englewood-stem-panthers,Englewood Stem,Panthers,,Chicago Public - Red Central,maxpreps,0,,0.3291,52
+il,chicago,whitney-young-dolphins,Whitney Young,Dolphins,,Chicago Public - Red North,maxpreps,0,,0.7443,86
+il,chicago,lincoln-park-lions,Lincoln Park,Lions,,Chicago Public - Red North,maxpreps,0,,0.5798,73
+il,chicago,lake-view-wildcats,Lake View,Wildcats,,Chicago Public - Red North,maxpreps,0,,0.4206,60
+il,chicago,lane-tech-champions,Lane Tech,Champions,,Chicago Public - Red North,maxpreps,0,,0.5388,69
+il,chicago,amundsen-vikings,Amundsen,Vikings,,Chicago Public - Red North,maxpreps,0,,0.4053,58
+il,chicago,payton-college-prep-grizzlies,Payton College Prep,Grizzlies,,Chicago Public - Red North,maxpreps,0,,0.4859,65
+il,chicago,northside-mustangs,Northside,Mustangs,,Chicago Public - Red North,maxpreps,0,,0.3244,52
+il,chicago,taft-eagles,Taft,Eagles,,Chicago Public - Red North,maxpreps,0,,0.4300,60
+il,chicago,simeon-wolverines,Simeon,Wolverines,,Chicago Public - Red South,maxpreps,0,,0.7814,89
+il,chicago,morgan-park-mustangs,Morgan Park,Mustangs,,Chicago Public - Red South,maxpreps,0,,0.5001,66
+il,chicago,lindblom-eagles,Lindblom,Eagles,,Chicago Public - Red South,maxpreps,0,,0.5219,68
+il,chicago,christian-fenger-academy-titans,Christian Fenger Academy,Titans,,Chicago Public - Red South,maxpreps,0,,0.4269,60
+il,chicago,bogan-bengals,Bogan,Bengals,,Chicago Public - Red South,maxpreps,0,,0.4555,62
+il,chicago,brooks-eagles,Brooks,Eagles,,Chicago Public - Red South,maxpreps,0,,0.4387,61
+il,chicago,julian-jaguars,Julian,Jaguars,,Chicago Public - Red South,maxpreps,0,,0.4045,58
+il,chicago,agricultural-science-cyclones,Agricultural Science,Cyclones,,Chicago Public - Red South,maxpreps,0,,0.4000,58
+il,chicago,curie-condors,Curie,Condors,,Chicago Public - Red West,maxpreps,0,,0.8522,95
+il,chicago,crane-medical-cougars,Crane Medical,Cougars,,Chicago Public - Red West,maxpreps,0,,0.5360,69
+il,chicago,clark-eagles,Clark,Eagles,,Chicago Public - Red West,maxpreps,0,,0.5626,71
+il,chicago,chicago-marshall-commandos,Chicago Marshall,Commandos,,Chicago Public - Red West,maxpreps,0,,0.5442,70
+il,chicago,north-lawndale-phoenix,North Lawndale,Phoenix,,Chicago Public - Red West,maxpreps,0,,0.4414,61
+il,chicago,farragut-admirals,Farragut,Admirals,,Chicago Public - Red West,maxpreps,0,,0.4434,61
+il,chicago,manley-wildcats,Manley,Wildcats,,Chicago Public - Red West,maxpreps,0,,0.4820,65
+il,chicago,westinghouse-warriors,Westinghouse,Warriors,,Chicago Public - Red West,maxpreps,0,,0.4591,63
+il,chicago,dunbar-mightymen-mightywomen,Dunbar,Mightymen Mightywomen,,Chicago Public - White Central,maxpreps,0,,0.3922,57
+il,chicago,richards-warriors,Richards,Warriors,,Chicago Public - White Central,maxpreps,0,,0.3135,51
+il,chicago,longwood-panthers,Longwood,Panthers,,Chicago Public - White Central,maxpreps,0,,0.3035,50
+il,chicago,hancock-eagles,Hancock,Eagles,,Chicago Public - White Central,maxpreps,0,,0.2537,46
+il,chicago,kennedy-crusaders,Kennedy,Crusaders,,Chicago Public - White Central,maxpreps,0,,0.2590,46
+il,chicago,gage-park-owls,Gage Park,Owls,,Chicago Public - White Central,maxpreps,0,,0.2291,44
+il,chicago,kelly-trojans,Kelly,Trojans,,Chicago Public - White Central,maxpreps,0,,0.2737,47
+il,chicago,catalyst-maria-wolves,Catalyst-Maria,Wolves,,Chicago Public - White Central,maxpreps,0,,0.1873,40
+il,chicago,hubbard-greyhounds,Hubbard,Greyhounds,,Chicago Public - White Central,maxpreps,0,,0.2328,44
+il,chicago,schurz-bulldogs,Schurz,Bulldogs,,Chicago Public - White North,maxpreps,0,,0.3842,57
+il,chicago,jones-eagles,Jones,Eagles,,Chicago Public - White North,maxpreps,0,,0.4211,60
+il,chicago,mather-rangers,Mather,Rangers,,Chicago Public - White North,maxpreps,0,,0.2904,49
+il,chicago,uplift-titans,Uplift,Titans,,Chicago Public - White North,maxpreps,0,,0.2654,47
+il,chicago,von-steuben-panthers,Von Steuben,Panthers,,Chicago Public - White North,maxpreps,0,,0.3371,53
+il,chicago,senn-bulldogs,Senn,Bulldogs,,Chicago Public - White North,maxpreps,0,,0.2983,50
+il,chicago,chicago-sullivan-tigers,Chicago Sullivan,Tigers,,Chicago Public - White North,maxpreps,0,,0.3498,54
+il,chicago,alcott-wildcats,Alcott,Wildcats,,Chicago Public - White North,maxpreps,0,,0.2406,45
+il,chicago,steinmetz-college-prep-streaks,Steinmetz College Prep,Streaks,,Chicago Public - White North,maxpreps,0,,0.3012,50
+il,chicago,corliss-trojans,Corliss,Trojans,,Chicago Public - White South,maxpreps,0,,0.3519,54
+il,chicago,bowen-boilermakers,Bowen,Boilermakers,,Chicago Public - White South,maxpreps,0,,0.3418,53
+il,chicago,urban-prep-academies-lions,Urban Prep Academies,Lions,,Chicago Public - White South,maxpreps,0,,0.2167,43
+il,chicago,south-shore-international-tars,South Shore International,Tars,,Chicago Public - White South,maxpreps,0,,0.2654,47
+il,chicago,woodlawn-warriors,Woodlawn,Warriors,,Chicago Public - White South,maxpreps,0,,0.3909,57
+il,chicago,harlan-falcons,Harlan,Falcons,,Chicago Public - White South,maxpreps,0,,0.2789,48
+il,chicago,carver-challengers,Carver,Challengers,,Chicago Public - White South,maxpreps,0,,0.2915,49
+il,chicago,chicago-washington-patriots,Chicago Washington,Patriots,,Chicago Public - White South,maxpreps,0,,0.2572,46
+il,chicago,little-village-phoenix,Little Village,Phoenix,,Chicago Public - White West,maxpreps,0,,0.4312,60
+il,chicago,wells-raiders,Wells,Raiders,,Chicago Public - White West,maxpreps,0,,0.4295,60
+il,chicago,prosser-falcons,Prosser,Falcons,,Chicago Public - White West,maxpreps,0,,0.3044,50
+il,chicago,collins-warriors,Collins,Warriors,,Chicago Public - White West,maxpreps,0,,0.3397,53
+il,chicago,ogden-international,Ogden International,International,,Chicago Public - White West,maxpreps,0,,0.2891,49
+il,chicago,clemente-wildcats,Clemente,Wildcats,,Chicago Public - White West,maxpreps,0,,0.3313,52
+il,chicago,orr-spartans,Orr,Spartans,,Chicago Public - White West,maxpreps,0,,0.4261,60
+il,chicago,north-grand-eagle-owls,North Grand,Eagle Owls,,Chicago Public - White West,maxpreps,0,,0.2084,42
+il,chicago,raby-raiders,Raby,Raiders,,Chicago Public - White West,maxpreps,0,,0.2015,42
+il,chicago,chicago-hope-academy,Chicago Hope Academy,Academy,,Chicagoland Christian,maxpreps,0,,0.6367,77
+il,west-chicago,wheaton-academy-warriors,Wheaton Academy,Warriors,,Chicagoland Christian,maxpreps,0,,0.5252,68
+il,elmhurst,timothy-christian-trojans,Timothy Christian,Trojans,,Chicagoland Christian,maxpreps,0,,0.4103,59
+il,chicago,christ-the-king-gladiators,Christ the King,Gladiators,,Chicagoland Christian,maxpreps,0,,0.5612,71
+il,kankakee,bishop-mcnamara-fightin-irish,Bishop McNamara,Fightin Irish,,Chicagoland Christian,maxpreps,0,,0.5007,66
+il,aurora,aurora-christian-eagles,Aurora Christian,Eagles,,Chicagoland Christian,maxpreps,0,,0.4585,63
+il,niles,northridge-knights,Northridge,Knights,,Chicagoland Christian,maxpreps,0,,0.4430,61
+il,palos-heights,chicago-christian-knights,Chicago Christian,Knights,,Chicagoland Christian,maxpreps,0,,0.3079,50
+il,woodstock,marian-central-catholic-hurricanes,Marian Central Catholic,Hurricanes,,Chicagoland Christian,maxpreps,0,,0.3081,50
+il,elgin,st-edward-green-wave,St. Edward,Green Wave,,Chicagoland Christian,maxpreps,0,,0.3414,53
+il,wheaton,wheaton-warrenville-south-tigers,Wheaton-Warrenville South,Tigers,,DuKane,maxpreps,0,,0.5959,74
+il,carol-stream,glenbard-north-panthers,Glenbard North,Panthers,,DuKane,maxpreps,0,,0.5473,70
+il,batavia,batavia-bulldogs,Batavia,Bulldogs,,DuKane,maxpreps,0,,0.5500,70
+il,geneva,geneva-vikings,Geneva,Vikings,,DuKane,maxpreps,0,,0.5508,70
+il,wheaton,wheaton-north-falcons,Wheaton North,Falcons,,DuKane,maxpreps,0,,0.4970,66
+il,st-charles,st-charles-north-north-stars,St. Charles North,North Stars,,DuKane,maxpreps,0,,0.4176,59
+il,roselle,lake-park-lancers,Lake Park,Lancers,,DuKane,maxpreps,0,,0.5196,68
+il,st-charles,st-charles-east-fighting-saints,St. Charles East,Fighting Saints,,DuKane,maxpreps,0,,0.3823,56
+il,naperville,neuqua-valley-wildcats,Neuqua Valley,Wildcats,,DuPage Valley,maxpreps,0,,0.6811,81
+il,naperville,naperville-north-huskies,Naperville North,Huskies,,DuPage Valley,maxpreps,0,,0.5308,69
+il,aurora,waubonsie-valley-warriors,Waubonsie Valley,Warriors,,DuPage Valley,maxpreps,0,,0.6186,76
+il,aurora,metea-valley-mustangs,Metea Valley,Mustangs,,DuPage Valley,maxpreps,0,,0.6081,75
+il,naperville,naperville-central-redhawks,Naperville Central,Redhawks,,DuPage Valley,maxpreps,0,,0.3887,57
+il,dekalb,dekalb-barbs,DeKalb,Barbs,,DuPage Valley,maxpreps,0,,0.5959,74
+il,bloomington,cornerstone-christian-cyclones,Cornerstone Christian,Cyclones,,East Central Illinois,maxpreps,0,,0.2976,49
+il,urbana,urbana-university-illineks,Urbana University,Illineks,,East Central Illinois,od_fallback,0,,0.3323,52
+il,normal,calvary-christian-academy-knights,Calvary Christian Academy,Knights,,East Central Illinois,maxpreps,0,,0.0624,30
+il,arthur,arthur-okaw-christian-conquering-riders,Arthur-Okaw Christian,Conquering Riders,,East Central Illinois,maxpreps,0,,0.2685,47
+il,champaign,judah-christian-tribe,Judah Christian,Tribe,,East Central Illinois,maxpreps,0,,0.1763,39
+il,lisle,benet-academy-redwings,Benet Academy,Redwings,,East Suburban Catholic,maxpreps,0,,0.7961,90
+il,chicago,st-patrick-shamrocks,St. Patrick,Shamrocks,,East Suburban Catholic,maxpreps,0,,0.6928,82
+il,chicago,marist-redhawks,Marist,Redhawks,,East Suburban Catholic,maxpreps,0,,0.7186,84
+il,arlington-heights,saint-viator-lions,Saint Viator,Lions,,East Suburban Catholic,maxpreps,0,,0.5408,69
+il,joliet,joliet-catholic-hilltoppers,Joliet Catholic,Hilltoppers,,East Suburban Catholic,maxpreps,0,,0.5187,68
+il,niles,niles-notre-dame-dons,Niles Notre Dame,Dons,,East Suburban Catholic,maxpreps,0,,0.5070,67
+il,lagrange-park,nazareth-academy-roadrunners,Nazareth Academy,Roadrunners,,East Suburban Catholic,maxpreps,0,,0.4411,61
+il,mundelein,carmel-corsairs,Carmel,Corsairs,,East Suburban Catholic,maxpreps,0,,0.4790,64
+il,chicago-heights,marian-catholic-spartans,Marian Catholic,Spartans,,East Suburban Catholic,maxpreps,0,,0.6130,75
+il,mulberry-grove,mulberry-grove-aces,Mulberry Grove,Aces,,Egyptian Illini,maxpreps,0,,0.2778,48
+il,cary,cary-grove-trojans,Cary-Grove,Trojans,,Fox Valley,maxpreps,0,,0.5332,69
+il,crystal-lake,crystal-lake-south-gators,Crystal Lake South,Gators,,Fox Valley,maxpreps,0,,0.6177,76
+il,burlington,burlington-central-rockets,Central,Rockets,,Fox Valley,maxpreps,0,,0.5659,71
+il,mchenry,mchenry-warriors,McHenry,Warriors,,Fox Valley,maxpreps,0,,0.5257,68
+il,algonquin,jacobs-eagles,Jacobs,Eagles,,Fox Valley,maxpreps,0,,0.4436,61
+il,crystal-lake,prairie-ridge-wolves,Prairie Ridge,Wolves,,Fox Valley,maxpreps,0,,0.3310,52
+il,crystal-lake,crystal-lake-central-tigers,Crystal Lake Central,Tigers,,Fox Valley,maxpreps,0,,0.2776,48
+il,hampshire,hampshire-whip-purs,Hampshire,Whip Purs,,Fox Valley,maxpreps,0,,0.3770,56
+il,huntley,huntley-red-raiders,Huntley,Red Raiders,,Fox Valley,maxpreps,0,,0.4563,62
+il,carpentersville,dundee-crown-chargers,Dundee-Crown,Chargers,,Fox Valley,maxpreps,0,,0.3609,55
+il,rosamond,faith-bible-christian-academy-mid-america-prep-frank,Faith Bible Christian Academy/Mid-America Prep,Frank,,Freelance,od_fallback,0,,0.4414,61
+il,washington,illinois-central-christian-lions,Illinois Central Christian,Lions,,Freelance,maxpreps,0,,0.3330,52
+il,downers-grove,chesterton-academy-of-the-holy-family,Chesterton Academy of the Holy Family,Family,,Freelance,maxpreps,0,,0.2060,42
+il,pawnee,pawnee-indians,Pawnee,Indians,,Freelance,maxpreps,0,,0.3089,50
+il,urbana,calvary-baptist-christian-academy-crusaders,Calvary Baptist Christian Academy,Crusaders,,Freelance,od_fallback,0,,0.4414,61
+il,washington,washington-panthers,Washington,Panthers,,Freelance,maxpreps,0,,0.5244,68
+il,forsyth,decatur-christian-warriors,Decatur Christian,Warriors,,Freelance,od_fallback,0,,0.4414,61
+il,chicago,art-in-motion-phoenix,Art in Motion,Phoenix,,Freelance,od_fallback,0,,0.4414,61
+il,channahon,families-of-faith-christian-academy-screaming-eagles,Families of Faith Christian Academy,Screaming Eagles,,Freelance,maxpreps,0,,0.2648,47
+il,quincy,quincy-homeschool-the-saint,Quincy HomeSchool,The Saint,,Freelance,maxpreps,0,,0.1425,37
+il,mattoon,maranatha-christian-academy-huskies,Maranatha Christian Academy,Huskies,,Freelance,od_fallback,0,,0.4414,61
+il,cairo,cairo-pilots,Cairo,Pilots,,Freelance,maxpreps,0,,0.3175,51
+il,waukegan,cristo-rey-st-martin-crsm,Cristo Rey St. Martin,Crsm,,Freelance,maxpreps,0,,0.2686,47
+il,chicago,daystar-academy-falcons,Daystar Academy,Falcons,,Freelance,od_fallback,0,,0.3978,58
+il,skokie,fasman-yeshiva,Fasman Yeshiva,Yeshiva,,Freelance,maxpreps,0,,0.3114,51
+il,waterloo,gibault-catholic-hawks,Gibault Catholic,Hawks,,Freelance,maxpreps,0,,0.3684,55
+il,granite-city,granite-city-warriors,Granite City,Warriors,,Freelance,maxpreps,0,,0.4390,61
+il,danville,homefires-flames,Homefires,Flames,,Freelance,maxpreps,0,,0.0738,31
+il,georgetown,la-salette-academy-lions,La Salette Academy,Lions,,Freelance,maxpreps,0,,0.3348,52
+il,niles,logos-christian-academy-pilgrims,Logos Christian Academy,Pilgrims,,Freelance,od_fallback,0,,0.3975,58
+il,lovejoy,lovejoy-wildcats,Lovejoy,Wildcats,,Freelance,maxpreps,0,,0.3285,52
+il,downers-grove,marquette-manor-baptist-academy-minutemen,Marquette Manor Baptist Academy,Minutemen,,Freelance,maxpreps,0,,0.3868,57
+il,breese,mater-dei-knights,Mater Dei,Knights,,Freelance,maxpreps,0,,0.5341,69
+il,alton,marquette-catholic-explorers,Marquette Catholic,Explorers,,Gateway,maxpreps,0,,0.4808,64
+il,belleville,althoff-catholic-crusaders,Althoff Catholic,Crusaders,,Gateway,maxpreps,0,,0.5424,70
+il,edwardsville,metro-east-lutheran-knights,Metro-East Lutheran,Knights,,Gateway,maxpreps,0,,0.3552,54
+il,maryville,maryville-christian-lions,Maryville Christian,Lions,,Gateway,maxpreps,0,,0.2395,45
+il,glen-carbon,father-mcgivney-catholic-griffins,Father McGivney Catholic,Griffins,,Gateway,maxpreps,0,,0.3065,50
+il,centralia,christ-our-rock-lutheran-stallions,Christ Our Rock Lutheran,Stallions,,Gateway,maxpreps,0,,0.4424,61
+il,elizabethtown,hardin-county-cougars,Hardin County,Cougars,,Greater Egyptian,maxpreps,0,,0.3870,57
+il,norris-city,norris-city-omaha-enfield-fighting-cardinals,Norris City-Omaha-Enfield,Fighting Cardinals,,Greater Egyptian,maxpreps,0,,0.3428,53
+il,junction,gallatin-county-hawks,Gallatin County,Hawks,,Greater Egyptian,maxpreps,0,,0.2608,46
+il,thompsonville,thompsonville,Thompsonville,Thompsonville,,Greater Egyptian,maxpreps,0,,0.2809,48
+il,marion,crab-orchard-trojans,Crab Orchard,Trojans,,Greater Egyptian,maxpreps,0,,0.3521,54
+il,galatia,galatia-bearcats,Galatia,Bearcats,,Greater Egyptian,maxpreps,0,,0.3234,52
+il,golconda,pope-county-pirates,Pope County,Pirates,,Greater Egyptian,maxpreps,0,,0.1596,38
+il,carrier-mills,carrier-mills-stonefort-wildcats,Carrier Mills-Stonefort,Wildcats,,Greater Egyptian,maxpreps,0,,0.5492,70
+il,leroy,leroy-panthers,LeRoy,Panthers,,Heart of Illinois,maxpreps,0,,0.4970,66
+il,eureka,eureka-hornets,Eureka,Hornets,,Heart of Illinois,maxpreps,0,,0.4658,63
+il,mackinaw,deer-creek-mackinaw-chiefs,Deer Creek-Mackinaw,Chiefs,,Heart of Illinois,maxpreps,0,,0.4671,63
+il,el-paso,el-paso-gridley-titans,El Paso-Gridley,Titans,,Heart of Illinois,maxpreps,0,,0.5034,66
+il,tremont,tremont-turks,Tremont,Turks,,Heart of Illinois,maxpreps,0,,0.5124,67
+il,downs,tri-valley-vikings,Tri-Valley,Vikings,,Heart of Illinois,maxpreps,0,,0.4903,65
+il,minonk,fieldcrest-knights,Fieldcrest,Knights,,Heart of Illinois,maxpreps,0,,0.5335,69
+il,heyworth,heyworth-hornets,Heyworth,Hornets,,Heart of Illinois,maxpreps,0,,0.4279,60
+il,colfax,ridgeview-mustangs,Ridgeview,Mustangs,,Heart of Illinois,maxpreps,0,,0.3050,50
+il,lexington,lexington-minutemen,Lexington,Minutemen,,Heart of Illinois,maxpreps,0,,0.4863,65
+il,gibson-city,gibson-city-melvin-sibley-falcons,Gibson City-Melvin-Sibley,Falcons,,Heart of Illinois,maxpreps,0,,0.3600,55
+il,flanagan,flanagan-cornell-falcons,Flanagan-Cornell,Falcons,,Heart of Illinois,maxpreps,0,,0.3085,50
+il,fisher,fisher-bunnies,Fisher,Bunnies,,Heart of Illinois,maxpreps,0,,0.2907,49
+il,tolono,tolono-unity-rockets,Tolono Unity,Rockets,,Illini Prairie,maxpreps,0,,0.5954,74
+il,pontiac,pontiac-indians,Pontiac,Indians,,Illini Prairie,maxpreps,0,,0.5023,66
+il,bloomington,bloomington-central-catholic-saints,Bloomington Central Catholic,Saints,,Illini Prairie,maxpreps,0,,0.4787,64
+il,chillicothe,illinois-valley-central-grey-ghosts,Illinois Valley Central,Grey Ghosts,,Illini Prairie,maxpreps,0,,0.4313,60
+il,st-joseph,st-joseph-ogden-spartans,St. Joseph-Ogden,Spartans,,Illini Prairie,maxpreps,0,,0.5544,71
+il,fairbury,prairie-central-hawks,Prairie Central,Hawks,,Illini Prairie,maxpreps,0,,0.4476,62
+il,monticello,monticello-sages,Monticello,Sages,,Illini Prairie,maxpreps,0,,0.4753,64
+il,rantoul,rantoul-eagles,Rantoul,Eagles,,Illini Prairie,maxpreps,0,,0.3473,54
+il,paxton,paxton-buckley-loda-panthers,Paxton-Buckley-Loda,Panthers,,Illini Prairie,maxpreps,0,,0.3535,54
+il,champaign,st-thomas-more-sabers,St. Thomas More,Sabers,,Illini Prairie,maxpreps,0,,0.3721,56
+il,streator,streator-bulldogs,Streator,Bulldogs,,Illinois Central 8,maxpreps,0,,0.4018,58
+il,wilmington,wilmington-wildcats,Wilmington,Wildcats,,Illinois Central 8,maxpreps,0,,0.3531,54
+il,peotone,peotone-blue-devils,Peotone,Blue Devils,,Illinois Central 8,maxpreps,0,,0.2868,49
+il,braidwood,reed-custer-comets,Reed-Custer,Comets,,Illinois Central 8,maxpreps,0,,0.2782,48
+il,lisle,lisle-lions,Lisle,Lions,,Illinois Central 8,maxpreps,0,,0.2692,47
+il,manteno,manteno-panthers,Manteno,Panthers,,Illinois Central 8,maxpreps,0,,0.3454,53
+il,herscher,herscher-tigers,Herscher,Tigers,,Illinois Central 8,maxpreps,0,,0.2494,45
+il,coal-city,coal-city-coalers,Coal City,Coalers,,Illinois Central 8,maxpreps,0,,0.2846,48
+il,danville,first-baptist-christian-knights,First Baptist Christian,Knights,,Illinois Christian,maxpreps,0,,0.3461,53
+il,ofallon,first-baptist-academy,First Baptist Academy,Academy,,Illinois Christian,maxpreps,0,,0.2272,44
+il,jacksonville,westfair-christian,Westfair Christian,Christian,,Illinois Christian,maxpreps,0,,0.3343,52
+il,rockford,berean-christian-kingsmen,Berean Christian,Kingsmen,,Illinois Christian,maxpreps,0,,0.1570,38
+il,waukegan,lake-county-baptist-lions,Lake County Baptist,Lions,,Illinois Christian,maxpreps,0,,0.3321,52
+il,lake-forest,lake-forest-academy-caxys,Lake Forest Academy,Caxys,,Independent School,maxpreps,0,,0.4511,62
+il,chicago,latin-romans,Latin,Romans,,Independent School,maxpreps,0,,0.4044,58
+il,chicago,francis-w-parker-colonels,Francis W. Parker,Colonels,,Independent School,maxpreps,0,,0.3392,53
+il,chicago,chicago-university-maroons,Chicago University,Maroons,,Independent School,maxpreps,0,,0.2831,48
+il,winnetka,north-shore-country-day-raiders,North Shore Country Day,Raiders,,Independent School,maxpreps,0,,0.3110,51
+il,peoria,peoria-christian-chargers,Peoria Christian,Chargers,,Inter County,maxpreps,0,,0.4684,63
+il,peoria-heights,peoria-heights-patriots,Peoria Heights,Patriots,,Inter County,maxpreps,0,,0.2959,49
+il,elmwood,elmwood-trojans,Elmwood,Trojans,,Inter County,maxpreps,0,,0.3247,52
+il,glasford,illini-bluffs-tigers,Illini Bluffs,Tigers,,Inter County,maxpreps,0,,0.4416,61
+il,maple-park,kaneland-knights,Kaneland,Knights,,Interstate Eight,maxpreps,0,,0.6282,77
+il,sycamore,sycamore-spartans,Sycamore,Spartans,,Interstate Eight,maxpreps,0,,0.4904,65
+il,lasalle,lasalle-peru-cavaliers,LaSalle-Peru,Cavaliers,,Interstate Eight,maxpreps,0,,0.5311,69
+il,ottawa,ottawa-pirates,Ottawa,Pirates,,Interstate Eight,maxpreps,0,,0.3884,57
+il,rochelle,rochelle-hubs,Rochelle,Hubs,,Interstate Eight,maxpreps,0,,0.3420,53
+il,morris,morris-warriors,Morris,Warriors,,Interstate Eight,maxpreps,0,,0.3364,53
+il,woodstock,woodstock-blue-streaks,Woodstock,Blue Streaks,,Kishwaukee River,maxpreps,0,,0.3758,56
+il,johnsburg,johnsburg-skyhawks,Johnsburg,Skyhawks,,Kishwaukee River,maxpreps,0,,0.4353,61
+il,plano,plano-reapers,Plano,Reapers,,Kishwaukee River,maxpreps,0,,0.3501,54
+il,richmond,richmond-burton-rockets,Richmond-Burton,Rockets,,Kishwaukee River,maxpreps,0,,0.3866,57
+il,sandwich,sandwich-indians,Sandwich,Indians,,Kishwaukee River,maxpreps,0,,0.3433,53
+il,marengo,marengo-indians,Marengo,Indians,,Kishwaukee River,maxpreps,0,,0.2178,43
+il,woodstock,woodstock-north-thunder,Woodstock North,Thunder,,Kishwaukee River,maxpreps,0,,0.2488,45
+il,harvard,harvard-hornets,Harvard,Hornets,,Kishwaukee River,maxpreps,0,,0.1793,40
+il,chicago,intrinsic-charter-school-downtown-campus-ravens,Intrinsic Charter School Downtown Campus,Ravens,,Lakeshore,maxpreps,0,,0.2943,49
+il,chicago,lycee-francais-de-chicago,Lycee Francais de Chicago,Chicago,,Lakeshore,maxpreps,0,,0.3423,53
+il,chicago,morgan-park-academy-warriors,Morgan Park Academy,Warriors,,Lakeshore,maxpreps,0,,0.3991,58
+il,chicago,wolcott-college-prep-wolves,Wolcott College Prep,Wolves,,Lakeshore,maxpreps,0,,0.2863,49
+il,chicago,horizon-science-academy-mckinley-park-hawks,Horizon Science Academy McKinley Park,Hawks,,Lakeshore,maxpreps,0,,0.2646,47
+il,evanston,beacon-academy-ba,Beacon Academy,Ba,,Lakeshore,maxpreps,0,,0.2453,45
+il,northfield,christian-heritage-academy-lions,Christian Heritage Academy,Lions,,Lakeshore,maxpreps,0,,0.1076,34
+il,chicago,british-international-school-of-chicago,British International School of Chicago,Chicago,,Lakeshore,od_fallback,0,,0.3195,51
+il,evanston,roycemore-griffins,Roycemore,Griffins,,Lakeshore,od_fallback,0,,0.3195,51
+il,chicago,waldorf-thunder,Waldorf,Thunder,,Lakeshore,od_fallback,0,,0.3195,51
+il,decatur,unity-christian-lions,Unity Christian,Lions,,Lincoln Prairie,maxpreps,0,,0.4151,59
+il,cerro-gordo,cerro-gordo-bement-broncos,Cerro Gordo/Bement,Broncos,,Lincoln Prairie,maxpreps,0,,0.2985,50
+il,sullivan,sullivan-redskins,Sullivan,Redskins,,Lincoln Prairie,maxpreps,0,,0.3302,52
+il,bethany,okaw-valley-timberwolves,Okaw Valley,Timberwolves,,Lincoln Prairie,maxpreps,0,,0.4044,58
+il,broadlands,heritage-hawks,Heritage,Hawks,,Lincoln Prairie,maxpreps,0,,0.1760,39
+il,arcola,arcola-purple-riders,Arcola,Purple Riders,,Lincoln Prairie,maxpreps,0,,0.3877,57
+il,argenta,argenta-oreana-bombers,Argenta-Oreana,Bombers,,Lincoln Prairie,maxpreps,0,,0.3000,50
+il,kansas,tri-county-kansas-shiloh-oakland-titans,Tri-County [Kansas/Shiloh/Oakland],Titans,,Lincoln Prairie,maxpreps,0,,0.2310,44
+il,villa-grove,villa-grove-blue-devils,Villa Grove,Blue Devils,,Lincoln Prairie,maxpreps,0,,0.2377,45
+il,arthur,arthur-lovington-atwood-hammond-knights,Arthur-Lovington/Atwood-Hammond,Knights,,Lincoln Prairie,maxpreps,0,,0.2178,43
+il,farmer-city,blue-ridge-knights,Blue Ridge,Knights,,Lincoln Prairie,maxpreps,0,,0.1917,41
+il,abingdon,abingdon-avon-tornadoes,Abingdon/Avon,Tornadoes,,Lincoln Trail,maxpreps,0,,0.4442,61
+il,annawan,annawan-braves-bravettes,Annawan,Braves Bravettes,,Lincoln Trail,maxpreps,0,,0.3763,56
+il,galva,galva-wildcats,Galva,Wildcats,,Lincoln Trail,maxpreps,0,,0.3914,57
+il,manlius,bureau-valley-storm,Bureau Valley,Storm,,Lincoln Trail,maxpreps,0,,0.3378,53
+il,monmouth,monmouth-united-red-storm,Monmouth United,Red Storm,,Lincoln Trail,maxpreps,0,,0.2992,50
+il,princeville,princeville-princes,Princeville,Princes,,Lincoln Trail,maxpreps,0,,0.3396,53
+il,woodhull,ridgewood-alwood-cambridge-spartans,Ridgewood [AlWood/Cambridge],Spartans,,Lincoln Trail,maxpreps,0,,0.2729,47
+il,kewanee,wethersfield-flying-geese,Wethersfield,Flying Geese,,Lincoln Trail,maxpreps,0,,0.2314,44
+il,biggsville,biggsville-west-central-heat,Biggsville West Central,Heat,,Lincoln Trail,maxpreps,0,,0.1621,38
+il,toulon,stark-county-rebels,Stark County,Rebels,,Lincoln Trail,maxpreps,0,,0.2530,46
+il,knoxville,knoxville-blue-bullets,Knoxville,Blue Bullets,,Lincoln Trail,maxpreps,0,,0.3236,52
+il,oneida,rowva-williamsfield-cougars,ROWVA/Williamsfield,Cougars,,Lincoln Trail,maxpreps,0,,0.2710,47
+il,lawrenceville,lawrenceville-indians,Lawrenceville,Indians,,Little Illini,maxpreps,0,,0.6100,75
+il,casey,casey-westfield-warriors,Casey-Westfield,Warriors,,Little Illini,maxpreps,0,,0.5425,70
+il,newton,newton-eagles,Newton,Eagles,,Little Illini,maxpreps,0,,0.4356,61
+il,olney,richland-county-tigers,Richland County,Tigers,,Little Illini,maxpreps,0,,0.4800,64
+il,marshall,marshall-lions,Marshall,Lions,,Little Illini,maxpreps,0,,0.3959,58
+il,mt-carmel,mt-carmel-golden-aces,Mt. Carmel,Golden Aces,,Little Illini,maxpreps,0,,0.3404,53
+il,robinson,robinson-maroons,Robinson,Maroons,,Little Illini,maxpreps,0,,0.3745,56
+il,paris,paris-tigers,Paris,Tigers,,Little Illini,maxpreps,0,,0.3374,53
+il,bridgeport,red-hill-salukis,Red Hill,Salukis,,Little Okaw Valley,maxpreps,0,,0.2973,49
+il,oblong,oblong-hutsonville-palestine-wildcats,Oblong/Hutsonville/Palestine,Wildcats,,Little Okaw Valley,maxpreps,0,,0.2449,45
+il,martinsville,martinsville-bluestreaks,Martinsville,Bluestreaks,,Little Okaw Valley,maxpreps,0,,0.2997,50
+il,hinckley,hinckley-big-rock-royals,Hinckley-Big Rock,Royals,,Little Ten,maxpreps,0,,0.3980,58
+il,newark,newark-norsemen,Newark,Norsemen,,Little Ten,maxpreps,0,,0.2849,48
+il,shabbona,indian-creek-timberwolves,Indian Creek,Timberwolves,,Little Ten,maxpreps,0,,0.4210,60
+il,serena,serena-huskers,Serena,Huskers,,Little Ten,maxpreps,0,,0.3305,52
+il,aurora,illinois-math-and-science-titans,Illinois Math & Science Academy,Titans,,Little Ten,maxpreps,0,,0.2287,44
+il,somonauk,somonauk-bobcats,Somonauk,Bobcats,,Little Ten,maxpreps,0,,0.3112,51
+il,depue,depue-little-giants,DePue,Little Giants,,Little Ten,od_fallback,0,,0.3358,53
+il,leland,leland-panthers,Leland,Panthers,,Little Ten,maxpreps,0,,0.1934,41
+il,earlville,earlville-red-raiders,Earlville,Red Raiders,,Little Ten,maxpreps,0,,0.2852,48
+il,lamoille,lamoille-lions,LaMoille,Lions,,Little Ten,od_fallback,0,,0.3058,50
+il,morton-grove,mcc-crescents,MCC,Crescents,,Metro Prep,maxpreps,0,,0.3108,51
+il,bridgeview,universal-stars,Universal,Stars,,Metro Prep,od_fallback,0,,0.3651,55
+il,villa-park,islamic-foundation-chargers,Islamic Foundation,Chargers,,Metro Prep,maxpreps,0,,0.1890,41
+il,lombard,college-prep-of-america-crescents,College Prep of America,Crescents,,Metro Prep,maxpreps,0,,0.2503,46
+il,hinsdale,hinsdale-adventist-academy-hurricanes,Hinsdale Adventist Academy,Hurricanes,,Metro Prep,od_fallback,0,,0.3650,55
+il,morton,morton-potters,Morton,Potters,,Mid-Illini,maxpreps,0,,0.7075,83
+il,east-peoria,east-peoria-raiders,East Peoria,Raiders,,Mid-Illini,maxpreps,0,,0.5683,72
+il,dunlap,dunlap-eagles,Dunlap,Eagles,,Mid-Illini,maxpreps,0,,0.4515,62
+il,metamora,metamora-redbirds,Metamora,Redbirds,,Mid-Illini,maxpreps,0,,0.7006,83
+il,canton,canton-little-giants,Canton,Little Giants,,Mid-Illini,maxpreps,0,,0.3836,57
+il,washington,washington-panthers,Washington,Panthers,,Mid-Illini,maxpreps,0,,0.5244,68
+il,bartonville,limestone-rockets,Limestone,Rockets,,Mid-Illini,maxpreps,0,,0.4226,60
+il,pekin,pekin-dragons,Pekin,Dragons,,Mid-Illini,maxpreps,0,,0.4132,59
+il,hoffman-estates,hoffman-estates-hawks,Hoffman Estates,Hawks,,Mid-Suburban Conference - East,maxpreps,0,,0.4827,65
+il,schaumburg,schaumburg-saxons,Schaumburg,Saxons,,Mid-Suburban Conference - East,maxpreps,0,,0.4421,61
+il,buffalo-grove,buffalo-grove-bison,Buffalo Grove,Bison,,Mid-Suburban Conference - East,maxpreps,0,,0.4261,60
+il,hoffman-estates,conant-cougars,Conant,Cougars,,Mid-Suburban Conference - East,maxpreps,0,,0.4696,64
+il,elk-grove-village,elk-grove-grenadiers,Elk Grove,Grenadiers,,Mid-Suburban Conference - East,maxpreps,0,,0.2644,47
+il,wheeling,wheeling-wildcats,Wheeling,Wildcats,,Mid-Suburban Conference - East,maxpreps,0,,0.3068,50
+il,palatine,fremd-vikings,Fremd,Vikings,,Mid-Suburban Conference - West,maxpreps,0,,0.6296,77
+il,palatine,palatine-pirates,Palatine,Pirates,,Mid-Suburban Conference - West,maxpreps,0,,0.6242,76
+il,arlington-heights,hersey-huskies,Hersey,Huskies,,Mid-Suburban Conference - West,maxpreps,0,,0.6643,80
+il,rolling-meadows,rolling-meadows-mustangs,Rolling Meadows,Mustangs,,Mid-Suburban Conference - West,maxpreps,0,,0.6578,79
+il,barrington,barrington-fillies-broncos,Barrington,Fillies Broncos,,Mid-Suburban Conference - West,maxpreps,0,,0.5777,72
+il,mt-prospect,prospect-knights,Prospect,Knights,,Mid-Suburban Conference - West,maxpreps,0,,0.5039,66
+il,waltonville,waltonville-spartans,Waltonville,Spartans,,Midland Trail,maxpreps,0,,0.5183,68
+il,woodlawn,woodlawn-cardinals,Woodlawn,Cardinals,,Midland Trail,maxpreps,0,,0.4559,62
+il,bluford,webber-trojans,Webber,Trojans,,Midland Trail,maxpreps,0,,0.4795,64
+il,wayne-city,wayne-city-indians,Wayne City,Indians,,Midland Trail,maxpreps,0,,0.3142,51
+il,cisne,cisne-runnin-lions,Cisne,Runnin Lions,,Midland Trail,maxpreps,0,,0.2728,47
+il,grayville,grayville-bison,Grayville,Bison,,Midland Trail,maxpreps,0,,0.2983,50
+il,sandoval,sandoval-blackhawks,Sandoval,Blackhawks,,Midland Trail,maxpreps,0,,0.2764,48
+il,troy,triad-knights,Triad,Knights,,Mississippi Valley,maxpreps,0,,0.6094,75
+il,mascoutah,mascoutah-indians,Mascoutah,Indians,,Mississippi Valley,maxpreps,0,,0.5334,69
+il,bethalto,civic-memorial-eagles,Civic Memorial,Eagles,,Mississippi Valley,maxpreps,0,,0.4294,60
+il,highland,highland-bulldogs,Highland,Bulldogs,,Mississippi Valley,maxpreps,0,,0.4906,65
+il,jerseyville,jersey-panthers,Jersey,Panthers,,Mississippi Valley,maxpreps,0,,0.3617,55
+il,waterloo,waterloo-bulldogs,Waterloo,Bulldogs,,Mississippi Valley,maxpreps,0,,0.3627,55
+il,bunker-hill,bunker-hill-minutemen,Bunker Hill,Minutemen,,MSM,maxpreps,0,,0.4054,58
+il,springfield,calvary-saints,Calvary,Saints,,MSM,maxpreps,0,,0.5093,67
+il,franklin,south-county-vipers,South County,Vipers,,MSM,maxpreps,0,,0.4312,60
+il,nokomis,nokomis-redskins,Nokomis,Redskins,,MSM,maxpreps,0,,0.3808,56
+il,springfield,lutheran-crusaders,Lutheran,Crusaders,,MSM,maxpreps,0,,0.4767,64
+il,mt-olive,mt-olive-wildcats,Mt. Olive,Wildcats,,MSM,od_fallback,0,,0.5253,68
+il,effingham,st-anthony-bulldogs,St. Anthony,Bulldogs,,National Trail,maxpreps,0,,0.5318,69
+il,dieterich,dieterich-movin-maroons,Dieterich,Movin Maroons,,National Trail,maxpreps,0,,0.4578,63
+il,toledo,cumberland-pirates,Cumberland,Pirates,,National Trail,maxpreps,0,,0.4393,61
+il,altamont,altamont-indians,Altamont,Indians,,National Trail,maxpreps,0,,0.5024,66
+il,louisville,north-clay-clay-city,North Clay/Clay City,City,,National Trail,maxpreps,0,,0.4523,62
+il,st-elmo,brownstown-st-elmo-eagles,St. Elmo/Brownstown,Eagles,,National Trail,maxpreps,0,,0.2903,49
+il,windsor,windsor-stewardson-strasburg,Windsor/Stewardson-Strasburg,Strasburg,,National Trail,maxpreps,0,,0.2987,50
+il,cowden,cowden-herrick-beecher-city-eagles,Cowden-Herrick/Beecher City,Eagles,,National Trail,maxpreps,0,,0.2431,45
+il,neoga,neoga-indians,Neoga,Indians,,National Trail,maxpreps,0,,0.2248,43
+il,farina,farina-south-central-cougars,Farina South Central,Cougars,,National Trail,maxpreps,0,,0.2891,49
+il,chicago,the-noble-academy-griffins,The Noble Academy,Griffins,,Noble - Blue,maxpreps,0,,0.2718,47
+il,chicago,itw-david-speer-academy-pride,ITW David Speer Academy,Pride,,Noble - Blue,od_fallback,0,,0.3544,54
+il,chicago,rowe-clark-masai-lions,Rowe-Clark,Masai Lions,,Noble - Blue,maxpreps,0,,0.2152,43
+il,chicago,muchin-college-prep-mountain-lions,Muchin College Prep,Mountain Lions,,Noble - Blue,maxpreps,0,,0.2364,44
+il,chicago,mansueto-leopards,Mansueto,Leopards,,Noble - Blue,od_fallback,0,,0.3544,54
+il,chicago,drw-college-prep-cheetahs,DRW College Prep,Cheetahs,,Noble - Blue,maxpreps,0,,0.3459,53
+il,chicago,golder-panthers,Golder,Panthers,,Noble - Blue,maxpreps,0,,0.0042,25
+il,chicago,noble-street-college-prep-golden-tigers,Noble Street College Prep,Golden Tigers,,Noble - Blue,maxpreps,0,,0.2126,42
+il,chicago,pritzker-jaguars,Pritzker,Jaguars,,Noble - Blue,od_fallback,0,,0.3544,54
+il,chicago,baker-bobcats,Baker,Bobcats,,Noble - Blue,od_fallback,0,,0.3544,54
+il,chicago,uic-college-prep-unknown,UIC College Prep,Unknown,,Noble - Gold,maxpreps,0,,0.2665,47
+il,chicago,rauner-wildcats,Rauner,Wildcats,,Noble - Gold,maxpreps,0,,0.2058,42
+il,chicago,butler-lynx,Butler,Lynx,,Noble - Gold,maxpreps,0,,0.4359,61
+il,chicago,bulls-college-prep-bulls,Bulls College Prep,Bulls,,Noble - Gold,maxpreps,0,,0.3036,50
+il,chicago,comer-catamounts,Comer,Catamounts,,Noble - Gold,maxpreps,0,,0.2449,45
+il,chicago,hansberry-bengals,Hansberry,Bengals,,Noble - Gold,maxpreps,0,,0.2808,48
+il,chicago,johnson-pumas,Johnson,Pumas,,Noble - Gold,maxpreps,0,,0.3292,52
+il,gurnee,warren-township-blue-devils,Warren Township,Blue Devils,,North Suburban,maxpreps,0,,0.6868,81
+il,waukegan,waukegan-bulldogs,Waukegan,Bulldogs,,North Suburban,maxpreps,0,,0.5990,74
+il,lincolnshire,stevenson-patriots,Stevenson,Patriots,,North Suburban,maxpreps,0,,0.6286,77
+il,libertyville,libertyville-wildcats,Libertyville,Wildcats,,North Suburban,maxpreps,0,,0.5533,70
+il,lake-zurich,lake-zurich-bears,Lake Zurich,Bears,,North Suburban,maxpreps,0,,0.5475,70
+il,lake-forest,lake-forest-scouts,Lake Forest,Scouts,,North Suburban,maxpreps,0,,0.6044,75
+il,mundelein,mundelein-mustangs,Mundelein,Mustangs,,North Suburban,maxpreps,0,,0.4558,62
+il,zion,zion-benton-zee-bees,Zion-Benton,Zee Bees,,North Suburban,maxpreps,0,,0.3585,54
+il,grayslake,westlake-christian-academy-eagles,Westlake Christian Academy,Eagles,,Northeastern,maxpreps,0,,0.2601,46
+il,rockford,christian-life-eagles,Christian Life,Eagles,,Northeastern,maxpreps,0,,0.2882,49
+il,schaumburg,schaumburg-christian-conquerors,Schaumburg Christian,Conquerors,,Northeastern,maxpreps,0,,0.3512,54
+il,elgin,harvest-westminster-warriors,Harvest-Westminster,Warriors,,Northeastern,maxpreps,0,,0.3581,54
+il,south-beloit,south-beloit-sobos,South Beloit,Sobos,,Northeastern,maxpreps,0,,0.4073,58
+il,arlington-heights,christian-liberty-chargers,Christian Liberty,Chargers,,Northeastern,maxpreps,0,,0.2860,48
+il,hebron,alden-hebron-green-giants,Alden-Hebron,Green Giants,,Northeastern,od_fallback,0,,0.1580,38
+il,mooseheart,mooseheart-red-ramblers,Mooseheart,Red Ramblers,,Northeastern,maxpreps,0,,0.0889,32
+il,cary,trinity-oaks-christian-academy-huskies,Trinity Oaks Christian Academy,Huskies,,Northeastern,od_fallback,0,,0.0965,33
+il,rockford,our-lady-of-the-sacred-heart-academy-romans,Our Lady of the Sacred Heart Academy,Romans,,Northeastern,od_fallback,0,,0.0657,30
+il,elgin,harvest-christian-academy-lions,Harvest Christian Academy,Lions,,Northeastern,maxpreps,0,,0.3501,54
+il,rockford,guilford-vikings,Guilford,Vikings,,Northern Illinois 10,maxpreps,0,,0.6145,75
+il,rockford,rockford-auburn-knights,Rockford Auburn,Knights,,Northern Illinois 10,maxpreps,0,,0.6073,75
+il,rockton,hononegah-indians,Hononegah,Indians,,Northern Illinois 10,maxpreps,0,,0.4926,65
+il,rockford,rockford-east-e-rabs,Rockford East,E Rabs,,Northern Illinois 10,maxpreps,0,,0.4881,65
+il,rockford,jefferson-j-hawks,Jefferson,J Hawks,,Northern Illinois 10,maxpreps,0,,0.4028,58
+il,belvidere,belvidere-north-blue-thunder,Belvidere North,Blue Thunder,,Northern Illinois 10,maxpreps,0,,0.4403,61
+il,belvidere,belvidere-buccaneers,Belvidere,Buccaneers,,Northern Illinois 10,maxpreps,0,,0.3134,51
+il,freeport,freeport-pretzels,Freeport,Pretzels,,Northern Illinois 10,maxpreps,0,,0.4417,61
+il,machesney-park,harlem-huskies,Harlem,Huskies,,Northern Illinois 10,maxpreps,0,,0.4049,58
+il,rockford,boylan-catholic-titans,Boylan Catholic,Titans,,Northern Illinois 10,maxpreps,0,,0.3975,58
+il,dixon,faith-christian-falcons,Faith Christian,Falcons,,Northern Illinois Christian,maxpreps,0,,0.3926,57
+il,moline,quad-cities-christian-eagles,Quad Cities Christian,Eagles,,Northern Illinois Christian,maxpreps,0,,0.3277,52
+il,east-moline,east-moline-christian-eagles,East Moline Christian,Eagles,,Northern Illinois Christian,maxpreps,0,,0.1796,40
+il,galesburg,galesburg-christian-lions,Galesburg Christian,Lions,,Northern Illinois Christian,maxpreps,0,,0.1997,41
+il,wauconda,wauconda-bulldogs,Wauconda,Bulldogs,,Northern Lake County,maxpreps,0,,0.4152,59
+il,grayslake,grayslake-central-rams,Grayslake Central,Rams,,Northern Lake County,maxpreps,0,,0.4866,65
+il,fox-lake,grant-community-bulldogs,Grant Community,Bulldogs,,Northern Lake County,maxpreps,0,,0.3707,55
+il,lake-villa,lakes-eagles,Lakes,Eagles,,Northern Lake County,maxpreps,0,,0.4065,58
+il,north-chicago,north-chicago-warhawks,North Chicago,Warhawks,,Northern Lake County,maxpreps,0,,0.3024,50
+il,grayslake,grayslake-north-knights,Grayslake North,Knights,,Northern Lake County,maxpreps,0,,0.3281,52
+il,antioch,antioch-sequoits,Antioch,Sequoits,,Northern Lake County,maxpreps,0,,0.3863,57
+il,round-lake,round-lake-panthers,Round Lake,Panthers,,Northern Lake County,maxpreps,0,,0.2684,47
+il,dakota,dakota-indians,Dakota,Indians,,Northwest Upstate Illini - North,maxpreps,0,,0.4633,63
+il,lena,lena-winslow-panthers,Lena-Winslow,Panthers,,Northwest Upstate Illini - North,maxpreps,0,,0.4562,62
+il,pecatonica,pecatonica-indians,Pecatonica,Indians,,Northwest Upstate Illini - North,maxpreps,0,,0.5429,70
+il,forreston,forreston-cardinals,Forreston,Cardinals,,Northwest Upstate Illini - North,maxpreps,0,,0.2935,49
+il,pearl-city,pearl-city-wolves,Pearl City,Wolves,,Northwest Upstate Illini - North,maxpreps,0,,0.3383,53
+il,durand,durand-bulldogs,Durand,Bulldogs,,Northwest Upstate Illini - North,maxpreps,0,,0.1922,41
+il,orangeville,orangeville-broncos,Orangeville,Broncos,,Northwest Upstate Illini - North,maxpreps,0,,0.2712,47
+il,lanark,eastland-cougars,Eastland,Cougars,,Northwest Upstate Illini - South,maxpreps,0,,0.5170,67
+il,fulton,fulton-steamers,Fulton,Steamers,,Northwest Upstate Illini - South,maxpreps,0,,0.3686,55
+il,morrison,morrison-mustangs,Morrison,Mustangs,,Northwest Upstate Illini - South,maxpreps,0,,0.2940,49
+il,polo,polo-marcos,Polo,Marcos,,Northwest Upstate Illini - South,maxpreps,0,,0.2287,44
+il,milledgeville,milledgeville-missiles,Milledgeville,Missiles,,Northwest Upstate Illini - South,maxpreps,0,,0.2413,45
+il,ashton,ashton-franklin-center-raiders,Ashton-Franklin Center,Raiders,,Northwest Upstate Illini - South,maxpreps,0,,0.1677,39
+il,east-dubuque,east-dubuque-warriors,East Dubuque,Warriors,,Northwest Upstate Illini - West,maxpreps,0,,0.4216,60
+il,galena,galena-pirates,Galena,Pirates,,Northwest Upstate Illini - West,maxpreps,0,,0.4670,63
+il,scales-mound,scales-mound-hornets,Scales Mound,Hornets,,Northwest Upstate Illini - West,maxpreps,0,,0.4484,62
+il,warren,warren-warriors,Warren,Warriors,,Northwest Upstate Illini - West,maxpreps,0,,0.3450,53
+il,mount-carroll,west-carroll-thunder,West Carroll,Thunder,,Northwest Upstate Illini - West,maxpreps,0,,0.2120,42
+il,stockton,stockton-blackhawks,Stockton,Blackhawks,,Northwest Upstate Illini - West,maxpreps,0,,0.2096,42
+il,hanover,river-ridge-wildcats,River Ridge,Wildcats,,Northwest Upstate Illini - West,maxpreps,0,,0.2639,47
+il,madison,madison-trojans,Madison,Trojans,,Prairie State,maxpreps,0,,0.2956,49
+il,carthage,illini-west-chargers,Illini West,Chargers,,Prairieland,maxpreps,0,,0.4934,66
+il,farmington,farmington-farmers,Farmington,Farmers,,Prairieland,maxpreps,0,,0.3503,54
+il,macomb,macomb-bombers,Macomb,Bombers,,Prairieland,maxpreps,0,,0.4995,66
+il,cuba,cuba-spoon-river-valley-wildcats,Cuba/Spoon River Valley,Wildcats,,Prairieland,maxpreps,0,,0.3577,54
+il,brimfield,brimfield-indians,Brimfield,Indians,,Prairieland,maxpreps,0,,0.3878,57
+il,sciota,west-prairie-cyclones,West Prairie,Cyclones,,Prairieland,maxpreps,0,,0.3565,54
+il,havana,havana-ducks,Havana,Ducks,,Prairieland,maxpreps,0,,0.2803,48
+il,peoria-heights,peoria-heights-patriots,Peoria Heights,Patriots,,Prairieland,maxpreps,0,,0.2959,49
+il,elmwood,elmwood-trojans,Elmwood,Trojans,,Prairieland,maxpreps,0,,0.3247,52
+il,lewistown,lewistown-indians,Lewistown,Indians,,Prairieland,maxpreps,0,,0.2674,47
+il,astoria,astoria-vit-rebels,Astoria/VIT,Rebels,,Prairieland,maxpreps,0,,0.1609,38
+il,bushnell,bushnell-prairie-city-spartans,Bushnell-Prairie City,Spartans,,Prairieland,maxpreps,0,,0.2435,45
+il,st-anne,st-anne-cardinals,St. Anne,Cardinals,,River Valley,maxpreps,0,,0.3307,52
+il,gardner,gardner-south-wilmington-panthers,Gardner-South Wilmington,Panthers,,River Valley,maxpreps,0,,0.2508,46
+il,clifton,clifton-central-comets,Clifton Central,Comets,,River Valley,maxpreps,0,,0.3038,50
+il,momence,momence-momence-athletics,Momence,Momence Athletics,,River Valley,maxpreps,0,,0.2101,42
+il,cullom,tri-point-chargers,Tri-Point,Chargers,,River Valley,maxpreps,0,,0.3479,54
+il,beecher,beecher-bobcats,Beecher,Bobcats,,River Valley,maxpreps,0,,0.4261,60
+il,donovan,donovan-wildcats,Donovan,Wildcats,,River Valley,maxpreps,0,,0.3068,50
+il,crete,illinois-lutheran-chargers,Illinois Lutheran,Chargers,,River Valley,od_fallback,0,,0.3427,53
+il,grant-park,grant-park-dragons,Grant Park,Dragons,,River Valley,maxpreps,0,,0.2188,43
+il,kankakee,grace-christian-academy-crusaders,Grace Christian Academy,Crusaders,,River Valley,maxpreps,0,,0.2018,42
+il,petersburg,porta-ashland-chandlerville-central-bluejays,PORTA/Ashland-Chandlerville Central,Bluejays,,Sangamo,maxpreps,0,,0.4722,64
+il,maroa,maroa-forsyth-trojans,Maroa-Forsyth,Trojans,,Sangamo,maxpreps,0,,0.4637,63
+il,new-berlin,new-berlin-pretzels,New Berlin,Pretzels,,Sangamo,maxpreps,0,,0.4780,64
+il,williamsville,williamsville-bullets,Williamsville,Bullets,,Sangamo,maxpreps,0,,0.5979,74
+il,riverton,riverton-hawks,Riverton,Hawks,,Sangamo,maxpreps,0,,0.4276,60
+il,mason-city,illini-central-cougars,Illini Central,Cougars,,Sangamo,maxpreps,0,,0.2468,45
+il,auburn,auburn-trojans,Auburn,Trojans,,Sangamo,maxpreps,0,,0.4612,63
+il,stanford,olympia-spartans,Olympia,Spartans,,Sangamo,maxpreps,0,,0.2631,47
+il,pleasant-plains,pleasant-plains-cardinals,Pleasant Plains,Cardinals,,Sangamo,maxpreps,0,,0.4274,60
+il,staunton,staunton-bulldogs,Staunton,Bulldogs,,South Central,maxpreps,0,,0.4858,65
+il,vandalia,vandalia-vandals,Vandalia,Vandals,,South Central,maxpreps,0,,0.3732,56
+il,litchfield,litchfield-purple-panthers,Litchfield,Purple Panthers,,South Central,maxpreps,0,,0.3623,55
+il,virden,north-mac-panthers,North Mac,Panthers,,South Central,maxpreps,0,,0.4140,59
+il,pana,pana-panthers,Pana,Panthers,,South Central,maxpreps,0,,0.3484,54
+il,carlinville,carlinville-cavaliers,Carlinville,Cavaliers,,South Central,maxpreps,0,,0.3472,54
+il,piasa,southwestern-piasa-birds,Southwestern,Piasa Birds,,South Central,maxpreps,0,,0.3405,53
+il,hillsboro,hillsboro-hiltoppers,Hillsboro,Hiltoppers,,South Central,maxpreps,0,,0.3064,50
+il,greenville,greenville-tigers,Greenville,Tigers,,South Central,maxpreps,0,,0.3972,58
+il,gillespie,gillespie-miners,Gillespie,Miners,,South Central,maxpreps,0,,0.2124,42
+il,ullin,century-centurions,Century,Centurions,,South Egyptian,maxpreps,0,,0.2719,47
+il,cobden,cobden-appleknockers,Cobden,Appleknockers,,South Egyptian,maxpreps,0,,0.2749,48
+il,mounds,meridian-bobcats,Meridian,Bobcats,,South Egyptian,maxpreps,0,,0.3877,57
+il,elkville,elverado-falcons,Elverado,Falcons,,South Egyptian,maxpreps,0,,0.1578,38
+il,dongola,dongola-demons,Dongola,Demons,,South Egyptian,od_fallback,0,,0.3191,51
+il,energy,agape-christian-knights,Agape Christian,Knights,,South Egyptian,maxpreps,0,,0.2419,45
+il,joppa,joppa-maple-grove-rangers,Joppa-Maple Grove,Rangers,,South Egyptian,maxpreps,0,,0.4017,58
+il,tamms,egyptian-pharoahs,Egyptian,Pharoahs,,South Egyptian,maxpreps,0,,0.3176,51
+il,wolf-lake,shawnee-redskins,Shawnee,Redskins,,South Egyptian,od_fallback,0,,0.2791,48
+il,centralia,centralia-orphans,Centralia,Orphans,,South Seven,maxpreps,0,,0.7022,83
+il,mt-vernon,mt-vernon-rams,Mt. Vernon,Rams,,South Seven,maxpreps,0,,0.6140,75
+il,marion,marion-wildcats,Marion,Wildcats,,South Seven,maxpreps,0,,0.5131,67
+il,carbondale,carbondale-terriers,Carbondale,Terriers,,South Seven,maxpreps,0,,0.4196,59
+il,cahokia,cahokia-comanches,Cahokia,Comanches,,South Seven,maxpreps,0,,0.3983,58
+il,oak-forest,oak-forest-bengals,Oak Forest,Bengals,,South Suburban,maxpreps,0,,0.4644,63
+il,country-club-hills,hillcrest-hawks,Hillcrest,Hawks,,South Suburban,maxpreps,0,,0.6174,76
+il,lemont,lemont-lemont-hs,Lemont,Lemont Hs,,South Suburban,maxpreps,0,,0.5983,74
+il,oak-lawn,oak-lawn-spartans,Oak Lawn,Spartans,,South Suburban,maxpreps,0,,0.5387,69
+il,palos-heights,shepard-astros,Shepard,Astros,,South Suburban,maxpreps,0,,0.3670,55
+il,oak-lawn,richards-bulldogs,Richards,Bulldogs,,South Suburban,maxpreps,0,,0.3294,52
+il,midlothian,bremen-braves,Bremen,Braves,,South Suburban,maxpreps,0,,0.2907,49
+il,calumet-city,thornton-fractional-north-meteors,Thornton Fractional North,Meteors,,South Suburban,maxpreps,0,,0.4878,65
+il,blue-island,blue-island-eisenhower-cardinals,Blue Island Eisenhower,Cardinals,,South Suburban,maxpreps,0,,0.3515,54
+il,summit,argo-argonauts,Argo,Argonauts,,South Suburban,maxpreps,0,,0.2954,49
+il,evergreen-park,evergreen-park-mustangs,Evergreen Park,Mustangs,,South Suburban,maxpreps,0,,0.3802,56
+il,lansing,thornton-fractional-south-red-wolves,Thornton Fractional South,Red Wolves,,South Suburban,maxpreps,0,,0.3766,56
+il,burbank,reavis-rams,Reavis,Rams,,South Suburban,maxpreps,0,,0.2471,45
+il,tinley-park,tinley-park-titans,Tinley Park,Titans,,South Suburban,maxpreps,0,,0.3773,56
+il,nashville,nashville-hornets,Nashville,Hornets,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.5984,74
+il,pinckneyville,pinckneyville-panthers,Pinckneyville,Panthers,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.5549,71
+il,benton,benton-rangers,Benton,Rangers,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.5617,71
+il,duquoin,duquoin-indians,DuQuoin,Indians,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.4030,58
+il,anna,anna-jonesboro-wildcats,Anna-Jonesboro,Wildcats,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.3741,56
+il,west-frankfort,frankfort-redbirds,Frankfort,Redbirds,,Southern Illinois River-to-River - Mississippi,maxpreps,0,,0.2747,48
+il,carterville,carterville-lions,Carterville,Lions,,Southern Illinois River-to-River - Ohio,maxpreps,0,,0.5454,70
+il,murphysboro,murphysboro-red-devils,Murphysboro,Red Devils,,Southern Illinois River-to-River - Ohio,maxpreps,0,,0.4884,65
+il,herrin,herrin-tigers,Herrin,Tigers,,Southern Illinois River-to-River - Ohio,maxpreps,0,,0.5068,67
+il,metropolis,massac-county-patriots,Massac County,Patriots,,Southern Illinois River-to-River - Ohio,maxpreps,0,,0.4327,61
+il,harrisburg,harrisburg-bulldogs,Harrisburg,Bulldogs,,Southern Illinois River-to-River - Ohio,maxpreps,0,,0.3936,57
+il,kankakee,kankakee-kays,Kankakee,Kays,,Southland,maxpreps,0,,0.7220,84
+il,olympia-fields,rich-township-raptors,Rich Township,Raptors,,Southland,maxpreps,0,,0.7021,83
+il,harvey,thornton-wildcats,Thornton,Wildcats,,Southland,maxpreps,0,,0.6102,75
+il,south-holland,thornwood-thunderbirds,Thornwood,Thunderbirds,,Southland,maxpreps,0,,0.4703,64
+il,chicago-heights,bloom-blazing-trojan,Bloom,Blazing Trojan,,Southland,maxpreps,0,,0.6478,78
+il,crete,crete-monee-warriors,Crete-Monee,Warriors,,Southland,maxpreps,0,,0.5014,66
+il,dolton,thornridge-falcons,Thornridge,Falcons,,Southland,maxpreps,0,,0.3398,53
+il,bolingbrook,bolingbrook-raiders,Bolingbrook,Raiders,,SouthWest Prairie,maxpreps,0,,0.7364,85
+il,joliet,joliet-west-tigers,Joliet West,Tigers,,SouthWest Prairie,maxpreps,0,,0.6526,79
+il,oswego,oswego-panthers,Oswego,Panthers,,SouthWest Prairie,maxpreps,0,,0.4785,64
+il,oswego,oswego-east-wolves,Oswego East,Wolves,,SouthWest Prairie,maxpreps,0,,0.6350,77
+il,yorkville,yorkville-foxes,Yorkville,Foxes,,SouthWest Prairie,maxpreps,0,,0.5793,73
+il,plainfield,plainfield-east-bengals,Plainfield East,Bengals,,SouthWest Prairie,maxpreps,0,,0.5062,67
+il,minooka,minooka-indians,Minooka,Indians,,SouthWest Prairie,maxpreps,0,,0.4481,62
+il,romeoville,romeoville-spartans,Romeoville,Spartans,,SouthWest Prairie,maxpreps,0,,0.4804,64
+il,plainfield,plainfield-south-cougars,Plainfield South,Cougars,,SouthWest Prairie,maxpreps,0,,0.4457,62
+il,plainfield,plainfield-central-wildcats,Plainfield Central,Wildcats,,SouthWest Prairie,maxpreps,0,,0.2791,48
+il,joliet,joliet-central-steelmen,Joliet Central,Steelmen,,SouthWest Prairie,maxpreps,0,,0.3680,55
+il,plainfield,plainfield-north-tigers,Plainfield North,Tigers,,SouthWest Prairie,maxpreps,0,,0.4228,60
+il,flossmoor,homewood-flossmoor-vikings,Homewood-Flossmoor,Vikings,,SouthWest Suburban,maxpreps,0,,0.7339,85
+il,lockport,lockport-porters,Lockport,Porters,,SouthWest Suburban,maxpreps,0,,0.5662,72
+il,orland-park,sandburg-eagles,Sandburg,Eagles,,SouthWest Suburban,maxpreps,0,,0.4810,65
+il,new-lenox,lincoln-way-central-knights,Lincoln-Way Central,Knights,,SouthWest Suburban,maxpreps,0,,0.5076,67
+il,frankfort,lincoln-way-east-griffins,Lincoln-Way East,Griffins,,SouthWest Suburban,maxpreps,0,,0.5320,69
+il,palos-hills,stagg-chargers,Stagg,Chargers,,SouthWest Suburban,maxpreps,0,,0.4052,58
+il,new-lenox,lincoln-way-west-warriors,Lincoln-Way West,Warriors,,SouthWest Suburban,maxpreps,0,,0.4170,59
+il,tinley-park,andrew-thunderbolts,Andrew,Thunderbolts,,SouthWest Suburban,maxpreps,0,,0.5000,66
+il,bradley,bradley-bourbonnais-boilermakers,Bradley-Bourbonnais,Boilermakers,,SouthWest Suburban,maxpreps,0,,0.5183,68
+il,east-st-louis,east-st-louis-flyers,East St. Louis,Flyers,,Southwestern,maxpreps,0,,0.7535,87
+il,edwardsville,edwardsville-tigers,Edwardsville,Tigers,,Southwestern,maxpreps,0,,0.6725,80
+il,alton,alton-redbirds,Alton,Redbirds,,Southwestern,maxpreps,0,,0.5688,72
+il,belleville,belleville-west-maroons,Belleville West,Maroons,,Southwestern,maxpreps,0,,0.6418,78
+il,collinsville,collinsville-kahoks,Collinsville,Kahoks,,Southwestern,maxpreps,0,,0.6188,76
+il,ofallon,ofallon-panthers,O'Fallon,Panthers,,Southwestern,maxpreps,0,,0.5773,72
+il,belleville,belleville-east-lancers,Belleville East,Lancers,,Southwestern,maxpreps,0,,0.5873,73
+il,mendota,mendota-trojans,Mendota,Trojans,,Three Rivers - East,maxpreps,0,,0.4489,62
+il,sterling,newman-central-catholic-comets,Newman Central Catholic,Comets,,Three Rivers - East,maxpreps,0,,0.4356,61
+il,erie,erie-prophetstown-cardinals,Erie-Prophetstown,Cardinals,,Three Rivers - East,maxpreps,0,,0.3209,51
+il,kewanee,kewanee-boilermakers,Kewanee,Boilermakers,,Three Rivers - East,maxpreps,0,,0.3515,54
+il,princeton,princeton-tigers,Princeton,Tigers,,Three Rivers - East,maxpreps,0,,0.4151,59
+il,spring-valley,hall-red-devils,Hall,Red Devils,,Three Rivers - East,maxpreps,0,,0.3007,50
+il,sherrard,sherrard-tigers,Sherrard,Tigers,,Three Rivers - West,maxpreps,0,,0.5550,71
+il,orion,orion-chargers,Orion,Chargers,,Three Rivers - West,maxpreps,0,,0.4353,61
+il,port-byron,riverdale-rams,Riverdale,Rams,,Three Rivers - West,maxpreps,0,,0.4549,62
+il,aledo,mercer-county-golden-eagles,Mercer County,Golden Eagles,,Three Rivers - West,maxpreps,0,,0.4381,61
+il,monmouth,monmouth-roseville-titans,Monmouth-Roseville,Titans,,Three Rivers - West,maxpreps,0,,0.3839,57
+il,taylor-ridge,rockridge-rockets,Rockridge,Rockets,,Three Rivers - West,maxpreps,0,,0.5571,71
+il,manito,midwest-central-raiders,Midwest Central,Raiders,,Tomahawk,maxpreps,0,,0.2278,44
+il,delavan,delavan-panthers,Delavan,Panthers,,Tomahawk,maxpreps,0,,0.2877,49
+il,mt-pulaski,mt-pulaski-hilltoppers,Mt. Pulaski,Hilltoppers,,Tomahawk,maxpreps,0,,0.3575,54
+il,athens,athens-warriors,Athens,Warriors,,Tomahawk,maxpreps,0,,0.3704,55
+il,mason-city,illini-central-cougars,Illini Central,Cougars,,Tomahawk,maxpreps,0,,0.2468,45
+il,glasford,illini-bluffs-tigers,Illini Bluffs,Tigers,,Tomahawk,maxpreps,0,,0.4416,61
+il,greenview,greenview-bulldogs,Greenview,Bulldogs,,Tomahawk,od_fallback,0,,0.3533,54
+il,hartsburg,hartsburg-emden-stags,Hartsburg-Emden,Stags,,Tomahawk,od_fallback,0,,0.3433,53
+il,streator,woodland-warriors,Woodland,Warriors,,Tri-County,maxpreps,0,,0.3685,55
+il,ottawa,marquette-crusaders,Marquette,Crusaders,,Tri-County,maxpreps,0,,0.4331,61
+il,roanoke,roanoke-benson-rockets,Roanoke-Benson,Rockets,,Tri-County,maxpreps,0,,0.3076,50
+il,dwight,dwight-trojans,Dwight,Trojans,,Tri-County,maxpreps,0,,0.3168,51
+il,peru,st-bede-bruins,St. Bede,Bruins,,Tri-County,maxpreps,0,,0.2359,44
+il,seneca,seneca-fighting-irish,Seneca,Fighting Irish,,Tri-County,maxpreps,0,,0.4006,58
+il,varna,midland-timberwolves,Midland,Timberwolves,,Tri-County,maxpreps,0,,0.2838,48
+il,henry,henry-senachwine-mallards,Henry-Senachwine,Mallards,,Tri-County,maxpreps,0,,0.1994,41
+il,granville,putnam-county-panthers,Putnam County,Panthers,,Tri-County,maxpreps,0,,0.3925,57
+il,washburn,lowpoint-washburn-wildcats,Lowpoint-Washburn,Wildcats,,Tri-County,maxpreps,0,,0.2684,47
+il,lombard,glenbard-east-rams,Glenbard East,Rams,,Upstate Eight - East,maxpreps,0,,0.4858,65
+il,riverside,riverside-brookfield-bulldogs,Riverside-Brookfield,Bulldogs,,Upstate Eight - East,maxpreps,0,,0.5841,73
+il,glen-ellyn,glenbard-south-raiders,Glenbard South,Raiders,,Upstate Eight - East,maxpreps,0,,0.4047,58
+il,norridge,ridgewood-rebels,Ridgewood,Rebels,,Upstate Eight - East,maxpreps,0,,0.4421,61
+il,elmwood-park,elmwood-park-tigers,Elmwood Park,Tigers,,Upstate Eight - East,maxpreps,0,,0.3024,50
+il,bensenville,fenton-bison,Fenton,Bison,,Upstate Eight - East,maxpreps,0,,0.3788,56
+il,west-chicago,west-chicago-wildcats,West Chicago,Wildcats,,Upstate Eight - East,maxpreps,0,,0.2749,48
+il,aurora,west-aurora-blackhawks,West Aurora,Blackhawks,,Upstate Eight - West,maxpreps,0,,0.5257,68
+il,south-elgin,south-elgin-storm,South Elgin,Storm,,Upstate Eight - West,maxpreps,0,,0.3492,54
+il,aurora,aurora-east-tomcats,Aurora East,Tomcats,,Upstate Eight - West,maxpreps,0,,0.2900,49
+il,bartlett,bartlett-hawks,Bartlett,Hawks,,Upstate Eight - West,maxpreps,0,,0.3885,57
+il,elgin,larkin-royals,Larkin,Royals,,Upstate Eight - West,maxpreps,0,,0.3408,53
+il,elgin,elgin-maroons,Elgin,Maroons,,Upstate Eight - West,maxpreps,0,,0.1745,39
+il,streamwood,streamwood-sabres,Streamwood,Sabres,,Upstate Eight - West,maxpreps,0,,0.3647,55
+il,westville,westville-tigers,Westville,Tigers,,Vermilion Valley,maxpreps,0,,0.3831,56
+il,bismarck,bismarck-henning-rossville-alvin-blue-devils,Bismarck-Henning/Rossville-Alvin,Blue Devils,,Vermilion Valley,maxpreps,0,,0.4844,65
+il,hoopeston,hoopeston-cornjerkers,Hoopeston,Cornjerkers,,Vermilion Valley,maxpreps,0,,0.2663,47
+il,armstrong,armstrong-trojans,Armstrong,Trojans,,Vermilion Valley,maxpreps,0,,0.3180,51
+il,sidell,salt-fork-storm,Salt Fork,Storm,,Vermilion Valley,maxpreps,0,,0.3230,52
+il,fithian,oakwood-comets,Oakwood,Comets,,Vermilion Valley,maxpreps,0,,0.3453,53
+il,milford,milford-bearcats,Milford,Bearcats,,Vermilion Valley,maxpreps,0,,0.2634,47
+il,chrisman,chrisman-soldiers,Chrisman,Soldiers,,Vermilion Valley,od_fallback,0,,0.2911,49
+il,danville,schlarman-hilltoppers,Schlarman,Hilltoppers,,Vermilion Valley,maxpreps,0,,0.3834,56
+il,watseka,watseka-warriors,Watseka,Warriors,,Vermilion Valley,maxpreps,0,,0.3253,52
+il,georgetown,georgetown-ridge-farm-buffaloes,Georgetown-Ridge Farm,Buffaloes,,Vermilion Valley,maxpreps,0,,0.2237,43
+il,gilman,iroquois-west-raiders,Iroquois West,Raiders,,Vermilion Valley,maxpreps,0,,0.2411,45
+il,quincy,quincy-notre-dame-raiders,Quincy Notre Dame,Raiders,,West Central,maxpreps,0,,0.5561,71
+il,hamilton,hamilton-warsaw-titans,Hamilton/Warsaw,Titans,,West Central,maxpreps,0,,0.5563,71
+il,mendon,mendon-unity-mustangs,Mendon Unity,Mustangs,,West Central,maxpreps,0,,0.3126,51
+il,liberty,liberty-eagles,Liberty,Eagles,,West Central,maxpreps,0,,0.3451,53
+il,beardstown,beardstown-tigers,Beardstown,Tigers,,West Central,maxpreps,0,,0.2685,47
+il,rushville,rushville-industry-rockets,Rushville-Industry,Rockets,,West Central,maxpreps,0,,0.2663,47
+il,camp-point,camp-point-central-panthers,Camp Point Central,Panthers,,West Central,maxpreps,0,,0.4044,58
+il,barry,barry-western-wildcats,Barry Western,Wildcats,,West Central,maxpreps,0,,0.1886,40
+il,payson,seymour-indians,Seymour,Indians,,West Central,maxpreps,0,,0.3222,51
+il,augusta,augusta-southeastern-suns,Augusta Southeastern,Suns,,West Central,maxpreps,0,,0.2952,49
+il,downers-grove,downers-grove-south-mustangs,Downers Grove South,Mustangs,,West Suburban - Gold,maxpreps,0,,0.4934,66
+il,franklin-park,leyden-eagles,Leyden,Eagles,,West Suburban - Gold,maxpreps,0,,0.4133,59
+il,darien,hinsdale-south-hornets,Hinsdale South,Hornets,,West Suburban - Gold,maxpreps,0,,0.3890,57
+il,cicero,berwyn-cicero-morton-mustangs,Berwyn/Cicero Morton,Mustangs,,West Suburban - Gold,maxpreps,0,,0.3287,52
+il,addison,addison-trail-blazers,Addison Trail,Blazers,,West Suburban - Gold,maxpreps,0,,0.3479,54
+il,villa-park,willowbrook-warriors,Willowbrook,Warriors,,West Suburban - Gold,maxpreps,0,,0.3495,54
+il,maywood,proviso-east-pirates,Proviso East,Pirates,,West Suburban - Gold,maxpreps,0,,0.4275,60
+il,elmhurst,york-dukes,York,Dukes,,West Suburban - Silver,maxpreps,0,,0.5866,73
+il,lagrange,lyons-lions,Lyons,Lions,,West Suburban - Silver,maxpreps,0,,0.5988,74
+il,glen-ellyn,glenbard-west-hilltoppers,Glenbard West,Hilltoppers,,West Suburban - Silver,maxpreps,0,,0.5846,73
+il,hinsdale,hinsdale-central-red-devils,Hinsdale Central,Red Devils,,West Suburban - Silver,maxpreps,0,,0.5894,73
+il,downers-grove,downers-grove-north-trojans,Downers Grove North,Trojans,,West Suburban - Silver,maxpreps,0,,0.5859,73
+il,hillside,proviso-west-panthers,Proviso West,Panthers,,West Suburban - Silver,maxpreps,0,,0.3744,56
+il,oak-park,oak-park-river-forest-huskies,Oak Park-River Forest,Huskies,,West Suburban - Silver,maxpreps,0,,0.4453,62
+il,moline,moline-maroons,Moline,Maroons,,Western Big 6,maxpreps,0,,0.6617,79
+il,rock-island,rock-island-rocks,Rock Island,Rocks,,Western Big 6,maxpreps,0,,0.6143,75
+il,east-moline,east-moline-united-panthers,East Moline United,Panthers,,Western Big 6,maxpreps,0,,0.5614,71
+il,galesburg,galesburg-silver-streaks,Galesburg,Silver Streaks,,Western Big 6,maxpreps,0,,0.4201,60
+il,quincy,quincy-blue-devils,Quincy,Blue Devils,,Western Big 6,maxpreps,0,,0.5993,74
+il,geneseo,geneseo-maple-leafs,Geneseo,Maple Leafs,,Western Big 6,maxpreps,0,,0.2417,45
+il,rock-island,alleman-pioneers,Alleman,Pioneers,,Western Big 6,maxpreps,0,,0.2698,47
+il,sterling,sterling-golden-warriors,Sterling,Golden Warriors,,Western Big 6,maxpreps,0,,0.4440,61
+il,jacksonville,routt-catholic-rockets,Routt Catholic,Rockets,,Western Illinois Valley,maxpreps,0,,0.5486,70
+il,mt-sterling,brown-county-hornets,Brown County,Hornets,,Western Illinois Valley,maxpreps,0,,0.4970,66
+il,carrollton,carrollton-hawks-lady-hawks-,Carrollton,Hawks Lady Hawks ,,Western Illinois Valley,maxpreps,0,,0.3675,55
+il,griggsville,griggsville-perry-tornadoes,Griggsville-Perry,Tornadoes,,Western Illinois Valley,maxpreps,0,,0.4209,60
+il,greenfield,greenfield-northwestern-tigers,Greenfield/Northwestern,Tigers,,Western Illinois Valley,maxpreps,0,,0.3782,56
+il,concord,triopia-meredosia-chambersburg-virginia-trojans,Triopia/Meredosia-Chambersburg/Virginia,Trojans,,Western Illinois Valley,maxpreps,0,,0.3469,53
+il,winchester,west-central-co-op-winchester-bluffs-cougars,West Central co-op [Winchester-Bluffs],Cougars,,Western Illinois Valley,maxpreps,0,,0.4952,66
+il,white-hall,north-greene-spartans,North Greene,Spartans,,Western Illinois Valley,maxpreps,0,,0.3903,57
