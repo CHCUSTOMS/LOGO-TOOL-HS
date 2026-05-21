@@ -1,0 +1,90 @@
+state,maxpreps_city,maxpreps_slug,maxpreps_name,maxpreps_nickname,massey_name,conference,p_source,years_found,weight_sum,raw_p,prestige_final
+nv,smith,smith-valley-bulldogs,Smith Valley,Bulldogs,,Division 1A,maxpreps,0,,0.2767,46
+nv,alamo,pahranagat-valley-panthers,Pahranagat Valley,Panthers,,Division 1A,maxpreps,0,,0.0989,32
+nv,eureka,eureka-vandals,Eureka,Vandals,,Division 1A,maxpreps,0,,0.1959,40
+nv,hawthorne,mineral-county-serpents,Mineral County,Serpents,,Division 1A,maxpreps,0,,0.1421,36
+nv,las-vegas,spring-mountain-eagles,Spring Mountain,Eagles,,Division 1A,maxpreps,0,,0.1410,35
+nv,virginia-city,virginia-city-muckers,Virginia City,Muckers,,Division 1A,od_fallback,0,,0.5176,63
+nv,tonopah,tonopah-muckers,Tonopah,Muckers,,Division 1A,od_fallback,0,,0.5176,63
+nv,las-vegas,word-of-life-christian-academy-eagles,Word of Life Christian Academy,Eagles,,Division 1A,od_fallback,0,,0.5176,63
+nv,owyhee,owyhee-braves,Owyhee,Braves,,Division 1A,od_fallback,0,,0.5176,63
+nv,elko,independence-colts,Independence,Colts,,Division 1A,od_fallback,0,,0.5176,63
+nv,las-vegas,liberty-baptist-academy-knights,Liberty Baptist Academy,Knights,,Division 1A,od_fallback,0,,0.5176,63
+nv,lund,lund-mustangs,Lund,Mustangs,,Division 1A,od_fallback,0,,0.5176,63
+nv,nixon,pyramid-lake-lakers,Pyramid Lake,Lakers,,Division 1A,od_fallback,0,,0.5176,63
+nv,las-vegas,adelson,Adelson,Adelson,,Division 1A,maxpreps,0,,0.0993,32
+nv,wells,wells-leopards,Wells,Leopards,,Division 1A,od_fallback,0,,0.5176,63
+nv,mcdermitt,mcdermitt-bulldogs,McDermitt,Bulldogs,,Division 1A,maxpreps,0,,0.0000,25
+nv,indian-springs,indian-springs-thunderbirds,Indian Springs,Thunderbirds,,Division 1A,od_fallback,0,,0.5176,63
+nv,round-mountain,round-mountain-knights,Round Mountain,Knights,,Division 1A,od_fallback,0,,0.5176,63
+nv,las-vegas,mountain-view-christian-saints,Mountain View Christian,Saints,,Division 1A,maxpreps,0,,0.0636,30
+nv,zephyr-cove,whittell-warriors,Whittell,Warriors,,Division 1A,maxpreps,0,,0.2596,44
+nv,sparks,excel-christian-warriors,Excel Christian,Warriors,,Division 1A,od_fallback,0,,0.5176,63
+nv,laughlin,laughlin-cougars,Laughlin,Cougars,,Division 1A,od_fallback,0,,0.5176,63
+nv,carlin,carlin-railroaders,Carlin,Railroaders,,Division 1A,od_fallback,0,,0.5176,63
+nv,west-wendover,west-wendover-wolverines,West Wendover,Wolverines,,Division 2A,maxpreps,0,,0.1634,37
+nv,battle-mountain,battle-mountain-longhorns,Battle Mountain,Longhorns,,Division 2A,maxpreps,0,,0.2844,46
+nv,lovelock,pershing-county-mustangs,Pershing County,Mustangs,,Division 2A,maxpreps,0,,0.3024,47
+nv,las-vegas,founders-classical-academy-centurions,Founders Classical Academy,Centurions,,Division 2A,od_fallback,0,,0.3195,49
+nv,yerington,yerington-lions,Yerington,Lions,,Division 2A,maxpreps,0,,0.0486,29
+nv,henderson,lake-mead-christian-academy-eagles,Lake Mead Christian Academy,Eagles,,Division 2A,maxpreps,0,,0.1557,37
+nv,silver-springs,silver-stage-nighthawks,Silver Stage,Nighthawks,,Division 2A,od_fallback,0,,0.1241,34
+nv,las-vegas,awaken-christian-lions,Awaken Christian,Lions,,Division 2A,maxpreps,0,,0.0160,26
+nv,ely,white-pine-bobcats,White Pine,Bobcats,,Division 2A,od_fallback,0,,0.0000,25
+nv,carson-city,sierra-lutheran-falcons,Sierra Lutheran,Falcons,,Division 2A,maxpreps,0,,0.0465,28
+nv,reno,coral-academy-of-science-reno-falcons,Coral Academy of Science - Reno,Falcons,,Division 2A,od_fallback,0,,0.0000,25
+nv,panaca,lincoln-county-lynx,Lincoln County,Lynx,,Division 2A,maxpreps,0,,0.0844,31
+nv,fallon,oasis-academy-bighorns,Oasis Academy,Bighorns,,Division 2A,od_fallback,0,,0.0000,25
+nv,henderson,american-heritage-academy-patriots,American Heritage Academy,Patriots,,Division 2A,od_fallback,0,,0.0000,25
+nv,fernley,fernley-vaqueros,Fernley,Vaqueros,,Division 3A,maxpreps,0,,0.2779,46
+nv,las-vegas,the-meadows-school-mustangs,The Meadows School,Mustangs,,Division 3A,maxpreps,0,,0.3111,48
+nv,mesquite,virgin-valley-bulldogs,Virgin Valley,Bulldogs,,Division 3A,maxpreps,0,,0.1466,36
+nv,dayton,dayton-dust-devils,Dayton,Dust Devils,,Division 3A,maxpreps,0,,0.1224,34
+nv,fallon,churchill-county-greenwave,Churchill County,Greenwave,,Division 3A,maxpreps,0,,0.1553,37
+nv,boulder-city,boulder-city-eagles,Boulder City,Eagles,,Division 3A,maxpreps,0,,0.1032,33
+nv,henderson,gv-christian-guardians,GV Christian,Guardians,,Division 3A,maxpreps,0,,0.0338,28
+nv,elko,elko-indians,Elko,Indians,,Division 3A,maxpreps,0,,0.3280,49
+nv,incline-village,incline-highlanders,Incline,Highlanders,,Division 3A,maxpreps,0,,0.1610,37
+nv,spring-creek,spring-creek-spartans,Spring Creek,Spartans,,Division 3A,maxpreps,0,,0.1549,36
+nv,pahrump,pahrump-valley-trojans,Pahrump Valley,Trojans,,Division 3A,maxpreps,0,,0.0394,28
+nv,winnemucca,lowry-buckaroos,Lowry,Buckaroos,,Division 3A,maxpreps,0,,0.0900,32
+nv,reno,wooster-colts,Wooster,Colts,,Division 3A,maxpreps,0,,0.0230,27
+nv,overton,moapa-valley-pirates,Moapa Valley,Pirates,,Division 3A,maxpreps,0,,0.0267,27
+nv,henderson,coral-academy-of-science-las-vegas-falcons,Coral Academy of Science Las Vegas,Falcons,,Division 3A,maxpreps,0,,0.0756,31
+nv,sparks,sparks-railroaders,Sparks,Railroaders,,Division 3A,od_fallback,0,,0.0000,25
+nv,north-las-vegas,cristo-rey-st-viator-royals,Cristo Rey St. Viator,Royals,,Division 3A,od_fallback,0,,0.0000,25
+nv,reno,debbie-smith-cte-academy-mavericks,Debbie Smith CTE Academy,Mavericks,,Division 3A,od_fallback,0,,0.0000,25
+nv,reno,bishop-manogue-miners,Bishop Manogue,Miners,,Division 4A,maxpreps,0,,0.4261,57
+nv,las-vegas,clark-chargers,Clark,Chargers,,Division 4A,maxpreps,0,,0.4403,58
+nv,reno,reno-huskies,Reno,Huskies,,Division 4A,maxpreps,0,,0.2726,45
+nv,las-vegas,las-vegas-wildcats,Las Vegas,Wildcats,,Division 4A,maxpreps,0,,0.4298,57
+nv,las-vegas,durango-trailblazers,Durango,Trailblazers,,Division 4A,maxpreps,0,,0.4674,60
+nv,north-las-vegas,legacy-longhorns,Legacy,Longhorns,,Division 4A,maxpreps,0,,0.2911,47
+nv,las-vegas,shadow-ridge-mustangs,Shadow Ridge,Mustangs,,Division 4A,maxpreps,0,,0.2427,43
+nv,las-vegas,palo-verde-panthers,Palo Verde,Panthers,,Division 4A,maxpreps,0,,0.3655,52
+nv,las-vegas,faith-lutheran-crusaders,Faith Lutheran,Crusaders,,Division 4A,maxpreps,0,,0.3852,54
+nv,las-vegas,western-warriors,Western,Warriors,,Division 4A,maxpreps,0,,0.0789,31
+nv,minden,douglas-tigers,Douglas,Tigers,,Division 4A,maxpreps,0,,0.2816,46
+nv,reno,damonte-ranch-mustangs,Damonte Ranch,Mustangs,,Division 4A,maxpreps,0,,0.1742,38
+nv,las-vegas,sunrise-mountain-miners,Sunrise Mountain,Miners,,Division 4A,maxpreps,0,,0.1558,37
+nv,sparks,spanish-springs-cougars,Spanish Springs,Cougars,,Division 4A,maxpreps,0,,0.4188,56
+nv,las-vegas,cimarron-memorial-spartans,Cimarron-Memorial,Spartans,,Division 4A,maxpreps,0,,0.1718,38
+nv,henderson,foothill-falcons,Foothill,Falcons,,Division 4A,maxpreps,0,,0.2958,47
+nv,las-vegas,mater-academy-east-las-vegas-knights,Mater Academy East Las Vegas,Knights,,Division 4A,maxpreps,0,,0.2807,46
+nv,north-las-vegas,somerset-academy-losee-lions,Somerset Academy Losee,Lions,,Division 4A,maxpreps,0,,0.2637,45
+nv,sparks,reed-raiders,Reed,Raiders,,Division 4A,maxpreps,0,,0.1740,38
+nv,las-vegas,doral-academy-red-rock-dragons,Doral Academy Red Rock,Dragons,,Division 4A,maxpreps,0,,0.0788,31
+nv,reno,mcqueen-lancers,McQueen,Lancers,,Division 4A,maxpreps,0,,0.0645,30
+nv,las-vegas,southeast-career-tech-roadrunners,Southeast Career Tech,Roadrunners,,Division 4A,maxpreps,0,,0.0788,31
+nv,las-vegas,desert-oasis-diamondbacks,Desert Oasis,Diamondbacks,,Division 4A,maxpreps,0,,0.1830,39
+nv,henderson,green-valley-gators,Green Valley,Gators,,Division 4A,maxpreps,0,,0.1319,35
+nv,henderson,pinecrest-academy-sloan-canyon-pirate,Pinecrest Academy Sloan Canyon,Pirate,,Division 4A,od_fallback,0,,0.2586,44
+nv,henderson,liberty-patriots,Liberty,Patriots,,Division 5A,maxpreps,0,,0.6673,74
+nv,las-vegas,desert-pines-jaguars,Desert Pines,Jaguars,,Division 5A,maxpreps,0,,0.4263,57
+nv,henderson,coronado-cougars,Coronado,Cougars,,Division 5A,maxpreps,0,,0.7361,80
+nv,las-vegas,bishop-gorman-gaels,Bishop Gorman,Gaels,,Division 5A,maxpreps,0,,0.9437,95
+nv,north-las-vegas,mojave-rattlers,Mojave,Rattlers,,Division 5A,maxpreps,0,,0.4427,58
+nv,las-vegas,democracy-prep-agassi-campus-blue-knights,Democracy Prep Agassi Campus,Blue Knights,,Division 5A,maxpreps,0,,0.4228,56
+nv,las-vegas,sierra-vista-mountain-lions,Sierra Vista,Mountain Lions,,Division 5A,maxpreps,0,,0.4228,56
+nv,las-vegas,arbor-view-aggies,Arbor View,Aggies,,Division 5A,maxpreps,0,,0.4257,57
+nv,las-vegas,centennial-bulldogs,Centennial,Bulldogs,,Division 5A,maxpreps,0,,0.3147,48

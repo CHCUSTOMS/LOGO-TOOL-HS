@@ -1,0 +1,1580 @@
+{
+  "meta": {
+    "name": "Nevada HS Basketball",
+    "version": 1,
+    "author": "Campus Hoops Scraper",
+    "description": "Boys basketball \u2014 Nevada. Scraped from MaxPreps.com (25-26). Ratings: MaxPreps ranking score normalized 50\u201399. Prestige: 10-season weighted average normalized 25\u201395. Unranked teams (below games threshold) inferred from conference standing."
+  },
+  "conferences": [
+    {
+      "id": "division-1a",
+      "name": "Division 1A",
+      "abbreviation": "D1",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 70,
+      "logoUrl": null
+    },
+    {
+      "id": "division-2a",
+      "name": "Division 2A",
+      "abbreviation": "D2",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 55,
+      "logoUrl": null
+    },
+    {
+      "id": "division-3a",
+      "name": "Division 3A",
+      "abbreviation": "D3",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 55,
+      "logoUrl": null
+    },
+    {
+      "id": "division-4a",
+      "name": "Division 4A",
+      "abbreviation": "D4",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 20,
+      "prestigeCeiling": 70,
+      "logoUrl": null
+    },
+    {
+      "id": "division-5a",
+      "name": "Division 5A",
+      "abbreviation": "D5",
+      "isPower": false,
+      "hasTournament": true,
+      "conferenceGames": null,
+      "prestigeFloor": 35,
+      "prestigeCeiling": 95,
+      "logoUrl": null
+    }
+  ],
+  "teams": [
+    {
+      "id": "adelson",
+      "name": "Adelson",
+      "mascot": "Adelson",
+      "abbreviation": "ADEL",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 32,
+      "primaryColor": "#046DFF",
+      "secondaryColor": "#022C66",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/0/1/3019d097-48c9-4c89-b508-a91797ca5071.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "carlin-railroaders",
+      "name": "Carlin",
+      "mascot": "Railroaders",
+      "abbreviation": "CARL",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/9/7/e9739900-6458-47d1-b81e-cb7ce4659650.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "eureka-vandals",
+      "name": "Eureka",
+      "mascot": "Vandals",
+      "abbreviation": "EURE",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 40,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/b/a/4ba5554e-f306-4c44-8757-0a96f3ae2b00.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "excel-christian-warriors",
+      "name": "Excel Christian",
+      "mascot": "Warriors",
+      "abbreviation": "EC",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/5/c/d5c6b745-fff4-4e30-9377-76a2b7c4bede.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "independence-colts",
+      "name": "Independence",
+      "mascot": "Colts",
+      "abbreviation": "INDE",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/e/d/ded69167-8ceb-4cb7-8624-2722f5a346ba.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "indian-springs-thunderbirds",
+      "name": "Indian Springs",
+      "mascot": "Thunderbirds",
+      "abbreviation": "IS",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/9/d/d9da1176-d0cd-4338-bd63-2f5fd34b234b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "laughlin-cougars",
+      "name": "Laughlin",
+      "mascot": "Cougars",
+      "abbreviation": "LAUG",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/6/1/561fa860-1bed-4de3-9f46-f7b0a2a9d342.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "liberty-baptist-academy-knights",
+      "name": "Liberty Baptist Academy",
+      "mascot": "Knights",
+      "abbreviation": "LBA",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/6/8/c6864696-85a2-4670-8298-1955540cfa1e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lund-mustangs",
+      "name": "Lund",
+      "mascot": "Mustangs",
+      "abbreviation": "LUND",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/4/e/f4e18b28-c383-46a5-ae1a-da9ea056e5d6.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mcdermitt-bulldogs",
+      "name": "McDermitt",
+      "mascot": "Bulldogs",
+      "abbreviation": "MCDE",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 25,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/2/0/020963d9-b7d1-48de-ac7a-09e4dc007a4f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mineral-county-serpents",
+      "name": "Mineral County",
+      "mascot": "Serpents",
+      "abbreviation": "MC",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 36,
+      "primaryColor": "#222222",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/7/e/f7ef2d15-31af-44f6-9348-f0cb8345f2d7.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mountain-view-christian-saints",
+      "name": "Mountain View Christian",
+      "mascot": "Saints",
+      "abbreviation": "MVC",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 30,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/a/8/da859aae-286a-4cfe-9214-b9bb53c708a3.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "owyhee-braves",
+      "name": "Owyhee",
+      "mascot": "Braves",
+      "abbreviation": "OWYH",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#046DFF",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/9/2/392835bc-0b4b-4a28-af59-5e022c35e354.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pahranagat-valley-panthers",
+      "name": "Pahranagat Valley",
+      "mascot": "Panthers",
+      "abbreviation": "PV",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 32,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/8/9/2899a74c-6f45-45a0-a0d9-4113b5d01727.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pyramid-lake-lakers",
+      "name": "Pyramid Lake",
+      "mascot": "Lakers",
+      "abbreviation": "PL",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/a/b/1ab20cf4-cb41-460f-8ff7-0cbdcda9cd0c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "round-mountain-knights",
+      "name": "Round Mountain",
+      "mascot": "Knights",
+      "abbreviation": "RM",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#222222",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/3/2/7320a9c1-3ff6-419e-9242-d794aed82e10.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "smith-valley-bulldogs",
+      "name": "Smith Valley",
+      "mascot": "Bulldogs",
+      "abbreviation": "SV",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 46,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/d/5/9/d59fb727-778a-4270-b9a1-69402d920381.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "spring-mountain-eagles",
+      "name": "Spring Mountain",
+      "mascot": "Eagles",
+      "abbreviation": "SM",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 35,
+      "primaryColor": "#222222",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/3/1/33183d10-172b-444b-aba4-d6239d9a245e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "tonopah-muckers",
+      "name": "Tonopah",
+      "mascot": "Muckers",
+      "abbreviation": "TONO",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/1/7/61784190-d149-4532-8236-bb32be5e150b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "virginia-city-muckers",
+      "name": "Virginia City",
+      "mascot": "Muckers",
+      "abbreviation": "VC",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#737272",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/f/0/cf0b6885-5952-42c9-9b3f-28a3bdfc026c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "wells-leopards",
+      "name": "Wells",
+      "mascot": "Leopards",
+      "abbreviation": "WELL",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/2/7/327b73a3-6f8c-44b6-bb04-131833a98da0.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "whittell-warriors",
+      "name": "Whittell",
+      "mascot": "Warriors",
+      "abbreviation": "WHIT",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 44,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/8/8/f886d2a3-23ea-4453-a93f-7961dee83529.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "word-of-life-christian-academy-eagles",
+      "name": "Word of Life Christian Academy",
+      "mascot": "Eagles",
+      "abbreviation": "WOLC",
+      "conferenceId": "division-1a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 75,
+      "defenseRating": 75,
+      "prestige": 63,
+      "primaryColor": "#005B34",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/2/6/02618477-85c9-47b5-a529-87eb34ca8965.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "american-heritage-academy-patriots",
+      "name": "American Heritage Academy",
+      "mascot": "Patriots",
+      "abbreviation": "AHA",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/4/4/744d2a58-9418-4146-85d8-806a658f2394.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "awaken-christian-lions",
+      "name": "Awaken Christian",
+      "mascot": "Lions",
+      "abbreviation": "AC",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 53,
+      "defenseRating": 53,
+      "prestige": 26,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFC005",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/b/b/cbb4e828-603b-40f5-ae17-b3e6026d0577.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "battle-mountain-longhorns",
+      "name": "Battle Mountain",
+      "mascot": "Longhorns",
+      "abbreviation": "BM",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 46,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/5/3/a53c090f-6139-4eec-bdcd-07e9b47893b9.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "coral-academy-of-science-reno-falcons",
+      "name": "Coral Academy of Science - Reno",
+      "mascot": "Falcons",
+      "abbreviation": "CAOS",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#046DFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/6/b/56b46747-6a10-4d21-868c-ae22f9475b3b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "founders-classical-academy-centurions",
+      "name": "Founders Classical Academy",
+      "mascot": "Centurions",
+      "abbreviation": "FCA",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 49,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/9/2/79209f57-ed9d-46b8-8644-d0d9a9f0250c.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lake-mead-christian-academy-eagles",
+      "name": "Lake Mead Christian Academy",
+      "mascot": "Eagles",
+      "abbreviation": "LMCA",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 59,
+      "defenseRating": 59,
+      "prestige": 37,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/1/8/a186870f-988c-4584-94bc-689c54fd5d1f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lincoln-county-lynx",
+      "name": "Lincoln County",
+      "mascot": "Lynx",
+      "abbreviation": "LC",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 31,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/1/4/c140c405-c7aa-407b-909a-b687263c2b37.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "oasis-academy-bighorns",
+      "name": "Oasis Academy",
+      "mascot": "Bighorns",
+      "abbreviation": "OA",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/3/c/53cc143e-709c-47dd-98ad-0e271beb4803.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pershing-county-mustangs",
+      "name": "Pershing County",
+      "mascot": "Mustangs",
+      "abbreviation": "PC",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 47,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/1/5/3159d36e-d4d1-40bd-b0bb-f1f93c02e407.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sierra-lutheran-falcons",
+      "name": "Sierra Lutheran",
+      "mascot": "Falcons",
+      "abbreviation": "SL",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 28,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#022C66",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/9/5/a9513779-9325-437c-a7e9-0a8ac6f4f151.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "silver-stage-nighthawks",
+      "name": "Silver Stage",
+      "mascot": "Nighthawks",
+      "abbreviation": "SS",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 56,
+      "defenseRating": 56,
+      "prestige": 34,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#737272",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/7/d/07d1d915-2cdc-4ece-9429-cbf8e5a31cef.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "west-wendover-wolverines",
+      "name": "West Wendover",
+      "mascot": "Wolverines",
+      "abbreviation": "WW",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 37,
+      "primaryColor": "#52000E",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/8/b/e8b9fffb-280e-4051-bef1-f67dbc9d52da.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "white-pine-bobcats",
+      "name": "White Pine",
+      "mascot": "Bobcats",
+      "abbreviation": "WP",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/b/6/9b6d45e2-1eaa-42a6-8cd0-7c118410b0ff.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "yerington-lions",
+      "name": "Yerington",
+      "mascot": "Lions",
+      "abbreviation": "YERI",
+      "conferenceId": "division-2a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 62,
+      "defenseRating": 62,
+      "prestige": 29,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/a/9/aa90baf3-72e6-4ade-a044-61927a044d38.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "boulder-city-eagles",
+      "name": "Boulder City",
+      "mascot": "Eagles",
+      "abbreviation": "BC",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 33,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/1/b/21bd2b9f-e7a1-48ef-845c-74a98ce89dc8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "churchill-county-greenwave",
+      "name": "Churchill County",
+      "mascot": "Greenwave",
+      "abbreviation": "CC",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 65,
+      "defenseRating": 65,
+      "prestige": 37,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/7/b/97b2e025-bf72-4bde-a930-5876ba473077.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "coral-academy-of-science-las-vegas-falcons",
+      "name": "Coral Academy of Science Las Vegas",
+      "mascot": "Falcons",
+      "abbreviation": "CAOS",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 31,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/1/7/b176f831-08b1-4898-b06c-9f5e8365ec63.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "cristo-rey-st-viator-royals",
+      "name": "Cristo Rey St. Viator",
+      "mascot": "Royals",
+      "abbreviation": "CRV",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/9/3/99375c1b-2345-49bf-b92c-36edea24d676.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "dayton-dust-devils",
+      "name": "Dayton",
+      "mascot": "Dust Devils",
+      "abbreviation": "DAYT",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 34,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/0/3/2037e5c9-b717-4741-a13b-8e14b588c266.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "debbie-smith-cte-academy-mavericks",
+      "name": "Debbie Smith CTE Academy",
+      "mascot": "Mavericks",
+      "abbreviation": "DSCA",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#C8880A",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/6/6/46602f92-f4ad-487e-be8f-85a20c6cb5f9.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "elko-indians",
+      "name": "Elko",
+      "mascot": "Indians",
+      "abbreviation": "ELKO",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 59,
+      "defenseRating": 59,
+      "prestige": 49,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/c/8/4c89fdd1-c5f6-4910-bc0d-a1091e11a443.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "fernley-vaqueros",
+      "name": "Fernley",
+      "mascot": "Vaqueros",
+      "abbreviation": "FERN",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 46,
+      "primaryColor": "#222222",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/2/6/a262130d-be2e-4122-8d26-d9e5c43b0499.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "gv-christian-guardians",
+      "name": "GV Christian",
+      "mascot": "Guardians",
+      "abbreviation": "GC",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 61,
+      "defenseRating": 61,
+      "prestige": 28,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/a/0/ca0d1531-b47c-49c3-9fdc-7b1c3e8faf99.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "incline-highlanders",
+      "name": "Incline",
+      "mascot": "Highlanders",
+      "abbreviation": "INCL",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 57,
+      "defenseRating": 57,
+      "prestige": 37,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/0/5/505ee901-5238-4e67-a3e1-d5321a464f85.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "lowry-buckaroos",
+      "name": "Lowry",
+      "mascot": "Buckaroos",
+      "abbreviation": "LOWR",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 51,
+      "defenseRating": 51,
+      "prestige": 32,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFC005",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/a/0/5a095423-398b-4875-b4c1-c16952858410.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "moapa-valley-pirates",
+      "name": "Moapa Valley",
+      "mascot": "Pirates",
+      "abbreviation": "MV",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 27,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/5/3/c53604fe-220b-4fb4-968c-4a8556fad33b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pahrump-valley-trojans",
+      "name": "Pahrump Valley",
+      "mascot": "Trojans",
+      "abbreviation": "PV",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 53,
+      "defenseRating": 53,
+      "prestige": 28,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/d/2/8d28b227-1dd9-4471-b0de-4fac52b5ecdf.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sparks-railroaders",
+      "name": "Sparks",
+      "mascot": "Railroaders",
+      "abbreviation": "SPAR",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 25,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/7/e/b7e9b03b-0ec0-40a1-b5ca-1d9e83f1eb90.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "spring-creek-spartans",
+      "name": "Spring Creek",
+      "mascot": "Spartans",
+      "abbreviation": "SC",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 55,
+      "defenseRating": 55,
+      "prestige": 36,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#737272",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/5/4/a54d5977-bba7-496c-ac92-7aecc21b7851.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "the-meadows-school-mustangs",
+      "name": "The Meadows School",
+      "mascot": "Mustangs",
+      "abbreviation": "TMS",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 78,
+      "defenseRating": 78,
+      "prestige": 48,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/7/b/f/7bf66da8-5a6f-4838-8685-bf68f5b07a88.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "virgin-valley-bulldogs",
+      "name": "Virgin Valley",
+      "mascot": "Bulldogs",
+      "abbreviation": "VV",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 36,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/1/2/a1232013-7842-49ad-b368-a3ddbc278ea0.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "wooster-colts",
+      "name": "Wooster",
+      "mascot": "Colts",
+      "abbreviation": "WOOS",
+      "conferenceId": "division-3a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 50,
+      "defenseRating": 50,
+      "prestige": 27,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/9/7/397ae248-9d9c-4a4f-be19-1e38f31e92fa.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "bishop-manogue-miners",
+      "name": "Bishop Manogue",
+      "mascot": "Miners",
+      "abbreviation": "BM",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 86,
+      "defenseRating": 86,
+      "prestige": 57,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/a/2/0/a209d42b-ab38-45db-bfe6-3265fb0a5956.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "cimarron-memorial-spartans",
+      "name": "Cimarron-Memorial",
+      "mascot": "Spartans",
+      "abbreviation": "CIMA",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 68,
+      "defenseRating": 68,
+      "prestige": 38,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/8/c/28c755b1-440b-4a62-90e1-444fd153b68b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "clark-chargers",
+      "name": "Clark",
+      "mascot": "Chargers",
+      "abbreviation": "CLAR",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 94,
+      "defenseRating": 94,
+      "prestige": 58,
+      "primaryColor": "#222222",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/e/5/9e523605-3402-4043-98a4-ec5de753d686.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "damonte-ranch-mustangs",
+      "name": "Damonte Ranch",
+      "mascot": "Mustangs",
+      "abbreviation": "DR",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 38,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#00341E",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/b/3/8b3f44c2-5cb9-461d-b285-fdaf00528601.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "desert-oasis-diamondbacks",
+      "name": "Desert Oasis",
+      "mascot": "Diamondbacks",
+      "abbreviation": "DO",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 66,
+      "defenseRating": 66,
+      "prestige": 39,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/d/8/9d8bf51e-8d91-4dac-b78c-776809b8be8a.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "doral-academy-red-rock-dragons",
+      "name": "Doral Academy Red Rock",
+      "mascot": "Dragons",
+      "abbreviation": "DARR",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 31,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/2/a/c2a0960f-83d4-4d0f-b787-544d2683fd16.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "douglas-tigers",
+      "name": "Douglas",
+      "mascot": "Tigers",
+      "abbreviation": "DOUG",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 46,
+      "primaryColor": "#CC4E10",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/3/f/03ff5a02-4233-489a-969c-7553dfc08c68.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "durango-trailblazers",
+      "name": "Durango",
+      "mascot": "Trailblazers",
+      "abbreviation": "DURA",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 60,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/9/e/09ea185f-c83c-498e-8b94-568dfd032099.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "faith-lutheran-crusaders",
+      "name": "Faith Lutheran",
+      "mascot": "Crusaders",
+      "abbreviation": "FL",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 54,
+      "primaryColor": "#8F0018",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/5/2/c52da92d-35df-4037-b63e-52e8bfea363d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "foothill-falcons",
+      "name": "Foothill",
+      "mascot": "Falcons",
+      "abbreviation": "FOOT",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 47,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/6/5/b65a7629-a801-4d0a-b5ae-0e55fe21327f.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "green-valley-gators",
+      "name": "Green Valley",
+      "mascot": "Gators",
+      "abbreviation": "GV",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 35,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#022C66",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/4/5/0458302d-bba4-4918-97f9-3b11c7a55ae7.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "las-vegas-wildcats",
+      "name": "Las Vegas",
+      "mascot": "Wildcats",
+      "abbreviation": "LV",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 57,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/3/8/838fc5b7-ca43-48da-be2a-62665abeafb7.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "legacy-longhorns",
+      "name": "Legacy",
+      "mascot": "Longhorns",
+      "abbreviation": "LEGA",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 47,
+      "primaryColor": "#CC4E10",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/e/0/6/e06831ad-bb97-4dff-9e50-67b538736f0b.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mater-academy-east-las-vegas-knights",
+      "name": "Mater Academy East Las Vegas",
+      "mascot": "Knights",
+      "abbreviation": "MAEL",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 46,
+      "primaryColor": "#222222",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/d/8/5d883354-6219-450a-a017-2a9e0cec14ae.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mcqueen-lancers",
+      "name": "McQueen",
+      "mascot": "Lancers",
+      "abbreviation": "MCQU",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 30,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/2/d/b2d3dc49-b6e7-463b-a6b9-5ba09fa9053e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "palo-verde-panthers",
+      "name": "Palo Verde",
+      "mascot": "Panthers",
+      "abbreviation": "PV",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 79,
+      "defenseRating": 79,
+      "prestige": 52,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#737272",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/b/9/8b9c9bd7-3617-4dbb-804c-f09ee621f0ea.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "pinecrest-academy-sloan-canyon-pirate",
+      "name": "Pinecrest Academy Sloan Canyon",
+      "mascot": "Pirate",
+      "abbreviation": "PASC",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 63,
+      "defenseRating": 63,
+      "prestige": 44,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/3/7/7/3774f1c6-d3ec-48f6-a26f-e8328fbd6fb8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "reed-raiders",
+      "name": "Reed",
+      "mascot": "Raiders",
+      "abbreviation": "REED",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 38,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#FFC005",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/0/3/903df411-51b6-48ef-ac3d-966cad44b1ef.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "reno-huskies",
+      "name": "Reno",
+      "mascot": "Huskies",
+      "abbreviation": "RENO",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 77,
+      "defenseRating": 77,
+      "prestige": 45,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#034CB2",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/c/9/2/c9285d1f-3440-41fe-9a4f-fa772d55b852.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "shadow-ridge-mustangs",
+      "name": "Shadow Ridge",
+      "mascot": "Mustangs",
+      "abbreviation": "SR",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 74,
+      "defenseRating": 74,
+      "prestige": 43,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/9/1/4/91445e99-c945-46a5-ac5f-22afa5d9cf0e.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "somerset-academy-losee-lions",
+      "name": "Somerset Academy Losee",
+      "mascot": "Lions",
+      "abbreviation": "SAL",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 45,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/7/d/87d5b812-bcf3-498e-b99a-51ea86b11c01.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "southeast-career-tech-roadrunners",
+      "name": "Southeast Career Tech",
+      "mascot": "Roadrunners",
+      "abbreviation": "SCT",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 64,
+      "defenseRating": 64,
+      "prestige": 31,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/f/8/a/f8acbec3-e5e3-4af8-85ae-65bf060f1411.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "spanish-springs-cougars",
+      "name": "Spanish Springs",
+      "mascot": "Cougars",
+      "abbreviation": "SS",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 72,
+      "defenseRating": 72,
+      "prestige": 56,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/f/2/2f2bb34e-16c3-4d49-903f-0e15f9545fc1.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sunrise-mountain-miners",
+      "name": "Sunrise Mountain",
+      "mascot": "Miners",
+      "abbreviation": "SM",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 67,
+      "defenseRating": 67,
+      "prestige": 37,
+      "primaryColor": "#754ACC",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/2/7/7/277864b4-c9fb-45ad-8ab1-531efe9d18dd.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "western-warriors",
+      "name": "Western",
+      "mascot": "Warriors",
+      "abbreviation": "WEST",
+      "conferenceId": "division-4a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 65,
+      "defenseRating": 65,
+      "prestige": 31,
+      "primaryColor": "#046DFF",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/1/f/0/1f013af1-f373-492f-bcd4-c4743bf1a264.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "arbor-view-aggies",
+      "name": "Arbor View",
+      "mascot": "Aggies",
+      "abbreviation": "AV",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 69,
+      "defenseRating": 69,
+      "prestige": 57,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#454444",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/b/2/0/b20ff76b-498c-411b-9973-6d105d3dee33.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "bishop-gorman-gaels",
+      "name": "Bishop Gorman",
+      "mascot": "Gaels",
+      "abbreviation": "BG",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 91,
+      "defenseRating": 91,
+      "prestige": 95,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/3/c/03c125d3-5255-4e5d-8991-5e543fe741d2.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "centennial-bulldogs",
+      "name": "Centennial",
+      "mascot": "Bulldogs",
+      "abbreviation": "CENT",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 70,
+      "defenseRating": 70,
+      "prestige": 48,
+      "primaryColor": "#046DFF",
+      "secondaryColor": "#022C66",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/1/a/51a2940c-2544-44b4-9319-b593b1a16e92.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "coronado-cougars",
+      "name": "Coronado",
+      "mascot": "Cougars",
+      "abbreviation": "CORO",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 97,
+      "defenseRating": 97,
+      "prestige": 80,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#CC0022",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/4/3/6/43661967-79db-4b48-8bcf-33c953df8aa8.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "democracy-prep-agassi-campus-blue-knights",
+      "name": "Democracy Prep Agassi Campus",
+      "mascot": "Blue Knights",
+      "abbreviation": "DPAC",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 84,
+      "defenseRating": 84,
+      "prestige": 56,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/c/d/0cd19c14-3976-47ed-8b31-c66e7c7e88e0.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "desert-pines-jaguars",
+      "name": "Desert Pines",
+      "mascot": "Jaguars",
+      "abbreviation": "DP",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 83,
+      "defenseRating": 83,
+      "prestige": 57,
+      "primaryColor": "#034CB2",
+      "secondaryColor": "#222222",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/8/d/f/8df6a159-3382-4442-82cf-ca0b15c03adb.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "liberty-patriots",
+      "name": "Liberty",
+      "mascot": "Patriots",
+      "abbreviation": "LIBE",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 89,
+      "defenseRating": 89,
+      "prestige": 74,
+      "primaryColor": "#CC0022",
+      "secondaryColor": "#FFFFFF",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/6/0/4/604992cb-bed4-477c-8692-a341a3f8aa1d.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "mojave-rattlers",
+      "name": "Mojave",
+      "mascot": "Rattlers",
+      "abbreviation": "MOJA",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 76,
+      "defenseRating": 76,
+      "prestige": 58,
+      "primaryColor": "#00824B",
+      "secondaryColor": "#CC4E10",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/0/a/d/0ad02646-c96d-48e4-a5b7-a6950c1ee472.gif?width=200&height=200&auto=webp"
+    },
+    {
+      "id": "sierra-vista-mountain-lions",
+      "name": "Sierra Vista",
+      "mascot": "Mountain Lions",
+      "abbreviation": "SV",
+      "conferenceId": "division-5a",
+      "state": "NV",
+      "pipelineStates": [
+        "NV"
+      ],
+      "offenseRating": 73,
+      "defenseRating": 73,
+      "prestige": 56,
+      "primaryColor": "#022C66",
+      "secondaryColor": "#C8880A",
+      "logoUrl": "https://image.maxpreps.io/school-mascot/5/e/a/5eaf626f-2b01-4478-a9b5-55599b441c7a.gif?width=200&height=200&auto=webp"
+    }
+  ]
+}

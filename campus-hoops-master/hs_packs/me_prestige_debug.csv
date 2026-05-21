@@ -1,0 +1,130 @@
+state,maxpreps_city,maxpreps_slug,maxpreps_name,maxpreps_nickname,massey_name,conference,p_source,years_found,weight_sum,raw_p,prestige_final
+me,rockport,camden-hills-windjammers,Camden Hills,Windjammers,,A North,maxpreps,0,,0.6074,73
+me,auburn,edward-little-red-eddies,Edward Little,Red Eddies,,A North,maxpreps,0,,0.6910,81
+me,brunswick,brunswick-dragons,Brunswick,Dragons,,A North,maxpreps,0,,0.5501,67
+me,bangor,bangor-rams,Bangor,Rams,,A North,maxpreps,0,,0.5310,66
+me,farmington,mt-blue-cougars,Mt. Blue,Cougars,,A North,maxpreps,0,,0.5504,67
+me,hampden,hampden-broncos,Hampden,Broncos,,A North,maxpreps,0,,0.6149,74
+me,lewiston,lewiston-blue-devils,Lewiston,Blue Devils,,A North,maxpreps,0,,0.5555,68
+me,skowhegan,skowhegan-river-hawks,Skowhegan,River Hawks,,A North,maxpreps,0,,0.4957,62
+me,brewer,brewer-witches,Brewer,Witches,,A North,maxpreps,0,,0.5990,72
+me,south-paris,oxford-hills-vikings,Oxford Hills,Vikings,,A North,maxpreps,0,,0.5737,70
+me,oakland,messalonskee-eagles,Messalonskee,Eagles,,A North,maxpreps,0,,0.5390,66
+me,topsham,mt-ararat-eagles,Mt. Ararat,Eagles,,A North,maxpreps,0,,0.3950,52
+me,sanford,sanford-spartans,Sanford,Spartans,,A South,maxpreps,0,,0.5928,71
+me,windham,windham-eagles,Windham,Eagles,,A South,maxpreps,0,,0.7395,86
+me,south-portland,south-portland-red-riots,South Portland,Red Riots,,A South,maxpreps,0,,0.7880,90
+me,westbrook,westbrook-blue-blazes,Westbrook,Blue Blazes,,A South,maxpreps,0,,0.5535,68
+me,portland,portland-bulldogs,Portland,Bulldogs,,A South,maxpreps,0,,0.7498,87
+me,kennebunk,kennebunk-rams,Kennebunk,Rams,,A South,maxpreps,0,,0.6455,77
+me,scarborough,scarborough-red-storm,Scarborough,Red Storm,,A South,maxpreps,0,,0.6440,76
+me,standish,bonny-eagle-scots,Bonny Eagle,Scots,,A South,maxpreps,0,,0.6015,72
+me,portland,cheverus-stags,Cheverus,Stags,,A South,maxpreps,0,,0.6806,80
+me,falmouth,falmouth-navigators,Falmouth,Navigators,,A South,maxpreps,0,,0.7271,84
+me,gorham,gorham-rams,Gorham,Rams,,A South,maxpreps,0,,0.6105,73
+me,saco,thornton-academy-trojans,Thornton Academy,Trojans,,A South,maxpreps,0,,0.7106,83
+me,north-berwick,noble-knights,Noble,Knights,,A South,maxpreps,0,,0.5417,67
+me,biddeford,biddeford-tigers,Biddeford,Tigers,,A South,maxpreps,0,,0.4683,60
+me,portland,deering-rams,Deering,Rams,,A South,maxpreps,0,,0.5525,68
+me,waterboro,massabesic-mustangs,Massabesic,Mustangs,,A South,maxpreps,0,,0.3455,48
+me,hermon,hermon-hawks,Hermon,Hawks,,B North,maxpreps,0,,0.7121,83
+me,gardiner,gardiner-tigers,Gardiner,Tigers,,B North,maxpreps,0,,0.5606,68
+me,mount-desert,mount-desert-island-trojans,Mount Desert Island,Trojans,,B North,maxpreps,0,,0.6887,81
+me,augusta,cony-rams,Cony,Rams,,B North,maxpreps,0,,0.6419,76
+me,south-china,erskine-academy-eagles,Erskine Academy,Eagles,,B North,maxpreps,0,,0.4735,60
+me,ellsworth,ellsworth-eagles,Ellsworth,Eagles,,B North,maxpreps,0,,0.8148,93
+me,presque-isle,presque-isle-wildcats,Presque Isle,Wildcats,,B North,maxpreps,0,,0.6374,76
+me,belfast,belfast-lions,Belfast,Lions,,B North,maxpreps,0,,0.4517,58
+me,newport,nokomis-warriors,Nokomis,Warriors,,B North,maxpreps,0,,0.4909,62
+me,bangor,john-bapst-memorial-crusaders,John Bapst Memorial,Crusaders,,B North,maxpreps,0,,0.4972,62
+me,fairfield,lawrence-bulldogs,Lawrence,Bulldogs,,B North,maxpreps,0,,0.4557,58
+me,old-town,old-town-indians,Old Town,Indians,,B North,maxpreps,0,,0.6267,75
+me,waterville,waterville-panthers,Waterville,Panthers,,B North,maxpreps,0,,0.3194,45
+me,waldoboro,medomak-valley-panthers,Medomak Valley,Panthers,,B South,maxpreps,0,,0.7499,87
+me,york,york-wildcats,York,Wildcats,,B South,maxpreps,0,,0.7319,85
+me,naples,lake-region-lakers,Lake Region,Lakers,,B South,maxpreps,0,,0.5290,65
+me,yarmouth,yarmouth-clippers,Yarmouth,Clippers,,B South,maxpreps,0,,0.6529,77
+me,turner,leavitt-hornets,Leavitt,Hornets,,B South,maxpreps,0,,0.5373,66
+me,poland,poland-knights,Poland,Knights,,B South,maxpreps,0,,0.4568,58
+me,rockland,oceanside-mariners,Oceanside,Mariners,,B South,maxpreps,0,,0.6412,76
+me,gray,gray-new-gloucester-patriots,Gray-New Gloucester,Patriots,,B South,maxpreps,0,,0.5667,69
+me,newcastle,lincoln-academy-eagles,Lincoln Academy,Eagles,,B South,maxpreps,0,,0.5191,64
+me,cumberland-center,greely-rangers,Greely,Rangers,,B South,maxpreps,0,,0.5398,66
+me,freeport,freeport-falcons,Freeport,Falcons,,B South,maxpreps,0,,0.4707,60
+me,cape-elizabeth,cape-elizabeth-capers,Cape Elizabeth,Capers,,B South,maxpreps,0,,0.4900,62
+me,bath,morse-shipbuilders,Morse,Shipbuilders,,B South,maxpreps,0,,0.3988,53
+me,fryeburg,fryeburg-raiders,Fryeburg,Raiders,,B South,maxpreps,0,,0.4331,56
+me,south-berwick,marshwood-hawks,Marshwood,Hawks,,B South,maxpreps,0,,0.4918,62
+me,dover-foxcroft,foxcroft-academy-ponies,Foxcroft Academy,Ponies,,C North,maxpreps,0,,0.6084,73
+me,caribou,caribou-vikings,Caribou,Vikings,,C North,maxpreps,0,,0.8374,95
+me,lincoln,mattanawcook-lynx,Mattanawcook,Lynx,,C North,maxpreps,0,,0.5464,67
+me,east-machias,washington-academy-raiders,Washington Academy,Raiders,,C North,maxpreps,0,,0.5620,69
+me,east-sullivan,sumner-tigers,Sumner,Tigers,,C North,maxpreps,0,,0.3735,50
+me,orono,orono-riots,Orono,Riots,,C North,maxpreps,0,,0.7377,85
+me,calais,calais-blue-devils,Calais,Blue Devils,,C North,maxpreps,0,,0.5093,63
+me,fort-kent,fort-kent-warriors,Fort Kent,Warriors,,C North,maxpreps,0,,0.6801,80
+me,dexter,dexter-tigers,Dexter,Tigers,,C North,maxpreps,0,,0.5115,64
+me,bucksport,bucksport-golden-bucks,Bucksport,Golden Bucks,,C North,maxpreps,0,,0.4210,55
+me,pittsfield,maine-central-institute-huskies,Maine Central Institute,Huskies,,C North,maxpreps,0,,0.4323,56
+me,blue-hill,george-stevens-academy-eagles,George Stevens Academy,Eagles,,C North,maxpreps,0,,0.4715,60
+me,east-corinth,central-red-devils,Central,Red Devils,,C North,maxpreps,0,,0.3432,48
+me,houlton,houlton-shiretowners,Houlton,Shiretowners,,C North,maxpreps,0,,0.5104,64
+me,jay,spruce-mountain-phoenix,Spruce Mountain,Phoenix,,C South,maxpreps,0,,0.7025,82
+me,readfield,maranacook-black-bears,Maranacook,Black Bears,,C South,maxpreps,0,,0.6532,77
+me,farmingdale,hall-dale-bulldogs,Hall-Dale,Bulldogs,,C South,maxpreps,0,,0.5999,72
+me,portland,waynflete-flyers,Waynflete,Flyers,,C South,maxpreps,0,,0.4721,60
+me,dixfield,dirigo-cougars,Dirigo,Cougars,,C South,maxpreps,0,,0.5653,69
+me,sabattus,oak-hill-raiders,Oak Hill,Raiders,,C South,maxpreps,0,,0.4191,55
+me,wells,wells-warriors,Wells,Warriors,,C South,maxpreps,0,,0.4607,59
+me,cornish,sacopee-valley-hawks,Sacopee Valley,Hawks,,C South,maxpreps,0,,0.3394,47
+me,lisbon-falls,lisbon-greyhounds,Lisbon,Greyhounds,,C South,maxpreps,0,,0.4296,56
+me,winslow,winslow-black-raiders,Winslow,Black Raiders,,C South,maxpreps,0,,0.5746,70
+me,thorndike,mount-view-mustangs,Mount View,Mustangs,,C South,maxpreps,0,,0.5651,69
+me,winthrop,winthrop-ramblers,Winthrop,Ramblers,,C South,maxpreps,0,,0.5244,65
+me,kittery,traip-the-rangers,Traip,The Rangers,,C South,maxpreps,0,,0.3750,51
+me,rumford,mountain-valley-falcons,Mountain Valley,Falcons,,C South,maxpreps,0,,0.4212,55
+me,machias,machias-bulldogs,Machias,Bulldogs,,D North,maxpreps,0,,0.6319,75
+me,bangor,bangor-christian-patriots,Bangor Christian,Patriots,,D North,maxpreps,0,,0.5244,65
+me,madawaska,madawaska-owls,Madawaska,Owls,,D North,maxpreps,0,,0.5341,66
+me,millinocket,stearns-minutemen,Stearns,Minutemen,,D North,maxpreps,0,,0.3835,51
+me,fort-fairfield,fort-fairfield-tigers,Fort Fairfield,Tigers,,D North,maxpreps,0,,0.5554,68
+me,hodgdon,hodgdon-hawks,Hodgdon,Hawks,,D North,maxpreps,0,,0.4939,62
+me,howland,penobscot-valley-howlers,Penobscot Valley,Howlers,,D North,maxpreps,0,,0.4543,58
+me,east-millinocket,schenck-wolverines,Schenck,Wolverines,,D North,maxpreps,0,,0.5600,68
+me,baileyville,woodland-dragons,Woodland,Dragons,,D North,maxpreps,0,,0.4370,57
+me,mars-hill,central-aroostook-panthers,Central Aroostook,Panthers,,D North,maxpreps,0,,0.4705,60
+me,guilford,piscataquis-pirates,Piscataquis,Pirates,,D North,maxpreps,0,,0.3637,49
+me,harrington,narraguagus-knights,Narraguagus,Knights,,D North,maxpreps,0,,0.3441,48
+me,lee,lee-academy-pandas,Lee Academy,Pandas,,D North,maxpreps,0,,0.4198,55
+me,milo,penquis-valley-patriots,Penquis Valley,Patriots,,D North,maxpreps,0,,0.2832,42
+me,dyer-brook,southern-aroostook-warriors,Southern Aroostook,Warriors,,D North,maxpreps,0,,0.4950,62
+me,strong,mount-abram-roadrunners,Mount Abram,Roadrunners,,D South,maxpreps,0,,0.6901,81
+me,monmouth,monmouth-academy-mustangs,Monmouth Academy,Mustangs,,D South,maxpreps,0,,0.6867,81
+me,madison,madison-bulldogs,Madison,Bulldogs,,D South,maxpreps,0,,0.5557,68
+me,old-orchard-beach,old-orchard-beach-seagulls,Old Orchard Beach,Seagulls,,D South,maxpreps,0,,0.3929,52
+me,wiscasset,wiscasset-wolverines,Wiscasset,Wolverines,,D South,maxpreps,0,,0.2885,42
+me,north-anson,carrabec-cobras,Carrabec,Cobras,,D South,maxpreps,0,,0.4266,56
+me,buckfield,buckfield-bucks,Buckfield,Bucks,,D South,maxpreps,0,,0.2890,42
+me,boothbay-harbor,boothbay-seahawks,Boothbay,Seahawks,,D South,maxpreps,0,,0.4423,57
+me,yarmouth,north-yarmouth-academy-panthers,North Yarmouth Academy,Panthers,,D South,maxpreps,0,,0.3131,45
+me,bethel,telstar-rebels,Telstar,Rebels,,D South,maxpreps,0,,0.3400,47
+me,searsport,searsport-vikings,Searsport,Vikings,,D South,maxpreps,0,,0.2332,37
+me,richmond,richmond-bobcats,Richmond,Bobcats,,D South,maxpreps,0,,0.3706,50
+me,jonesport,jonesport-beals-royals,Jonesport-Beals,Royals,,S North,maxpreps,0,,0.4669,59
+me,easton,easton-bears,Easton,Bears,,S North,maxpreps,0,,0.4526,58
+me,sherman-station,katahdin-cougars,Katahdin,Cougars,,S North,maxpreps,0,,0.4373,57
+me,washburn,washburn-beavers,Washburn,Beavers,,S North,maxpreps,0,,0.2573,39
+me,eastport,shead-tigers,Shead,Tigers,,S North,maxpreps,0,,0.2764,41
+me,st-agatha,wisdom-pioneers,Wisdom,Pioneers,,S North,maxpreps,0,,0.2903,42
+me,van-buren,van-buren-crusaders,Van Buren,Crusaders,,S North,maxpreps,0,,0.2277,36
+me,deer-isle,deer-isle-stonington-mariners,Deer Isle-Stonington,Mariners,,S North,maxpreps,0,,0.1616,30
+me,dansforth,east-grand-vikings,East Grand,Vikings,,S North,maxpreps,0,,0.1159,26
+me,ashland,ashland-hornets,Ashland,Hornets,,S North,maxpreps,0,,0.1514,29
+me,bingham,valley-cavaliers,Valley,Cavaliers,,S South,maxpreps,0,,0.5844,71
+me,jackman,forest-hills-tigers,Forest Hills,Tigers,,S South,maxpreps,0,,0.4412,57
+me,freeport,pine-tree-academy-breakers,Pine Tree Academy,Breakers,,S South,maxpreps,0,,0.2672,40
+me,islesboro,islesboro-central-eagles,Islesboro Central,Eagles,,S South,maxpreps,0,,0.2258,36
+me,vinalhaven,vinalhaven-vikings,Vinalhaven,Vikings,,S South,maxpreps,0,,0.1091,25
+me,waterville,temple-academy-bereans,Temple Academy,Bereans,,S South,maxpreps,0,,0.1849,32
+me,rangeley,rangeley-lakes-lakers,Rangeley Lakes,Lakers,,S South,maxpreps,0,,0.1534,29
+me,greenville,greenville-lakers,Greenville,Lakers,,S South,maxpreps,0,,0.2156,35
