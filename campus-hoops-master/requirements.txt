@@ -1,0 +1,8 @@
+streamlit
+pandas
+supabase
+better-profanity
+requests
+beautifulsoup4
+Pillow
+colorthief
